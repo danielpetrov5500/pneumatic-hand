@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiagnosticFileInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>PNOZmultiItemsDeviceNameText.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>PrioText.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>ConnectionPointActionText.xml</FileName>
+        <FileType>CP</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>SoftwareBlockTypesText.xml</FileName>
+        <FileType>SB</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>ScopeText.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>SoftwareBlockActionPacks.xml</FileName>
+        <FileType>SB</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>ResponsibilityList.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>PrioList.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>ConnectionPointErrorText.xml</FileName>
+        <FileType>CP</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>ScopeList.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>SoftwareBlockTypes.xml</FileName>
+        <FileType>SB</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>ConnectionPointActionPacks.xml</FileName>
+        <FileType>CP</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>ResponsibilityText.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>PNOZmultiItemsEquipDescText.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>SoftwareBlockActionText.xml</FileName>
+        <FileType>SB</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>ConnectionPointTypesText.xml</FileName>
+        <FileType>CP</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>PNOZmultiItems.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>PNOZmultiItemsEquipIDText.xml</FileName>
+        <FileType>PROJECT</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>ConnectionPointTypes.xml</FileName>
+        <FileType>CP</FileType>
+    </FileVersionInfo>
+    <FileVersionInfo>
+        <Version>2023-04-28 07:18:02</Version>
+        <ModifiedDate>2025-04-04T21:11:41.919+03:00</ModifiedDate>
+        <FileName>SoftwareBlockErrorText.xml</FileName>
+        <FileType>SB</FileType>
+    </FileVersionInfo>
+</DiagnosticFileInfo>

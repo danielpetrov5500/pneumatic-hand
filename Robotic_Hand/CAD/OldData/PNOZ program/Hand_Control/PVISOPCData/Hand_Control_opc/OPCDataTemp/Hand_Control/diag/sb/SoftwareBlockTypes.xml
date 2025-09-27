@@ -1,0 +1,4047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTWAREBLOCK_TYPES FILE_STRUCT_VERSION="1"
+    FILE_EXPORT_VERSION="2023-04-28 07:18:02" PROJECT_ID="Hand_Control">
+    <BASE_TYPE id="SBTY_E_Stop">
+        <INSTANCE id="SBTY0_E_Stop">
+            <SYMBOL idref="SBTT0"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_0"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_0"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_1"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_1"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_2"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_2"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_3"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_3"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_User_Defined_Element">
+        <INSTANCE id="SBTY0_User_Defined_Element">
+            <SYMBOL idref="SBTT1"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_4"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_4"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_5"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_5"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_6"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_6"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_7"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_7"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_8"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_8"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Safety_Gate">
+        <INSTANCE id="SBTY0_Safety_Gate">
+            <SYMBOL idref="SBTT2"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_9"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_9"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_10"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_10"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_11"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_11"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_12"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_12"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_13"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_13"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Enable_Switch">
+        <INSTANCE id="SBTY0_Enable_Switch">
+            <SYMBOL idref="SBTT3"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_14"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_14"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_15"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_15"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Light_Curtain">
+        <INSTANCE id="SBTY0_Light_Curtain">
+            <SYMBOL idref="SBTT4"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_16"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_16"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_17"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_17"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_18"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_18"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_19"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_19"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_20"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_20"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_TwoHand_Button">
+        <INSTANCE id="SBTY0_TwoHand_Button">
+            <SYMBOL idref="SBTT5"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_21"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_21"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_22"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_22"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_23"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_23"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Operating_Mode_Selector_Switch">
+        <INSTANCE id="SBTY0_Operating_Mode_Selector_Switch">
+            <SYMBOL idref="SBTT6"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_24"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_24"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_25"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_25"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Safety_Gate_Interlock">
+        <INSTANCE id="SBTY0_Safety_Gate_Interlock">
+            <SYMBOL idref="SBTT7"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_26"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_26"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_27"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_27"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_28"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_28"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_29"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_29"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_30"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_30"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Foot_Switch">
+        <INSTANCE id="SBTY0_Foot_Switch">
+            <SYMBOL idref="SBTT8"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_31"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_31"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_32"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_32"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_33"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_33"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_34"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_34"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Safety_Semiconductor_Output_Feedback_Loop">
+        <INSTANCE id="SBTY0_Safety_Semiconductor_Output_Feedback_Loop">
+            <SYMBOL idref="SBTT9"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_35"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_35"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_SIL_KAT4__Safety_Semiconductor_Output_Feedback_Loop_N">
+        <INSTANCE id="SBTY0_SIL_KAT4__Safety_Semiconductor_Output_Feedback_Loop_N">
+            <SYMBOL idref="SBTT10"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_36"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_36"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Relay_Output_Feedback_Loop">
+        <INSTANCE id="SBTY0_Relay_Output_Feedback_Loop">
+            <SYMBOL idref="SBTT11"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_37"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_37"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Cascading_Output">
+        <INSTANCE id="SBTY0_Cascading_Output">
+            <SYMBOL idref="SBTT12"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_38"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_38"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Cascading_Input">
+        <INSTANCE id="SBTY0_Cascading_Input">
+            <SYMBOL idref="SBTT13"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_39"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_39"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Safety_Mat">
+        <INSTANCE id="SBTY0_Safety_Mat">
+            <SYMBOL idref="SBTT14"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_40"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_40"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_41"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_41"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_42"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_42"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_RS_FlipFlop">
+        <INSTANCE id="SBTY0_RS_FlipFlop">
+            <SYMBOL idref="SBTT15"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_43"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_43"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_44"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_44"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Speed_Monitor">
+        <INSTANCE id="SBTY0_Speed_Monitor">
+            <SYMBOL idref="SBTT16"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_45"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_45"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_46"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_46"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_47"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_47"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Speed_Monitor_2_A">
+        <INSTANCE id="SBTY0_Speed_Monitor_2_A">
+            <SYMBOL idref="SBTT17"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_48"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_48"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_49"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_49"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_50"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_50"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_51"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_51"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_52"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_52"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Speed_Monitor_2_B">
+        <INSTANCE id="SBTY0_Speed_Monitor_2_B">
+            <SYMBOL idref="SBTT18"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_53"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_53"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_54"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_54"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_55"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_55"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_56"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_56"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_57"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_57"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_58"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_58"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Speed_Monitor_2_C">
+        <INSTANCE id="SBTY0_Speed_Monitor_2_C">
+            <SYMBOL idref="SBTT19"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_59"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_59"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_60"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_60"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_61"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_61"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_62"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_62"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_63"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_63"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_64"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_64"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_65"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_65"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_66"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_66"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Speed_Monitor_ms3p">
+        <INSTANCE id="SBTY0_Speed_Monitor_ms3p">
+            <SYMBOL idref="SBTT20"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_67"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_67"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_68"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_68"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_69"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_69"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_70"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_70"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_71"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_71"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_72"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_72"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_73"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_73"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Speed_Monitor_ms4p">
+        <INSTANCE id="SBTY0_Speed_Monitor_ms4p">
+            <SYMBOL idref="SBTT21"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_74"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_74"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_75"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_75"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_76"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_76"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_77"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_77"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_78"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_78"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_79"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_79"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_80"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_80"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_81"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_81"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Reset_Element">
+        <INSTANCE id="SBTY0_Reset_Element">
+            <SYMBOL idref="SBTT22"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_82"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_82"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_83"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_83"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Forward_Backward_Module">
+        <INSTANCE id="SBTY0_Forward_Backward_Module">
+            <SYMBOL idref="SBTT23"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_84"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_84"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_85"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_85"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_86"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_86"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_87"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_87"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_88"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_88"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_89"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_89"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_90"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_90"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_91"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_91"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_92"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_92"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_93"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_93"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_94"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_94"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_95"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_95"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_96"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_96"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_97"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_97"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_98"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_98"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_99"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_99"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Press_Setup">
+        <INSTANCE id="SBTY0_Press_Setup">
+            <SYMBOL idref="SBTT24"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_100"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_100"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_101"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_101"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_102"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_102"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_103"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_103"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_104"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_104"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Press_Single_Stroke">
+        <INSTANCE id="SBTY0_Press_Single_Stroke">
+            <SYMBOL idref="SBTT25"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_105"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_105"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_106"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_106"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_107"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_107"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_108"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_108"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_109"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_109"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_110"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_110"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_111"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_111"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Press_Automatic_Mode">
+        <INSTANCE id="SBTY0_Press_Automatic_Mode">
+            <SYMBOL idref="SBTT26"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_112"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_112"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_113"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_113"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_114"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_114"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_115"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_115"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_116"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_116"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_117"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_117"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Rotary_Cam_Arrangement_Monitoring">
+        <INSTANCE id="SBTY0_Rotary_Cam_Arrangement_Monitoring">
+            <SYMBOL idref="SBTT27"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_118"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_118"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_119"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_119"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_120"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_120"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_121"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_121"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_122"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_122"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_123"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_123"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Rotary_Cam_Arrangement_Run_Monitoring">
+        <INSTANCE id="SBTY0_Rotary_Cam_Arrangement_Run_Monitoring">
+            <SYMBOL idref="SBTT28"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_124"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_124"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_125"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_125"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_126"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_126"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Pulse_Mode_Light_Curtain">
+        <INSTANCE id="SBTY0_Pulse_Mode_Light_Curtain">
+            <SYMBOL idref="SBTT29"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_127"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_127"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_128"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_128"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Single_Valve">
+        <INSTANCE id="SBTY0_Single_Valve">
+            <SYMBOL idref="SBTT30"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_129"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_129"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_130"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_130"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_131"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_131"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_132"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_132"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_133"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_133"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_134"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_134"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Double_Valve">
+        <INSTANCE id="SBTY0_Double_Valve">
+            <SYMBOL idref="SBTT31"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_135"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_135"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_136"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_136"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_137"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_137"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_138"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_138"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_139"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_139"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_140"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_140"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Bidirectional_Valve">
+        <INSTANCE id="SBTY0_Bidirectional_Valve">
+            <SYMBOL idref="SBTT32"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_141"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_141"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_142"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_142"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_143"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_143"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_144"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_144"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_145"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_145"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_146"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_146"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_147"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_147"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Parallel_Muting">
+        <INSTANCE id="SBTY0_Parallel_Muting">
+            <SYMBOL idref="SBTT33"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_148"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_148"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_149"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_149"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_150"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_150"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_151"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_151"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_152"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_152"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_153"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_153"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Sequential_Muting">
+        <INSTANCE id="SBTY0_Sequential_Muting">
+            <SYMBOL idref="SBTT34"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_154"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_154"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_155"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_155"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_156"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_156"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_157"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_157"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_158"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_158"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_159"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_159"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Cross_Muting">
+        <INSTANCE id="SBTY0_Cross_Muting">
+            <SYMBOL idref="SBTT35"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_160"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_160"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_161"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_161"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_162"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_162"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_163"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_163"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_164"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_164"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Collective_Diagnostic">
+        <INSTANCE id="SBTY0_Collective_Diagnostic">
+            <SYMBOL idref="SBTT36"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_165"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_165"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_166"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_166"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_167"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_167"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_168"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_168"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_169"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_169"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Link_Module">
+        <INSTANCE id="SBTY0_Link_Module">
+            <SYMBOL idref="SBTT37"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_170"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_170"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_171"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_171"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_IOBus_Status_Module">
+        <INSTANCE id="SBTY0_IOBus_Status_Module">
+            <SYMBOL idref="SBTT38"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_172"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_172"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_173"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_173"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_174"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_174"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_175"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_175"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_176"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_176"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_177"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_177"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_178"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_178"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_179"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_179"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_180"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_180"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_181"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_181"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_182"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_182"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_SEC">
+        <INSTANCE id="SBTY0_SEC">
+            <SYMBOL idref="SBTT39"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_183"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_183"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_184"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_184"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_185"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_185"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_186"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_186"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Analogue_Module">
+        <INSTANCE id="SBTY0_Analogue_Module">
+            <SYMBOL idref="SBTT40"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_187"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_187"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_188"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_188"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Burner1">
+        <INSTANCE id="SBTY0_Burner1">
+            <SYMBOL idref="SBTT41"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_189"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_189"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_190"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_190"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_191"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_191"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_192"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_192"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_193"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_193"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_194"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_194"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_195"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_195"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_196"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_196"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_197"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_197"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_198"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_198"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_199"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_199"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_200"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_200"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Burner2">
+        <INSTANCE id="SBTY0_Burner2">
+            <SYMBOL idref="SBTT42"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_201"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_201"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_202"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_202"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_203"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_203"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_204"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_204"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_205"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_205"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_206"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_206"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_207"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_207"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_208"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_208"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_209"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_209"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_210"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_210"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_211"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_211"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_212"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_212"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_213"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_213"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_214"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_214"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_215"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_215"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_216"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_216"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Burner3">
+        <INSTANCE id="SBTY0_Burner3">
+            <SYMBOL idref="SBTT43"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_217"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_217"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_218"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_218"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_219"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_219"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_220"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_220"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_221"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_221"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_222"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_222"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_223"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_223"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_224"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_224"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_225"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_225"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_226"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_226"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_227"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_227"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_228"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_228"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_229"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_229"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_230"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_230"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_231"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_231"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_232"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_232"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Macro">
+        <INSTANCE id="SBTY0_Macro">
+            <SYMBOL idref="SBTT44"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_233"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_233"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_234"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_234"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_235"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_235"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_236"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_236"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_237"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_237"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_238"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_238"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_239"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_239"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_240"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_240"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_241"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_241"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_242"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_242"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_243"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_243"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_244"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_244"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_245"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_245"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_246"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_246"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_247"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_247"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_248"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_248"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_PSEN_cs1_19n_DIAG">
+        <INSTANCE id="SBTY0_PSEN_cs1_19n_DIAG">
+            <SYMBOL idref="SBTT45"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_249"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_249"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_250"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_250"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_251"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_251"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_252"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_252"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_253"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_253"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_254"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_254"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_255"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_255"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_256"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_256"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitor">
+        <INSTANCE id="SBTY0_Motion_Monitor">
+            <SYMBOL idref="SBTT46"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_257"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_257"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_258"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_258"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_259"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_259"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_260"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_260"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_261"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_261"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_262"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_262"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_263"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_263"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_264"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_264"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_265"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_265"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_266"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_266"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_267"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_267"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_268"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_268"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_269"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_269"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_270"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_270"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_Element">
+        <INSTANCE id="SBTY0_Motion_Monitoring_Element">
+            <SYMBOL idref="SBTT47"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_271"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_271"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_272"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_272"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_273"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_273"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_274"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_274"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_275"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_275"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_276"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_276"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SDI">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SDI">
+            <SYMBOL idref="SBTT48"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_277"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_277"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_278"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_278"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_279"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_279"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SOS">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SOS">
+            <SYMBOL idref="SBTT49"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_280"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_280"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_281"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_281"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_282"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_282"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SSM">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SSM">
+            <SYMBOL idref="SBTT50"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_283"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_283"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_284"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_284"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_285"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_285"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_286"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_286"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_287"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_287"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_288"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_288"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SS1">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SS1">
+            <SYMBOL idref="SBTT51"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_289"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_289"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_290"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_290"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_291"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_291"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_292"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_292"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_293"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_293"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_294"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_294"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SS2">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SS2">
+            <SYMBOL idref="SBTT52"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_295"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_295"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_296"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_296"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_297"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_297"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_298"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_298"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_299"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_299"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_300"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_300"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_301"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_301"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_302"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_302"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SSR">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SSR">
+            <SYMBOL idref="SBTT53"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_303"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_303"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_304"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_304"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_305"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_305"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_306"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_306"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_307"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_307"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Device_Program_Diag_1">
+        <INSTANCE id="SBTY0_Device_Program_Diag_1">
+            <SYMBOL idref="SBTT54"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_308"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_308"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_309"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_309"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_310"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_310"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_311"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_311"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_312"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_312"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_313"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_313"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_314"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_314"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_315"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_315"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_316"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_316"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_317"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_317"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_318"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_318"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_319"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_319"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_320"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_320"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_321"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_321"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_322"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_322"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_323"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_323"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Device_Program_Diag_2">
+        <INSTANCE id="SBTY0_Device_Program_Diag_2">
+            <SYMBOL idref="SBTT55"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_324"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_324"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_325"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_325"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_326"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_326"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_327"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_327"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_328"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_328"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_329"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_329"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_330"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_330"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_331"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_331"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_332"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_332"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_333"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_333"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_334"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_334"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="2048">
+                    <ERR_TEXT idref="ERT0002_335"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2048</STATUS>
+                    <APK idref="APK0002_335"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4096">
+                    <ERR_TEXT idref="ERT0002_336"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4096</STATUS>
+                    <APK idref="APK0002_336"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_337"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_337"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_338"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_338"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_339"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_339"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SLA">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SLA">
+            <SYMBOL idref="SBTT56"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_340"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_340"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_341"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_341"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_342"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_342"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_343"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_343"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_344"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_344"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SAR">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SAR">
+            <SYMBOL idref="SBTT57"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_345"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_345"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_346"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_346"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_347"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_347"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_348"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_348"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_349"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_349"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_350"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_350"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SSC">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SSC">
+            <SYMBOL idref="SBTT58"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_351"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_351"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_352"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_352"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_353"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_353"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SPC">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SPC">
+            <SYMBOL idref="SBTT59"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_354"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_354"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_355"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_355"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_356"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_356"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SPR">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SPR">
+            <SYMBOL idref="SBTT60"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_357"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_357"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_358"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_358"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_359"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_359"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Motion_Monitoring_SPM">
+        <INSTANCE id="SBTY0_Motion_Monitoring_SPM">
+            <SYMBOL idref="SBTT61"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_360"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_360"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_361"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_361"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_362"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_362"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_SafetyNETp">
+        <INSTANCE id="SBTY0_SafetyNETp">
+            <SYMBOL idref="SBTT62"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_363"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_363"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Analogue_Input_Multi2">
+        <INSTANCE id="SBTY0_Analogue_Input_Multi2">
+            <SYMBOL idref="SBTT63"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_364"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_364"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_365"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_365"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_366"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_366"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_367"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_367"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="64">
+                    <ERR_TEXT idref="ERT0002_368"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>64</STATUS>
+                    <APK idref="APK0002_368"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_369"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_369"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_370"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_370"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_371"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_371"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_372"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_372"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Analogue_Scaling_Multi2">
+        <INSTANCE id="SBTY0_Analogue_Scaling_Multi2">
+            <SYMBOL idref="SBTT64"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_373"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_373"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_374"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_374"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Analogue_Range_Multi2">
+        <INSTANCE id="SBTY0_Analogue_Range_Multi2">
+            <SYMBOL idref="SBTT65"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_375"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_375"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_376"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_376"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Analogue_Limit_Multi2">
+        <INSTANCE id="SBTY0_Analogue_Limit_Multi2">
+            <SYMBOL idref="SBTT66"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_377"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_377"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Analogue_Plausibility_Multi2">
+        <INSTANCE id="SBTY0_Analogue_Plausibility_Multi2">
+            <SYMBOL idref="SBTT67"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_378"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_378"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_379"/>
+                    <PRIO idref="PRI0001_3"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_379"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_380"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_380"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_381"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_381"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Analogue_Math_Multi2">
+        <INSTANCE id="SBTY0_Analogue_Math_Multi2">
+            <SYMBOL idref="SBTT68"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_382"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_382"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_383"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_383"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_PITreader_Authorisation">
+        <INSTANCE id="SBTY0_PITreader_Authorisation">
+            <SYMBOL idref="SBTT69"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_384"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_384"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_385"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_385"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_386"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_386"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Cascading_Motion">
+        <INSTANCE id="SBTY0_Cascading_Motion">
+            <SYMBOL idref="SBTT70"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_387"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_387"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_388"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_388"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_389"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_389"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_390"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_390"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_MSO_flex_visu_1">
+        <INSTANCE id="SBTY0_MSO_flex_visu_1">
+            <SYMBOL idref="SBTT71"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_391"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_391"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_392"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_392"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_393"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_393"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_394"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_394"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_395"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_395"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_396"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_396"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_MSO_flex_visu_2"/>
+    <BASE_TYPE id="SBTY_MSO_flex_1">
+        <INSTANCE id="SBTY0_MSO_flex_1">
+            <SYMBOL idref="SBTT72"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_397"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_397"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_398"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_398"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8192">
+                    <ERR_TEXT idref="ERT0002_399"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8192</STATUS>
+                    <APK idref="APK0002_399"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_400"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_400"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_401"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_401"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_MSO_flex_2"/>
+    <BASE_TYPE id="SBTY_L_Muting">
+        <INSTANCE id="SBTY0_L_Muting">
+            <SYMBOL idref="SBTT73"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_402"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_402"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_403"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_403"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_404"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_404"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_405"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_405"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_406"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_406"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_407"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_407"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Coder">
+        <INSTANCE id="SBTY0_Coder">
+            <SYMBOL idref="SBTT74"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_408"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_408"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Decoder">
+        <INSTANCE id="SBTY0_Decoder">
+            <SYMBOL idref="SBTT75"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="1">
+                    <ERR_TEXT idref="ERT0002_409"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1</STATUS>
+                    <APK idref="APK0002_409"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_PSENmlock">
+        <INSTANCE id="SBTY0_PSENmlock">
+            <SYMBOL idref="SBTT76"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="2">
+                    <ERR_TEXT idref="ERT0002_410"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>2</STATUS>
+                    <APK idref="APK0002_410"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16">
+                    <ERR_TEXT idref="ERT0002_411"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16</STATUS>
+                    <APK idref="APK0002_411"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_MSO_flex_LED_1"/>
+    <BASE_TYPE id="SBTY_MSO_flex_LED_2"/>
+    <BASE_TYPE id="SBTY_Analogue_DIFF_Multi2">
+        <INSTANCE id="SBTY0_Analogue_DIFF_Multi2">
+            <SYMBOL idref="SBTT77"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="256">
+                    <ERR_TEXT idref="ERT0002_412"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>256</STATUS>
+                    <APK idref="APK0002_412"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_413"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_2"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_413"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Analogue_RAMP_Multi2">
+        <INSTANCE id="SBTY0_Analogue_RAMP_Multi2">
+            <SYMBOL idref="SBTT78"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_414"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_414"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_415"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_415"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Key_in_Pocket_1">
+        <INSTANCE id="SBTY0_Key_in_Pocket_1">
+            <SYMBOL idref="SBTT79"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="8">
+                    <ERR_TEXT idref="ERT0002_416"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>8</STATUS>
+                    <APK idref="APK0002_416"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="128">
+                    <ERR_TEXT idref="ERT0002_417"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>128</STATUS>
+                    <APK idref="APK0002_417"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_418"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_418"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_419"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_419"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_420"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_420"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_421"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_421"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Key_in_Pocket_2"/>
+    <BASE_TYPE id="SBTY_Blind_spot_check">
+        <INSTANCE id="SBTY0_Blind_spot_check">
+            <SYMBOL idref="SBTT80"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_422"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_422"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_423"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_423"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_424"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_424"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_425"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_425"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Key_list_reset">
+        <INSTANCE id="SBTY0_Key_list_reset">
+            <SYMBOL idref="SBTT81"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="512">
+                    <ERR_TEXT idref="ERT0002_426"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>512</STATUS>
+                    <APK idref="APK0002_426"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="1024">
+                    <ERR_TEXT idref="ERT0002_427"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>1024</STATUS>
+                    <APK idref="APK0002_427"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="16384">
+                    <ERR_TEXT idref="ERT0002_428"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>16384</STATUS>
+                    <APK idref="APK0002_428"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="-32768">
+                    <ERR_TEXT idref="ERT0002_429"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>-32768</STATUS>
+                    <APK idref="APK0002_429"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Laser_Scanner_1">
+        <INSTANCE id="SBTY0_Laser_Scanner_1">
+            <SYMBOL idref="SBTT82"/>
+            <SBBITS>
+                <SBBIT mask="-1" value="4">
+                    <ERR_TEXT idref="ERT0002_430"/>
+                    <PRIO idref="PRI0001_4"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>4</STATUS>
+                    <APK idref="APK0002_430"/>
+                </SBBIT>
+                <SBBIT mask="-1" value="32">
+                    <ERR_TEXT idref="ERT0002_431"/>
+                    <PRIO idref="PRI0001_2"/>
+                    <SCOPE idref="RAN0001_3"/>
+                    <LOCATION>_SBID</LOCATION>
+                    <STATUS>32</STATUS>
+                    <APK idref="APK0002_431"/>
+                </SBBIT>
+            </SBBITS>
+        </INSTANCE>
+    </BASE_TYPE>
+    <BASE_TYPE id="SBTY_Laser_Scanner_2"/>
+</SOFTWAREBLOCK_TYPES>

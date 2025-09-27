@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTWAREBLOCK_TYPES_TEXT FILE_STRUCT_VERSION="1"
+    FILE_EXPORT_VERSION="2023-04-28 07:18:02" PROJECT_ID="Hand_Test_1">
+    <TEXT id="SBTT0">
+        <EN_TEXT>E-STOP</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT1">
+        <EN_TEXT>User Defined Element</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT2">
+        <EN_TEXT>Safety Gate</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT3">
+        <EN_TEXT>Enable Switch</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT4">
+        <EN_TEXT>Light Curtain</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT5">
+        <EN_TEXT>Two-Hand Button</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT6">
+        <EN_TEXT>Operating Mode Selector Switch</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT7">
+        <EN_TEXT>Safety Gate with Interlock</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT8">
+        <EN_TEXT>Foot Switch</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT9">
+        <EN_TEXT>Safety Semiconductor Output with Feedback Loop</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT10">
+        <EN_TEXT>Output with advanced fault detection</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT11">
+        <EN_TEXT>Relay Output with Feedback Loop</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT12">
+        <EN_TEXT>Cascading Output</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT13">
+        <EN_TEXT>Cascading Input</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT14">
+        <EN_TEXT>Safety Mat</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT15">
+        <EN_TEXT>RS Flip-Flop</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT16">
+        <EN_TEXT>Speed monitor (ms1p/ms2p &lt;= V1.9)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT17">
+        <EN_TEXT>Speed monitor (prox., ms1p/ms2p &gt;=V2.0)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT18">
+        <EN_TEXT>Speed monitor (incr., ms1p/ms2p &gt;=V2.0)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT19">
+        <EN_TEXT>Speed monitor (p.+ i., ms1p/ms2p &gt;=V2.0)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT20">
+        <EN_TEXT>Speed monitor (ms3p)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT21">
+        <EN_TEXT>Speed monitor (ms4p)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT22">
+        <EN_TEXT>Reset Element</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT23">
+        <EN_TEXT>Counter value</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT24">
+        <EN_TEXT>Press: Setup</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT25">
+        <EN_TEXT>Press: Single-Stroke</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT26">
+        <EN_TEXT>Press: Automatic Mode</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT27">
+        <EN_TEXT>Rotary Cam Arrangement: Monitoring</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT28">
+        <EN_TEXT>Rotary Cam Arrangement: Run Monitoring</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT29">
+        <EN_TEXT>Pulse Mode for Light Curtain</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT30">
+        <EN_TEXT>Single Valve</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT31">
+        <EN_TEXT>Double Valve</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT32">
+        <EN_TEXT>Bidirectional Valve</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT33">
+        <EN_TEXT>Parallel Muting</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT34">
+        <EN_TEXT>Sequential Muting</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT35">
+        <EN_TEXT>Cross Muting</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT36">
+        <EN_TEXT>Group diagnostic message</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT37">
+        <EN_TEXT>Link module</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT38">
+        <EN_TEXT>Communication with decentralised modules</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT39">
+        <EN_TEXT>SEC</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT40">
+        <EN_TEXT>Analogue input module</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT41">
+        <EN_TEXT>Burner part 1</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT42">
+        <EN_TEXT>Burner part 2</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT43">
+        <EN_TEXT>Burner part 3</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT44">
+        <EN_TEXT>Macro</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT45">
+        <EN_TEXT>PSEN cs1.19n</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT46">
+        <EN_TEXT>Motion Monitoring (PNOZ m EF 1/2MM)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT47">
+        <EN_TEXT>Motion monitoring element</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT48">
+        <EN_TEXT>Motion monitoring SDI</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT49">
+        <EN_TEXT>Motion monitoring SOS</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT50">
+        <EN_TEXT>Motion monitoring SSM</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT51">
+        <EN_TEXT>Motion monitoring SS1</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT52">
+        <EN_TEXT>Motion monitoring SS2</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT53">
+        <EN_TEXT>Motion monitoring SSR</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT54">
+        <EN_TEXT>Diagnose Module program Part 1</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT55">
+        <EN_TEXT>Diagnose Module program Part 2</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT56">
+        <EN_TEXT>Motion Monitoring SLA</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT57">
+        <EN_TEXT>Motion Monitoring_SAR</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT58">
+        <EN_TEXT>Motion monitoring SSC</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT59">
+        <EN_TEXT>Motion monitoring SPC</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT60">
+        <EN_TEXT>Motion monitoring SPR</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT61">
+        <EN_TEXT>Motion monitoring SPM</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT62">
+        <EN_TEXT>SafetyNETp</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT63">
+        <EN_TEXT>Analogue input (Multi2)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT64">
+        <EN_TEXT>Scaling (Multi2)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT65">
+        <EN_TEXT>Range monitoring (Multi2)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT66">
+        <EN_TEXT>Threshold value monitoring (Multi2)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT67">
+        <EN_TEXT>Plausibility (Multi2)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT68">
+        <EN_TEXT>Analogue input mathematical operations (Multi2)</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT69">
+        <EN_TEXT>PITreader authorisation</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT70">
+        <EN_TEXT>Cascading Motion Monitoring</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT71">
+        <EN_TEXT>MSO flex visu part 1</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT72">
+        <EN_TEXT>MSO flex part 1</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT73">
+        <EN_TEXT>L-Muting</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT74">
+        <EN_TEXT>Binary encoder</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT75">
+        <EN_TEXT>Binary decoder</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT76">
+        <EN_TEXT>PSENmlock</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT77">
+        <EN_TEXT>Differential</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT78">
+        <EN_TEXT>Ramp monitoring</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT79">
+        <EN_TEXT>Key-in-pocket part 1</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT80">
+        <EN_TEXT>Blind spot check</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT81">
+        <EN_TEXT>Key-in-pocket list</EN_TEXT>
+    </TEXT>
+    <TEXT id="SBTT82">
+        <EN_TEXT>Laser scanner part 1</EN_TEXT>
+    </TEXT>
+</SOFTWAREBLOCK_TYPES_TEXT>

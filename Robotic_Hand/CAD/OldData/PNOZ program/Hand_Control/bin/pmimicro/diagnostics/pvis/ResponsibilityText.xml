@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSIBILITY_TEXT FILE_STRUCT_VERSION="1"
+    FILE_EXPORT_VERSION="2023-04-28 07:18:02" PROJECT_ID="Hand_Control">
+    <TEXT id="RES0001_2">
+        <DEV_TEXT>Schutzeinrichtung</DEV_TEXT>
+        <EN_TEXT>Safety device</EN_TEXT>
+    </TEXT>
+    <TEXT id="RES0001_3">
+        <DEV_TEXT>Peripherie</DEV_TEXT>
+        <EN_TEXT>Periphery</EN_TEXT>
+    </TEXT>
+    <TEXT id="RES0001_4">
+        <DEV_TEXT>Gerätefehlfunktion</DEV_TEXT>
+        <EN_TEXT>Device malfunction</EN_TEXT>
+    </TEXT>
+    <TEXT id="RES0001_6">
+        <DEV_TEXT>Projektierung</DEV_TEXT>
+        <EN_TEXT>Project configuration</EN_TEXT>
+    </TEXT>
+    <TEXT id="RES0001_7">
+        <DEV_TEXT>Bus</DEV_TEXT>
+        <EN_TEXT>Bus</EN_TEXT>
+    </TEXT>
+    <TEXT id="RES0001_8">
+        <DEV_TEXT>---</DEV_TEXT>
+        <EN_TEXT>---</EN_TEXT>
+    </TEXT>
+    <TEXT id="RES0001_9">
+        <DEV_TEXT>Ablauf</DEV_TEXT>
+        <EN_TEXT>Sequence</EN_TEXT>
+    </TEXT>
+</RESPONSIBILITY_TEXT>

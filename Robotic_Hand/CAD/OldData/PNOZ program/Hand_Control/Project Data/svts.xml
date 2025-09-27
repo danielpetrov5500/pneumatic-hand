@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MpnozProjectLangSave active-language="en" projectname="Hand_Control"
+    crc="12272" version="v11.3.1" isProjectImmutable="false">
+    <BaseTypes/>
+    <LanguageSet>
+        <Language projectLanguage="en" diagnosticLanguage="en"/>
+    </LanguageSet>
+    <Priorities>
+        <SaveTextEntry type="3" id="E100001"/>
+        <SaveTextEntry type="8" id="E100002"/>
+        <SaveTextEntry type="13" id="E100003"/>
+    </Priorities>
+    <Responsibilities>
+        <SaveTextEntry type="1" id="E100007"/>
+        <SaveTextEntry type="2" id="E100008"/>
+        <SaveTextEntry type="3" id="E100009"/>
+        <SaveTextEntry type="4" id="E100011"/>
+        <SaveTextEntry type="5" id="E100012"/>
+        <SaveTextEntry type="6" id="E100006"/>
+        <SaveTextEntry type="7" id="E100014"/>
+    </Responsibilities>
+    <Scopes>
+        <SaveTextEntry type="1" id="E100004"/>
+        <SaveTextEntry type="2" id="E100005"/>
+        <SaveTextEntry type="3" id="E100006"/>
+    </Scopes>
+    <Project>
+        <LocationDescriptions>
+            <HWLocationDesc>
+                <SaveTextEntry type="a1" id="-1"/>
+                <SaveTextEntry type="a2" id="-1"/>
+                <SaveTextEntry type="a3" id="-1"/>
+            </HWLocationDesc>
+            <IOLocationDesc>
+                <SaveTextEntry type="a2.i0" id="-1"/>
+            </IOLocationDesc>
+            <BlockLocationDesc>
+                <BlockLocDescSaveTextEntry x="1" y="0" id="-1"/>
+                <BlockLocDescSaveTextEntry x="1" y="1" id="-1"/>
+                <BlockLocDescSaveTextEntry x="2" y="0" id="-1"/>
+                <BlockLocDescSaveTextEntry x="6" y="0" id="-1"/>
+            </BlockLocationDesc>
+        </LocationDescriptions>
+        <Hardware>
+            <HwIoEntry type="a1" LocationDescKey="-1" EquipmentIdKey="-1"/>
+            <HwIoEntry type="a2" LocationDescKey="-1" EquipmentIdKey="-1"/>
+            <HwIoEntry type="a3" LocationDescKey="-1" EquipmentIdKey="-1"/>
+        </Hardware>
+        <IOs>
+            <HwIoEntry type="a2.i0" LocationDescKey="-1" EquipmentIdKey="C86520">
+                <ImmutableElement isImmutable="false" testPulse="-1"/>
+            </HwIoEntry>
+        </IOs>
+        <Blocks>
+            <GenericBlocks>
+                <BlockEntry pageNum="1" x="1" y="0" LocationDescKey="-1" EquipmentIdKey="-1"/>
+                <BlockEntry pageNum="1" x="1" y="1" LocationDescKey="-1" EquipmentIdKey="-1"/>
+                <BlockEntry pageNum="1" x="2" y="0" LocationDescKey="-1" EquipmentIdKey="-1"/>
+                <BlockEntry pageNum="1" x="6" y="0" LocationDescKey="-1" EquipmentIdKey="-1"/>
+            </GenericBlocks>
+            <AnalogBlocks/>
+            <SpeedMonitorBlocks/>
+            <DiagnosticPoints/>
+        </Blocks>
+        <ProjectTexts>
+            <Pages>
+                <PageElement PageNumber="1" PageNameKey="-1" PageCommentKey="-1"/>
+            </Pages>
+            <ProjectComment>
+                <SaveTextEntry type="Project_comment" id="-1"/>
+            </ProjectComment>
+        </ProjectTexts>
+        <UserMessages>
+            <UserMessageEntry MessageId="1" key="-1"/>
+            <UserMessageEntry MessageId="2" key="-1"/>
+            <UserMessageEntry MessageId="3" key="-1"/>
+            <UserMessageEntry MessageId="4" key="-1"/>
+            <UserMessageEntry MessageId="5" key="-1"/>
+            <UserMessageEntry MessageId="6" key="-1"/>
+            <UserMessageEntry MessageId="7" key="-1"/>
+            <UserMessageEntry MessageId="8" key="-1"/>
+            <UserMessageEntry MessageId="9" key="-1"/>
+            <UserMessageEntry MessageId="10" key="-1"/>
+            <UserMessageEntry MessageId="11" key="-1"/>
+            <UserMessageEntry MessageId="12" key="-1"/>
+            <UserMessageEntry MessageId="13" key="-1"/>
+            <UserMessageEntry MessageId="14" key="-1"/>
+            <UserMessageEntry MessageId="15" key="-1"/>
+            <UserMessageEntry MessageId="16" key="-1"/>
+            <UserMessageEntry MessageId="17" key="-1"/>
+            <UserMessageEntry MessageId="18" key="-1"/>
+            <UserMessageEntry MessageId="19" key="-1"/>
+            <UserMessageEntry MessageId="20" key="-1"/>
+        </UserMessages>
+        <Annotations/>
+    </Project>
+</MpnozProjectLangSave>

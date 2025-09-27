@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTWAREBLOCK_ERROR_TEXT FILE_STRUCT_VERSION="1"
+    FILE_EXPORT_VERSION="2023-04-28 07:18:02" PROJECT_ID="Iraq-TrafficControlSystem-mB1_08022023_v2">
+    <TEXT id="ERT0002_0">
+        <EN_TEXT>E-STOP pushbutton was operated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_1">
+        <EN_TEXT>E-STOP pushbutton is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_2">
+        <EN_TEXT>N/C contact 1 or 2 failed to switch or switched too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_3">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_4">
+        <EN_TEXT>Safety device was operated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_5">
+        <EN_TEXT>Safety device is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_6">
+        <EN_TEXT>Function test must be performed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_7">
+        <EN_TEXT>Error caused by safety device.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_8">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_9">
+        <EN_TEXT>Safety gate was opened.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_10">
+        <EN_TEXT>Safety gate is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_11">
+        <EN_TEXT>Function test must be performed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_12">
+        <EN_TEXT>N/C contact 1 or 2 failed to switch or switched too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_13">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_14">
+        <EN_TEXT>N/C contact 1 or 2 failed to switch or switched too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_15">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_16">
+        <EN_TEXT>Light curtain was interrupted.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_17">
+        <EN_TEXT>Light curtain is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_18">
+        <EN_TEXT>Function test must be performed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_19">
+        <EN_TEXT>N/C contact 1 or 2 failed to switch or switched too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_20">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_21">
+        <EN_TEXT>Pushbutton 1 or 2 was operated too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_22">
+        <EN_TEXT>Pushbutton 1 or 2 was not operated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_23">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_24">
+        <EN_TEXT>The input signals at the operating mode selector switch are faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_25">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_26">
+        <EN_TEXT>Safety gate was opened.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_27">
+        <EN_TEXT>Safety gate is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_28">
+        <EN_TEXT>Function test must be performed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_29">
+        <EN_TEXT>Error caused by safety gate or guard locking device.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_30">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_31">
+        <EN_TEXT>Foot switch is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_32">
+        <EN_TEXT>Function test must be performed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_33">
+        <EN_TEXT>N/C contact 1 or 2 failed to switch or switched too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_34">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_35">
+        <EN_TEXT>Feedback loop monitoring is registering an error.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_36">
+        <EN_TEXT>Feedback loop monitoring is registering an error.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_37">
+        <EN_TEXT>Feedback loop monitoring is registering an error.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_38">
+        <EN_TEXT>The signal at output CI is faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_39">
+        <EN_TEXT>The signal at input CI is faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_40">
+        <EN_TEXT>Safety mat is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_41">
+        <EN_TEXT>Start-up test must be performed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_42">
+        <EN_TEXT>Error caused by safety mat.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_43">
+        <EN_TEXT>Input S is ready to set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_44">
+        <EN_TEXT>There is a 1 signal at input R.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_45">
+        <EN_TEXT>Speed monitor is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_46">
+        <EN_TEXT>Cannot monitor the speed because no speed has been selected.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_47">
+        <EN_TEXT>Selected speed was exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_48">
+        <EN_TEXT>Speed monitor is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_49">
+        <EN_TEXT>Cannot monitor the speed because no speed has been selected.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_50">
+        <EN_TEXT>Selected speed was exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_51">
+        <EN_TEXT>No signal from the proximity switches.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_52">
+        <EN_TEXT>The proximity switches are measuring different speeds.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_53">
+        <EN_TEXT>Speed monitor is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_54">
+        <EN_TEXT>Cannot monitor the speed because no speed has been selected.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_55">
+        <EN_TEXT>Selected speed was exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_56">
+        <EN_TEXT>No signal from the incremental encoder.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_57">
+        <EN_TEXT>Different speeds have been measured for track A and track B.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_58">
+        <EN_TEXT>Cannot determine the direction of rotation.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_59">
+        <EN_TEXT>Speed monitor is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_60">
+        <EN_TEXT>Cannot monitor the speed because no speed has been selected.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_61">
+        <EN_TEXT>Selected speed was exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_62">
+        <EN_TEXT>No signal from the incremental encoder.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_63">
+        <EN_TEXT>Different speeds have been measured for track A and track B.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_64">
+        <EN_TEXT>Cannot determine the direction of rotation.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_65">
+        <EN_TEXT>The incremental encoder is signalling standstill and the proximity switch is signalling movement.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_66">
+        <EN_TEXT>The incremental encoder is signalling movement and the proximity switch is signalling standstill.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_67">
+        <EN_TEXT>Speed monitor is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_68">
+        <EN_TEXT>Cannot monitor the speed because no speed has been selected.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_69">
+        <EN_TEXT>Selected speed was exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_70">
+        <EN_TEXT>No signal from the incremental encoder.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_71">
+        <EN_TEXT>Implausible or single-channel signal from the incremental encoder.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_72">
+        <EN_TEXT>Cannot determine the direction of rotation.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_73">
+        <EN_TEXT>Speed monitoring is deactivated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_74">
+        <EN_TEXT>Speed monitor is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_75">
+        <EN_TEXT>New speed must be applied.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_76">
+        <EN_TEXT>Cannot monitor speed because the selected speed is not configured.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_77">
+        <EN_TEXT>Selected speed was exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_78">
+        <EN_TEXT>No signal from the incremental encoder.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_79">
+        <EN_TEXT>Implausible or single-channel signal from the incremental encoder.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_80">
+        <EN_TEXT>Cannot determine the direction of rotation.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_81">
+        <EN_TEXT>Speed monitoring is deactivated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_82">
+        <EN_TEXT>Reset button is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_83">
+        <EN_TEXT>Reset button is waiting for the input signal.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_84">
+        <EN_TEXT>Counter status: Bit 0 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_85">
+        <EN_TEXT>Counter status: Bit 1 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_86">
+        <EN_TEXT>Counter status: Bit 2 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_87">
+        <EN_TEXT>Counter status: Bit 3 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_88">
+        <EN_TEXT>Counter status: Bit 4 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_89">
+        <EN_TEXT>Counter status: Bit 5 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_90">
+        <EN_TEXT>Counter status: Bit 6 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_91">
+        <EN_TEXT>Counter status: Bit 7 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_92">
+        <EN_TEXT>Counter status: Bit 8 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_93">
+        <EN_TEXT>Counter status: Bit 9 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_94">
+        <EN_TEXT>Counter status: Bit 10 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_95">
+        <EN_TEXT>Counter status: Bit 11 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_96">
+        <EN_TEXT>Counter status: Bit 12 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_97">
+        <EN_TEXT>Counter status: Bit 13 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_98">
+        <EN_TEXT>Counter status: Bit 14 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_99">
+        <EN_TEXT>Counter status: Bit 15 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_100">
+        <EN_TEXT>"Set-up" mode is not active.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_101">
+        <EN_TEXT>Press is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_102">
+        <EN_TEXT>Cannot switch on because the start enable ("EN2") has not been triggered.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_103">
+        <EN_TEXT>Cannot switch on because the static enable ("EN1") has not been triggered.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_104">
+        <EN_TEXT>Press was stopped because the static enable ("EN1") is missing.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_105">
+        <EN_TEXT>"Single stroke" mode is not active.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_106">
+        <EN_TEXT>Press is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_107">
+        <EN_TEXT>Cannot switch on because the start enable ("EN2") has not been triggered.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_108">
+        <EN_TEXT>Cannot switch on because the static enable ("EN1") has not been triggered.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_109">
+        <EN_TEXT>Cannot switch on because the safety enable ("EN3") has not been triggered.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_110">
+        <EN_TEXT>Press was stopped because the static enable ("EN1") is missing.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_111">
+        <EN_TEXT>Safety enable ("EN3") is missing.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_112">
+        <EN_TEXT>"Automatic" mode is not active.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_113">
+        <EN_TEXT>Press is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_114">
+        <EN_TEXT>Cannot switch on because the start enable ("EN2") has not been triggered.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_115">
+        <EN_TEXT>Cannot switch on because the static enable ("EN1") has not been triggered.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_116">
+        <EN_TEXT>Press was stopped because the static enable ("EN1") is missing.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_117">
+        <EN_TEXT>Cannot switch on because the stop button has been operated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_118">
+        <EN_TEXT>Monitoring of the rotary cam arrangement is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_119">
+        <EN_TEXT>Overrun was exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_120">
+        <EN_TEXT>The run-up cam failed to switch off when the overrun cam was switched off.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_121">
+        <EN_TEXT>The run-up cam failed to switch on when the overrun cam was switched on.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_122">
+        <EN_TEXT>The overrun cam failed to switch off when the run-up cam was switched on.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_123">
+        <EN_TEXT>The overrun cam failed to switch on when the run-up cam was switched off.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_124">
+        <EN_TEXT>Run monitoring is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_125">
+        <EN_TEXT>Start-up time was exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_126">
+        <EN_TEXT>Shaft is broken.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_127">
+        <EN_TEXT>Enable must be performed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_128">
+        <EN_TEXT>Light curtain is ready for cycle mode.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_129">
+        <EN_TEXT>Valve is not being driven.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_130">
+        <EN_TEXT>Valve is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_131">
+        <EN_TEXT>Cannot switch on because, according to the feedback loop, the valve is already switched on.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_132">
+        <EN_TEXT>When the valve was switched on, the feedback loop failed to open or opened too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_133">
+        <EN_TEXT>When the valve was switched off, the feedback loop failed to close or closed too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_134">
+        <EN_TEXT>Error caused by valve or feedback loop.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_135">
+        <EN_TEXT>Valves are not being driven.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_136">
+        <EN_TEXT>Valve is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_137">
+        <EN_TEXT>Cannot switch on because, according to the feedback loop, at least one valve is already switched on.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_138">
+        <EN_TEXT>When the valves were switched on, at least one feedback loop failed to open or opened too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_139">
+        <EN_TEXT>When the valves were switched off, at least one feedback loop failed to close or closed too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_140">
+        <EN_TEXT>Error caused by valves or feedback loops.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_141">
+        <EN_TEXT>Valves are not being driven.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_142">
+        <EN_TEXT>Valve is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_143">
+        <EN_TEXT>Cannot switch on because, according to the feedback loop, the valve is already switched on.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_144">
+        <EN_TEXT>When one valve was switched on, the feedback loop failed to open or opened too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_145">
+        <EN_TEXT>When one valve was switched off, the feedback loop failed to close or closed too late.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_146">
+        <EN_TEXT>Error caused by valve or feedback loop.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_147">
+        <EN_TEXT>It is not possible to switch on or switch off both valves simultaneously.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_148">
+        <EN_TEXT>Optical safety device was triggered, although muting is inactive.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_149">
+        <EN_TEXT>Safety device is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_150">
+        <EN_TEXT>There is an object in the muting zone or the optical safety device is faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_151">
+        <EN_TEXT>An object passed through the muting zone too slowly.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_152">
+        <EN_TEXT>Error caused by muting sensor 1 and/or muting Sensor 2.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_153">
+        <EN_TEXT>Error caused by muting sensor 3 and/or muting Sensor 4.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_154">
+        <EN_TEXT>Optical safety device was triggered, although muting is inactive.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_155">
+        <EN_TEXT>Safety device is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_156">
+        <EN_TEXT>There is an object in the muting zone or the optical safety device is faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_157">
+        <EN_TEXT>An object passed through the muting zone too slowly.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_158">
+        <EN_TEXT>Error caused by muting sensor 1 and/or muting Sensor 2.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_159">
+        <EN_TEXT>Error caused by muting sensor 3 and/or muting Sensor 4.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_160">
+        <EN_TEXT>Optical safety device was triggered, although muting is inactive.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_161">
+        <EN_TEXT>Safety device is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_162">
+        <EN_TEXT>There is an object in the muting zone or the optical safety device is faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_163">
+        <EN_TEXT>An object passed through the muting zone too slowly.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_164">
+        <EN_TEXT>Error caused by muting sensor 1 and/or muting Sensor 2.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_165">
+        <EN_TEXT>Stored status of the first configured diagnostic bit available to the OR connection.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_166">
+        <EN_TEXT>Stored status of the second configured diagnostic bit available to the OR connection.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_167">
+        <EN_TEXT>Stored status of the third configured diagnostic bit available to the OR connection.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_168">
+        <EN_TEXT>Stored status of the fourth configured diagnostic bit available to the OR connection.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_169">
+        <EN_TEXT>Stored status of the fifth configured diagnostic bit available to the OR connection.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_170">
+        <EN_TEXT>Cannot establish a connection between the PNOZmulti systems.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_171">
+        <EN_TEXT>The PNOZmulti system on the opposite side is not ready for operation.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_172">
+        <EN_TEXT>Fault at the decentralised system.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_173">
+        <EN_TEXT>The supply voltage at the decentralised module is faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_174">
+        <EN_TEXT>The configuration of the decentralised modules is faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_175">
+        <EN_TEXT>The temperature at the decentralised module is too high.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_176">
+        <EN_TEXT>The output load at the decentralised module is high.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_177">
+        <EN_TEXT>The load current supply at the decentralised module is faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_178">
+        <EN_TEXT>Internal error at the decentralised module.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_179">
+        <EN_TEXT>Fault at the decentralised module on position 1.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_180">
+        <EN_TEXT>Fault at the decentralised module on position 2.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_181">
+        <EN_TEXT>Fault at the decentralised module on position 3.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_182">
+        <EN_TEXT>Fault at the decentralised module on position 4.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_183">
+        <EN_TEXT>Receive channel: Data corruption detected when data is received.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_184">
+        <EN_TEXT>Receive channel: Connection failure or timeout during connection monitoring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_185">
+        <EN_TEXT>Receive channel: Address conflict detected on receive.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_186">
+        <EN_TEXT>Send channel: No receive with communication partner.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_187">
+        <EN_TEXT>Tolerance between input I0 and I1 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_188">
+        <EN_TEXT>Range limit R4 has been violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_189">
+        <EN_TEXT>Burner is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_190">
+        <EN_TEXT>Stop (Signal = 1 during start-up test).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_191">
+        <EN_TEXT>Reset (Signal = 1 during start-up test).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_192">
+        <EN_TEXT>Safety chain 1 broken (CHA1).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_193">
+        <EN_TEXT>Safety chain 2 broken (CHA2).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_194">
+        <EN_TEXT>Ignition and operation safety chain broken (CHAi).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_195">
+        <EN_TEXT>Air pressure error (AirP).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_196">
+        <EN_TEXT>Flame error, main flame (FLAM).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_197">
+        <EN_TEXT>Flame error, ignition flame (FLAI).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_198">
+        <EN_TEXT>Error during compound controller to pre-purge position (PUR).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_199">
+        <EN_TEXT>Error during compound controller to ignition position (IGNI).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_200">
+        <EN_TEXT>Tightness control error.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_201">
+        <EN_TEXT>Step 0 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_202">
+        <EN_TEXT>Step 1 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_203">
+        <EN_TEXT>Step 2 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_204">
+        <EN_TEXT>Step 3 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_205">
+        <EN_TEXT>Step 4 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_206">
+        <EN_TEXT>Step 5 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_207">
+        <EN_TEXT>Step 6 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_208">
+        <EN_TEXT>Step 7 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_209">
+        <EN_TEXT>Step 8 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_210">
+        <EN_TEXT>Step 9 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_211">
+        <EN_TEXT>Step 10 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_212">
+        <EN_TEXT>Step 11 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_213">
+        <EN_TEXT>Step 12 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_214">
+        <EN_TEXT>Step 13 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_215">
+        <EN_TEXT>Step 14 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_216">
+        <EN_TEXT>Step 15 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_217">
+        <EN_TEXT>Step 16 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_218">
+        <EN_TEXT>Step 17 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_219">
+        <EN_TEXT>Step 18 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_220">
+        <EN_TEXT>Step 19 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_221">
+        <EN_TEXT>Step 20 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_222">
+        <EN_TEXT>Step 21 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_223">
+        <EN_TEXT>Step 22 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_224">
+        <EN_TEXT>Step 23 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_225">
+        <EN_TEXT>Step 24 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_226">
+        <EN_TEXT>Step 25 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_227">
+        <EN_TEXT>Step 26 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_228">
+        <EN_TEXT>Step 27 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_229">
+        <EN_TEXT>Step 28 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_230">
+        <EN_TEXT>Step 29 enabled.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_231">
+        <EN_TEXT>Safety lockout has been implemented.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_232">
+        <EN_TEXT>Fault lockout has been implemented.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_233">
+        <EN_TEXT>Macro: Bit 0 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_234">
+        <EN_TEXT>Macro: Bit 1 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_235">
+        <EN_TEXT>Macro: Bit 2 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_236">
+        <EN_TEXT>Macro: Bit 3 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_237">
+        <EN_TEXT>Macro: Bit 4 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_238">
+        <EN_TEXT>Macro: Bit 5 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_239">
+        <EN_TEXT>Macro: Bit 6 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_240">
+        <EN_TEXT>Macro: Bit 7 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_241">
+        <EN_TEXT>Macro: Bit 8 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_242">
+        <EN_TEXT>Macro: Bit 9 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_243">
+        <EN_TEXT>Macro: Bit 10 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_244">
+        <EN_TEXT>Macro: Bit 11 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_245">
+        <EN_TEXT>Macro: Bit 12 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_246">
+        <EN_TEXT>Macro: Bit 13 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_247">
+        <EN_TEXT>Macro: Bit 14 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_248">
+        <EN_TEXT>Macro: Bit 15 has been set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_249">
+        <EN_TEXT>The safety switch PSEN is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_250">
+        <EN_TEXT>No 0-signal as the actuator was changed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_251">
+        <EN_TEXT>The actuator OSSD1&amp;2 was detected although it is not configured.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_252">
+        <EN_TEXT>The actuator OSSD1 was detected although it is not configured.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_253">
+        <EN_TEXT>The actuator OSSD2 was detected although it is not configured.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_254">
+        <EN_TEXT>The actuator OSSD1&amp;2 was not detected within the configured monitoring time.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_255">
+        <EN_TEXT>The actuator OSSD1 was not detected within the configured monitoring time.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_256">
+        <EN_TEXT>The actuator OSSD2 was not detected within the configured monitoring time.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_257">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_258">
+        <EN_TEXT>Motion Monitoring is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_259">
+        <EN_TEXT>No signal from sensor.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_260">
+        <EN_TEXT>The range limit has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_261">
+        <EN_TEXT>The stop position has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_262">
+        <EN_TEXT>The value is below the validation cutoff frequency.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_263">
+        <EN_TEXT>Limit value 1 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_264">
+        <EN_TEXT>Limit value 2 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_265">
+        <EN_TEXT>Limit value 3 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_266">
+        <EN_TEXT>Limit value 4 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_267">
+        <EN_TEXT>Limit value 5 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_268">
+        <EN_TEXT>Limit value 6 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_269">
+        <EN_TEXT>Limit value 7 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_270">
+        <EN_TEXT>Limit value 8 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_271">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_272">
+        <EN_TEXT>Motion Monitoring is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_273">
+        <EN_TEXT>No signal from sensor.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_274">
+        <EN_TEXT>No feasible sensor signals.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_275">
+        <EN_TEXT>The value is below the validation cutoff frequency.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_276">
+        <EN_TEXT>The proximity switches are measuring different speeds.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_277">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_278">
+        <EN_TEXT>SDI can be activated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_279">
+        <EN_TEXT>Incorrect direction of movement was detected.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_280">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_281">
+        <EN_TEXT>SOS tolerance was above the limit.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_282">
+        <EN_TEXT>SOS tolerance was below the limit.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_283">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_284">
+        <EN_TEXT>SSM is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_285">
+        <EN_TEXT>Limit value 1 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_286">
+        <EN_TEXT>Limit value 2 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_287">
+        <EN_TEXT>Limit value 3 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_288">
+        <EN_TEXT>Limit value 4 has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_289">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_290">
+        <EN_TEXT>SS1 is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_291">
+        <EN_TEXT>There is a 0 signal at the enable input.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_292">
+        <EN_TEXT>The braking ramp has been activated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_293">
+        <EN_TEXT>STO has been activated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_294">
+        <EN_TEXT>During the delay time, the value did not fall below the standstill limit value for STO.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_295">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_296">
+        <EN_TEXT>SS2 is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_297">
+        <EN_TEXT>There is a 0 signal at the enable input.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_298">
+        <EN_TEXT>The braking ramp has been activated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_299">
+        <EN_TEXT>Position monitoring was activated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_300">
+        <EN_TEXT>STO has been activated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_301">
+        <EN_TEXT>During the delay time, the value did not fall below the standstill limit value for STO.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_302">
+        <EN_TEXT>The position is outside the tolerated range during position monitoring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_303">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_304">
+        <EN_TEXT>SSR is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_305">
+        <EN_TEXT>The upper range limit was violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_306">
+        <EN_TEXT>The lower range limit was violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_307">
+        <EN_TEXT>The proximity switches are measuring different speeds.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_308">
+        <EN_TEXT>Module program: Bit 0 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_309">
+        <EN_TEXT>Module program: Bit 1 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_310">
+        <EN_TEXT>Module program: Bit 2 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_311">
+        <EN_TEXT>Module program: Bit 3 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_312">
+        <EN_TEXT>Module program: Bit 4 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_313">
+        <EN_TEXT>Module program: Bit 5 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_314">
+        <EN_TEXT>Module program: Bit 6 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_315">
+        <EN_TEXT>Module program: Bit 7 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_316">
+        <EN_TEXT>Module program: Bit 8 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_317">
+        <EN_TEXT>Module program: Bit 9 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_318">
+        <EN_TEXT>Module program: Bit 10 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_319">
+        <EN_TEXT>Module program: Bit 11 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_320">
+        <EN_TEXT>Module program: Bit 12 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_321">
+        <EN_TEXT>Module program: Bit 13 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_322">
+        <EN_TEXT>Module program: Bit 14 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_323">
+        <EN_TEXT>Module program: Bit 15 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_324">
+        <EN_TEXT>Module program: Bit 16 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_325">
+        <EN_TEXT>Module program: Bit 17 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_326">
+        <EN_TEXT>Module program: Bit 18 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_327">
+        <EN_TEXT>Module program: Bit 19 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_328">
+        <EN_TEXT>Module program: Bit 20 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_329">
+        <EN_TEXT>Module program: Bit 21 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_330">
+        <EN_TEXT>Module program: Bit 22 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_331">
+        <EN_TEXT>Module program: Bit 23 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_332">
+        <EN_TEXT>Module program: Bit 24 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_333">
+        <EN_TEXT>Module program: Bit 25 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_334">
+        <EN_TEXT>Module program: Bit 26 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_335">
+        <EN_TEXT>Module program: Bit 27 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_336">
+        <EN_TEXT>Module program: Bit 28 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_337">
+        <EN_TEXT>Module program: Bit 29 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_338">
+        <EN_TEXT>Module program: Bit 30 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_339">
+        <EN_TEXT>Module program: Bit 31 is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_340">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_341">
+        <EN_TEXT>The braking ramp is monitored.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_342">
+        <EN_TEXT>The limit value has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_343">
+        <EN_TEXT>Trigger Timeout</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_344">
+        <EN_TEXT>Target Speed is Out of Reach</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_345">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_346">
+        <EN_TEXT>The braking ramp is monitored.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_347">
+        <EN_TEXT>The upper limit has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_348">
+        <EN_TEXT>The lower limit has been exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_349">
+        <EN_TEXT>Trigger Timeout</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_350">
+        <EN_TEXT>Target Speed is Out of Reach</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_351">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_352">
+        <EN_TEXT>The tolerance was exceeded and the tolerance time is running.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_353">
+        <EN_TEXT>Both axis speeds are too low for a comparison.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_354">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_355">
+        <EN_TEXT>The initial position was set successfully.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_356">
+        <EN_TEXT>The position difference between the two axes is very large. The limit value will soon be exceeded.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_357">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_358">
+        <EN_TEXT>The initial position was set successfully.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_359">
+        <EN_TEXT>The position is outside the permitted range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_360">
+        <EN_TEXT>The monitoring function is not ready.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_361">
+        <EN_TEXT>The initial position was set successfully.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_362">
+        <EN_TEXT>The position is outside the permitted range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_363">
+        <EN_TEXT>Reception via SafetyNET p is disrupted.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_364">
+        <EN_TEXT>Analogue input module is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_365">
+        <EN_TEXT>The analogue value is outside the measuring range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_366">
+        <EN_TEXT>Range limit R1 has been violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_367">
+        <EN_TEXT>Range limit R2 has been violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_368">
+        <EN_TEXT>Range limit R3 has been violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_369">
+        <EN_TEXT>Range limit R4 has been violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_370">
+        <EN_TEXT>The value at the element's output is below the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_371">
+        <EN_TEXT>The value at the element's output is above the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_372">
+        <EN_TEXT>Error in recording analogue values.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_373">
+        <EN_TEXT>The value at the element's output is below the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_374">
+        <EN_TEXT>The value at the element's output is above the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_375">
+        <EN_TEXT>The lower range limit was violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_376">
+        <EN_TEXT>The upper range limit was violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_377">
+        <EN_TEXT>The threshold value limit has been violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_378">
+        <EN_TEXT>Analogue input module is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_379">
+        <EN_TEXT>The tolerance range of the plausibility has been violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_380">
+        <EN_TEXT>The value at the element's output is below the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_381">
+        <EN_TEXT>The value at the element's output is above the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_382">
+        <EN_TEXT>The value at the element's output is below the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_383">
+        <EN_TEXT>The value at the element's output is above the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_384">
+        <EN_TEXT>The transponder key has no permission (permission = 0).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_385">
+        <EN_TEXT>Cannot authenticate because the data from the PITreader is invalid.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_386">
+        <EN_TEXT>Communication with the PITreader is interrupted.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_387">
+        <EN_TEXT>Cascading is ready to acknowledge.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_388">
+        <EN_TEXT>Monitoring function of the own device has triggered the cascading function.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_389">
+        <EN_TEXT>Monitoring function of the connected device has triggered the cascading function.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_390">
+        <EN_TEXT>Status of the Cascading element</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_391">
+        <EN_TEXT>Operating mode selection is not possible because the controller received invalid data from the visualisation.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_392">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_393">
+        <EN_TEXT>The transponder key does not have the required permission.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_394">
+        <EN_TEXT>The transponder key has no permission (permission = 0).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_395">
+        <EN_TEXT>Cannot authenticate because the data from the PITreader is invalid.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_396">
+        <EN_TEXT>Communication with the PITreader is interrupted.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_397">
+        <EN_TEXT>Error in the test pulse wiring.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_398">
+        <EN_TEXT>The transponder key does not have the required permission.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_399">
+        <EN_TEXT>The transponder key has no permission (permission = 0).</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_400">
+        <EN_TEXT>Cannot authenticate because the data from the PITreader is invalid.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_401">
+        <EN_TEXT>Communication with the PITreader is interrupted.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_402">
+        <EN_TEXT>Optical safety device was triggered, although muting is inactive.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_403">
+        <EN_TEXT>Safety device is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_404">
+        <EN_TEXT>There is an object in the muting zone or the optical safety device is faulty.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_405">
+        <EN_TEXT>An object passed through the muting zone too slowly.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_406">
+        <EN_TEXT>An object operated the sensors too slowly at the start of the muting.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_407">
+        <EN_TEXT>An object cleared the sensors too slowly at the end of the muting.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_408">
+        <EN_TEXT>More than 1 input is set.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_409">
+        <EN_TEXT>The decoder output is not configured.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_410">
+        <EN_TEXT>Safety gate was opened.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_411">
+        <EN_TEXT>Safety gate is locked.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_412">
+        <EN_TEXT>The value at the element's output is below the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_413">
+        <EN_TEXT>The value at the element's output is above the permitted value range.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_414">
+        <EN_TEXT>Analogue input module is ready for reset.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_415">
+        <EN_TEXT>The threshold value limit has been violated.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_416">
+        <EN_TEXT>Function test must be performed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_417">
+        <EN_TEXT>Cannot sign in because the sign in list is full.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_418">
+        <EN_TEXT>Cannot sign in/sign out because the transponder does not have the necessary permission.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_419">
+        <EN_TEXT>Cannot sign out of the sign in list because the sign out condition has not been met.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_420">
+        <EN_TEXT>Cannot authenticate because the data from the PITreader is invalid.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_421">
+        <EN_TEXT>Communication with the PITreader is interrupted.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_422">
+        <EN_TEXT>Time for signing out after the blind spot check has elapsed.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_423">
+        <EN_TEXT>Positioned transponder may not run the blind spot check.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_424">
+        <EN_TEXT>Cannot authenticate because the data from the PITreader is invalid.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_425">
+        <EN_TEXT>Communication with the PITreader is interrupted.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_426">
+        <EN_TEXT>Cannot delete because the transponder does not have the necessary permission.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_427">
+        <EN_TEXT>Cannot delete because the positioned transponder is not signed in to the sign in list.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_428">
+        <EN_TEXT>Cannot authenticate because the data from the PITreader is invalid.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_429">
+        <EN_TEXT>Communication with the PITreader is interrupted.</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_430">
+        <EN_TEXT>Laser scanner is ready for reset</EN_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_431">
+        <EN_TEXT>Error when selecting the zone set.</EN_TEXT>
+    </TEXT>
+</SOFTWAREBLOCK_ERROR_TEXT>

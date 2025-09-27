@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DeviceSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="1.0" xsi:type="DeviceSettings">
+    <TimeoutUserActivity>2MIN</TimeoutUserActivity>
+    <Backlight>ON OFF</Backlight>
+    <FlashingFrequency>normal</FlashingFrequency>
+    <ShowMsgDeletedPopup>yes</ShowMsgDeletedPopup>
+    <DisplayMode>DETAILS&gt;DESCRIPTION</DisplayMode>
+    <PortPGCommunication>COM1</PortPGCommunication>
+    <ConnectedDevice>PNOZMULTI</ConnectedDevice>
+    <LanguageData type="menu">
+        <Language>
+            <RefName>en</RefName>
+            <Text>English</Text>
+        </Language>
+        <Language>
+            <RefName>de</RefName>
+            <Text>Deutsch</Text>
+        </Language>
+        <SelectedLanguageReference>en</SelectedLanguageReference>
+    </LanguageData>
+    <LanguageData type="diagnostics">
+        <Language>
+            <RefName>en</RefName>
+            <Text>English</Text>
+        </Language>
+        <SelectedLanguageReference>en</SelectedLanguageReference>
+    </LanguageData>
+</DeviceSettings>

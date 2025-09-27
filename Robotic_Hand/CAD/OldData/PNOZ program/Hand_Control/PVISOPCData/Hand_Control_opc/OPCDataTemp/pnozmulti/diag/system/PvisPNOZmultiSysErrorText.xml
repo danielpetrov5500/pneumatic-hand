@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYS_ERROR_TEXT FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="2008-01-10 14:55:34">
+   <TEXT id="ERT0002_1">
+      <EN_TEXT>Cannot establish a connection to the PNOZmulti</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_2">
+      <EN_TEXT>The device’s diagnostic configuration is invalid</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_3">
+      <EN_TEXT>The diagnostic configuration for safety devices is faulty</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_4">
+      <EN_TEXT>The operand’s diagnostic configuration is invalid</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_5">
+      <EN_TEXT>The diagnostic configuration is inconsistent</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_6">
+      <EN_TEXT>The diagnostic unit cannot process the diagnostic configuration</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_9">
+      <EN_TEXT>Diagnostics are switched off on the PNOZmulti</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_10">
+      <EN_TEXT>There is no diagnostic configuration available on the PNOZmulti</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_11">
+      <EN_TEXT>Cannot run diagnostics because the PNOZmulti does not support PVIS</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_12">
+      <EN_TEXT>The configuration on the PNOZmulti has been changed</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_13">
+      <EN_TEXT>Establishing the status of the PNOZmulti</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_16">
+      <EN_TEXT>Establishing a connection to the PNOZmulti</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_17">
+      <EN_TEXT>---</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_18">
+      <EN_TEXT>No event messages are defined for this safety device</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0002_19">
+      <EN_TEXT>No event messages are defined for this operand (diagnostic point)</EN_TEXT>
+   </TEXT>
+</SYS_ERROR_TEXT>

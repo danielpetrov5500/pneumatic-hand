@@ -1,0 +1,2572 @@
+{
+  "name" : "Iraq-TrafficControlSystem-mB1_08022023_v2",
+  "equipmentId" : null,
+  "projectType" : "PNOZ",
+  "modules" : [ {
+    "name" : "GRP_MB1_BASE_MODULE_M_B1",
+    "equipmentId" : "a1",
+    "position" : "0",
+    "modules" : [ ],
+    "variables" : [ ]
+  }, {
+    "name" : "MBX_SEMICONDUCTOR_OUTPUT_8DI4DO_MODULE",
+    "equipmentId" : "a2",
+    "position" : "1",
+    "modules" : [ ],
+    "variables" : [ {
+      "name" : "a2.i0",
+      "equipmentId" : "C18262",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/1.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i1",
+      "equipmentId" : "C35926",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/1.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i2",
+      "equipmentId" : "C99716",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/1.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i3",
+      "equipmentId" : "C119",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/1.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i4",
+      "equipmentId" : "C32420",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/1.4",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i5",
+      "equipmentId" : "C15078",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/1.5",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i6",
+      "equipmentId" : "C14446",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/1.6",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i7",
+      "equipmentId" : "C15078",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/1.7",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.o0",
+      "equipmentId" : "C40391",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/1.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.o1",
+      "equipmentId" : "C10351",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/1.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.o2",
+      "equipmentId" : "C27483",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/1.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.o3",
+      "equipmentId" : "C96871",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/1.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    } ]
+  }, {
+    "name" : "MBX_SEMICONDUCTOR_OUTPUT_8DI4DO_MODULE",
+    "equipmentId" : "a3",
+    "position" : "2",
+    "modules" : [ ],
+    "variables" : [ {
+      "name" : "a3.i0",
+      "equipmentId" : "C18906",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/2.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i1",
+      "equipmentId" : "C93498",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/2.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i2",
+      "equipmentId" : "C95582",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/2.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i3",
+      "equipmentId" : "C32151",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/2.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i4",
+      "equipmentId" : "C84463",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/2.4",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i5",
+      "equipmentId" : "C56550",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/2.5",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i6",
+      "equipmentId" : "C16063",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/2.6",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i7",
+      "equipmentId" : "C5436",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/2.7",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.o0",
+      "equipmentId" : "C29582",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/2.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.o1",
+      "equipmentId" : "C11533",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/2.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.o2",
+      "equipmentId" : "C75281",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/2.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.o3",
+      "equipmentId" : "C98311",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/2.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    } ]
+  }, {
+    "name" : "MBX_SEMICONDUCTOR_OUTPUT_8DI4DO_MODULE",
+    "equipmentId" : "a4",
+    "position" : "3",
+    "modules" : [ ],
+    "variables" : [ {
+      "name" : "a4.i0",
+      "equipmentId" : "C18476",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/3.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.i1",
+      "equipmentId" : "C20694",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/3.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.i2",
+      "equipmentId" : "C18981",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/3.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.i3",
+      "equipmentId" : "C89858",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/3.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.i4",
+      "equipmentId" : "C52530",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/3.4",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.i5",
+      "equipmentId" : "C19524",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/3.5",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.i6",
+      "equipmentId" : "C36832",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/3.6",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.i7",
+      "equipmentId" : "C12426",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/3.7",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.o0",
+      "equipmentId" : "C21191",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/3.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.o1",
+      "equipmentId" : "C52511",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/3.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.o2",
+      "equipmentId" : "C30578",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/3.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a4.o3",
+      "equipmentId" : "C48075",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/3.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    } ]
+  }, {
+    "name" : "MBX_SEMICONDUCTOR_OUTPUT_8DI4DO_MODULE",
+    "equipmentId" : "a5",
+    "position" : "4",
+    "modules" : [ ],
+    "variables" : [ {
+      "name" : "a5.i0",
+      "equipmentId" : "C27801",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/4.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.i1",
+      "equipmentId" : "C47687",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/4.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.i2",
+      "equipmentId" : "C82279",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/4.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.i3",
+      "equipmentId" : "C29513",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/4.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.i4",
+      "equipmentId" : "C42688",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/4.4",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.i5",
+      "equipmentId" : "C78077",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/4.5",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.i6",
+      "equipmentId" : "C59600",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/4.6",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.i7",
+      "equipmentId" : "C90411",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/4.7",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.o0",
+      "equipmentId" : "C27485",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/4.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.o1",
+      "equipmentId" : "C68668",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/4.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.o2",
+      "equipmentId" : "C39543",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/4.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a5.o3",
+      "equipmentId" : "C65516",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/4.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    } ]
+  }, {
+    "name" : "MBX_SEMICONDUCTOR_OUTPUT_8DI4DO_MODULE",
+    "equipmentId" : "a6",
+    "position" : "5",
+    "modules" : [ ],
+    "variables" : [ {
+      "name" : "a6.i0",
+      "equipmentId" : "C3778",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/5.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.i1",
+      "equipmentId" : "C65106",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/5.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.i2",
+      "equipmentId" : "C63827",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/5.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.i3",
+      "equipmentId" : "C59288",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/5.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.i4",
+      "equipmentId" : "C8266",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/5.4",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.i5",
+      "equipmentId" : "C49974",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/5.5",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.i6",
+      "equipmentId" : "C65213",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/5.6",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.i7",
+      "equipmentId" : "C49365",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/5.7",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.o0",
+      "equipmentId" : "C39109",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/5.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.o1",
+      "equipmentId" : "C87531",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/5.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.o2",
+      "equipmentId" : "C85454",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/5.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a6.o3",
+      "equipmentId" : "C78795",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/5.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    } ]
+  }, {
+    "name" : "MBX_SEMICONDUCTOR_OUTPUT_8DI4DO_MODULE",
+    "equipmentId" : "a7",
+    "position" : "6",
+    "modules" : [ ],
+    "variables" : [ {
+      "name" : "a7.i0",
+      "equipmentId" : "C74663",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/6.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.i1",
+      "equipmentId" : "C87131",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/6.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.i2",
+      "equipmentId" : "C29160",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/6.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.i3",
+      "equipmentId" : "C68049",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/6.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.i4",
+      "equipmentId" : "C98780",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/6.4",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.i5",
+      "equipmentId" : "C55906",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/6.5",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.i6",
+      "equipmentId" : "C65146",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/6.6",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.i7",
+      "equipmentId" : "C7782",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/I/6.7",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.o0",
+      "equipmentId" : "C7028",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/6.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.o1",
+      "equipmentId" : "C48751",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/6.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.o2",
+      "equipmentId" : "C17069",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/6.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a7.o3",
+      "equipmentId" : "C29328",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/Generic/O/6.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    } ]
+  } ],
+  "safetyDevices" : [ {
+    "name" : "CN-01   ESTOP",
+    "equipmentId" : "C76190",
+    "moduleReferences" : [ "a5" ],
+    "variableReferences" : [ "a5.i4", "a5.i5" ],
+    "resetInput" : null,
+    "blockType" : "E_STOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_E_Stop",
+      "instanceType" : "SBTY0_E_Stop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "CN-01   Start 1 Start 2",
+    "equipmentId" : "C99472",
+    "moduleReferences" : [ "a5" ],
+    "variableReferences" : [ "a5.i0", "a5.i1", "a5.i2", "a5.i3" ],
+    "resetInput" : null,
+    "blockType" : "TWO_HAND_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_TwoHand_Button",
+      "instanceType" : "SBTY0_TwoHand_Button",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "MS-01",
+    "equipmentId" : "C97422",
+    "moduleReferences" : [ "a5" ],
+    "variableReferences" : [ "a5.i6", "a5.i7" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.i3" ],
+    "resetInput" : null,
+    "blockType" : "KEY_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.i4" ],
+    "resetInput" : null,
+    "blockType" : "KEY_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Direction  selector",
+    "equipmentId" : "C90927",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.i7" ],
+    "resetInput" : null,
+    "blockType" : "KEY_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Speed   selector",
+    "equipmentId" : "C50802",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.i0" ],
+    "resetInput" : null,
+    "blockType" : "KEY_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.i5" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "SG1/12  SG1/22  Locked",
+    "equipmentId" : "C1959",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.i2", "a7.i1" ],
+    "resetInput" : null,
+    "blockType" : "SAFETY_GATE",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Gate",
+      "instanceType" : "SBTY0_Safety_Gate",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/5/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Move    Trolley 1",
+    "equipmentId" : "C8061",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.i1" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Move    Trolley 2",
+    "equipmentId" : "C31795",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.i2" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Move    Trolley 3",
+    "equipmentId" : "C25038",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.i3" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Move    Trolley 4",
+    "equipmentId" : "C79450",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.i4" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Move    Trolley 5",
+    "equipmentId" : "C28646",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.i5" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Move    Trolley 6",
+    "equipmentId" : "C15556",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.i6" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Move    Trolley 7",
+    "equipmentId" : "C13273",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.i7" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "SG1/Y32 Closed",
+    "equipmentId" : "C43593",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.i0" ],
+    "resetInput" : null,
+    "blockType" : "LIMIT_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "SW1     rising  edge",
+    "equipmentId" : "C13503",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "SW1     falling edge",
+    "equipmentId" : "C80482",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Reset   trolleysKSI",
+    "equipmentId" : "C75166",
+    "moduleReferences" : [ "a4" ],
+    "variableReferences" : [ "a4.o3" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZF-01",
+    "equipmentId" : "C12053",
+    "moduleReferences" : [ "a4" ],
+    "variableReferences" : [ "a4.i4", "a4.i5" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZF-02",
+    "equipmentId" : "C47603",
+    "moduleReferences" : [ "a4" ],
+    "variableReferences" : [ "a4.i6", "a4.i7" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZA-01",
+    "equipmentId" : "C99021",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.i0", "a2.i1" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/6/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZA-02",
+    "equipmentId" : "C67201",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.i2", "a2.i3" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Zone X  occupied",
+    "equipmentId" : "C47256",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Zone 1  occupied",
+    "equipmentId" : "C23843",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "EVENT_COUNTER",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Forward_Backward_Module",
+      "instanceType" : "SBTY0_Forward_Backward_Module",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "EVENT_COUNTER",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Forward_Backward_Module",
+      "instanceType" : "SBTY0_Forward_Backward_Module",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZB-01",
+    "equipmentId" : "C70402",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.i4", "a2.i5" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZB-02",
+    "equipmentId" : "C95443",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.i6", "a2.i7" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZC-01",
+    "equipmentId" : "C29984",
+    "moduleReferences" : [ "a3" ],
+    "variableReferences" : [ "a3.i0", "a3.i1" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZC-02",
+    "equipmentId" : "C64723",
+    "moduleReferences" : [ "a3" ],
+    "variableReferences" : [ "a3.i2", "a3.i3" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Zone 2  occupied",
+    "equipmentId" : "C76731",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Zone 3  occupied",
+    "equipmentId" : "C37716",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "EVENT_COUNTER",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Forward_Backward_Module",
+      "instanceType" : "SBTY0_Forward_Backward_Module",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "EVENT_COUNTER",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Forward_Backward_Module",
+      "instanceType" : "SBTY0_Forward_Backward_Module",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZD-01",
+    "equipmentId" : "C36279",
+    "moduleReferences" : [ "a3" ],
+    "variableReferences" : [ "a3.i4", "a3.i5" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZD-02",
+    "equipmentId" : "C33331",
+    "moduleReferences" : [ "a3" ],
+    "variableReferences" : [ "a3.i6", "a3.i7" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZE-01",
+    "equipmentId" : "C95884",
+    "moduleReferences" : [ "a4" ],
+    "variableReferences" : [ "a4.i0", "a4.i1" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZE-02",
+    "equipmentId" : "C71367",
+    "moduleReferences" : [ "a4" ],
+    "variableReferences" : [ "a4.i2", "a4.i3" ],
+    "resetInput" : null,
+    "blockType" : "ENABLE_SWITCH",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Enable_Switch",
+      "instanceType" : "SBTY0_Enable_Switch",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Zone 4  occupied",
+    "equipmentId" : "C59684",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Zone 5  occupied",
+    "equipmentId" : "C17263",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "EVENT_COUNTER",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Forward_Backward_Module",
+      "instanceType" : "SBTY0_Forward_Backward_Module",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "EVENT_COUNTER",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Forward_Backward_Module",
+      "instanceType" : "SBTY0_Forward_Backward_Module",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "I11",
+    "equipmentId" : "C11535",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.o3" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "I12",
+    "equipmentId" : "C95267",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.o2" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "I13",
+    "equipmentId" : "C37220",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.o1" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "I14",
+    "equipmentId" : "C78391",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.o0" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "I15",
+    "equipmentId" : "C35599",
+    "moduleReferences" : [ "a3" ],
+    "variableReferences" : [ "a3.o3" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RESET_ELEMENT",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Reset_Element",
+      "instanceType" : "SBTY0_Reset_Element",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/4/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Interlock",
+    "equipmentId" : "C38433",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/18/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a4" ],
+    "variableReferences" : [ "a4.o1" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.o0" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.o0" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a5" ],
+    "variableReferences" : [ "a5.o1" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a5" ],
+    "variableReferences" : [ "a5.o0" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a5" ],
+    "variableReferences" : [ "a5.o2" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.o3" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a5" ],
+    "variableReferences" : [ "a5.o3" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a6" ],
+    "variableReferences" : [ "a6.o2" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a4" ],
+    "variableReferences" : [ "a4.o0" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.i6" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/19/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_DELAY",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.o2", "a7.o3" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "PULSE_EDGE_EVALUATION",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/27/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a3" ],
+    "variableReferences" : [ "a3.o1" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a3" ],
+    "variableReferences" : [ "a3.o0" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a4" ],
+    "variableReferences" : [ "a4.o2" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZA-01 orZA-02   error",
+    "equipmentId" : "C13593",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "COLLECTIVE_PVIS",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Collective_Diagnostic",
+      "instanceType" : "SBTY0_Collective_Diagnostic",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/21/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZE-01 orZE-02   error",
+    "equipmentId" : "C2202",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "COLLECTIVE_PVIS",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Collective_Diagnostic",
+      "instanceType" : "SBTY0_Collective_Diagnostic",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/25/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZB-01 orZB-02   error",
+    "equipmentId" : "C24120",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "COLLECTIVE_PVIS",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Collective_Diagnostic",
+      "instanceType" : "SBTY0_Collective_Diagnostic",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/22/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZF-01 orZF-02   error",
+    "equipmentId" : "C7377",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "COLLECTIVE_PVIS",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Collective_Diagnostic",
+      "instanceType" : "SBTY0_Collective_Diagnostic",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/26/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZC-01 orZC-02   error",
+    "equipmentId" : "C76909",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "COLLECTIVE_PVIS",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Collective_Diagnostic",
+      "instanceType" : "SBTY0_Collective_Diagnostic",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/23/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "ZD-01 orZD-02   error",
+    "equipmentId" : "C29693",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "COLLECTIVE_PVIS",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Collective_Diagnostic",
+      "instanceType" : "SBTY0_Collective_Diagnostic",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/24/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "Errors  trigger",
+    "equipmentId" : "C89921",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "RS_FLIP_FLOP",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_RS_FlipFlop",
+      "instanceType" : "SBTY0_RS_FlipFlop",
+      "opcName" : "Iraq-TrafficControlSystem-mB1_08022023_v2/OverviewInformation/SafetyDevices/20/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "TIMER_BLOCK_PULSE",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a3" ],
+    "variableReferences" : [ "a3.o2" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a7" ],
+    "variableReferences" : [ "a7.o1" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  } ],
+  "operands" : [ ],
+  "translations" : [ {
+    "locale" : "English - en",
+    "translationentry" : [ {
+      "key" : "C35926",
+      "value" : "ZA-01 NO"
+    }, {
+      "key" : "C17263",
+      "value" : "Zone 5  occupied"
+    }, {
+      "key" : "C18476",
+      "value" : "ZE-01 NC"
+    }, {
+      "key" : "C50802",
+      "value" : "Speed   selector"
+    }, {
+      "key" : "C87131",
+      "value" : "SG1/22"
+    }, {
+      "key" : "C87531",
+      "value" : "SSP/8 - KSI/Reset all trolleys"
+    }, {
+      "key" : "C76190",
+      "value" : "CN-01   ESTOP"
+    }, {
+      "key" : "C65106",
+      "value" : "PB.1 - Move Trolley 1"
+    }, {
+      "key" : "C76909",
+      "value" : "ZC-01 orZC-02   error"
+    }, {
+      "key" : "C93498",
+      "value" : "ZC-01 NO"
+    }, {
+      "key" : "C99472",
+      "value" : "CN-01   Start 1 Start 2"
+    }, {
+      "key" : "C98780",
+      "value" : "SW1/Manual"
+    }, {
+      "key" : "C25038",
+      "value" : "Move    Trolley 3"
+    }, {
+      "key" : "C29513",
+      "value" : "CN-01 Start 2 NO"
+    }, {
+      "key" : "C98311",
+      "value" : "I15 - Zone 5 occupied"
+    }, {
+      "key" : "C95443",
+      "value" : "ZB-02"
+    }, {
+      "key" : "C70402",
+      "value" : "ZB-01"
+    }, {
+      "key" : "C31795",
+      "value" : "Move    Trolley 2"
+    }, {
+      "key" : "C18981",
+      "value" : "ZE-02 NC"
+    }, {
+      "key" : "C15078",
+      "value" : "ZB-01 NO"
+    }, {
+      "key" : "C21191",
+      "value" : "SSP/7 - Move Trolley 7"
+    }, {
+      "key" : "C35599",
+      "value" : "I15"
+    }, {
+      "key" : "C13503",
+      "value" : "SW1     rising  edge"
+    }, {
+      "key" : "C10351",
+      "value" : "I13 - Zone 3 occupied"
+    }, {
+      "key" : "C65213",
+      "value" : "PB.6 - Move Trolley 6"
+    }, {
+      "key" : "C18906",
+      "value" : "ZC-01 NC"
+    }, {
+      "key" : "C33331",
+      "value" : "ZD-02"
+    }, {
+      "key" : "C8266",
+      "value" : "PB.4 - Move Trolley 4"
+    }, {
+      "key" : "C68049",
+      "value" : "SW1/Ride"
+    }, {
+      "key" : "C79450",
+      "value" : "Move    Trolley 4"
+    }, {
+      "key" : "C76731",
+      "value" : "Zone 2  occupied"
+    }, {
+      "key" : "C27485",
+      "value" : "SSP/2 - Move Trolley 2"
+    }, {
+      "key" : "C27483",
+      "value" : "I12 - Zone 2 occupied"
+    }, {
+      "key" : "C1959",
+      "value" : "SG1/12  SG1/22  Locked"
+    }, {
+      "key" : "C12426",
+      "value" : "ZF-02 NO"
+    }, {
+      "key" : "C39109",
+      "value" : "SSP/10 - Trolleys Mode"
+    }, {
+      "key" : "C14446",
+      "value" : "ZB-02 NC"
+    }, {
+      "key" : "C32151",
+      "value" : "ZC-02 NO"
+    }, {
+      "key" : "C89858",
+      "value" : "ZE-02 NO"
+    }, {
+      "key" : "C80482",
+      "value" : "SW1     falling edge"
+    }, {
+      "key" : "C7782",
+      "value" : "SW2 - Direction selector"
+    }, {
+      "key" : "C13593",
+      "value" : "ZA-01 orZA-02   error"
+    }, {
+      "key" : "C63827",
+      "value" : "PB.2 - Move Trolley 2"
+    }, {
+      "key" : "C78077",
+      "value" : "CN-01 ESTOP ch.2"
+    }, {
+      "key" : "C20694",
+      "value" : "ZE-01 NO"
+    }, {
+      "key" : "C42688",
+      "value" : "CN-01 ESTOP ch.1"
+    }, {
+      "key" : "C27801",
+      "value" : "CN-01 Start 1 NC"
+    }, {
+      "key" : "C23843",
+      "value" : "Zone 1  occupied"
+    }, {
+      "key" : "C95582",
+      "value" : "ZC-02 NC"
+    }, {
+      "key" : "C40391",
+      "value" : "I14 - Zone 4 occupied"
+    }, {
+      "key" : "C52530",
+      "value" : "ZF-01 NC"
+    }, {
+      "key" : "C16063",
+      "value" : "ZD-02 NC"
+    }, {
+      "key" : "C49365",
+      "value" : "PB.7 - Move Trolley 7"
+    }, {
+      "key" : "C74663",
+      "value" : "SG1/Y32 - Closed"
+    }, {
+      "key" : "C24120",
+      "value" : "ZB-01 orZB-02   error"
+    }, {
+      "key" : "C37716",
+      "value" : "Zone 3  occupied"
+    }, {
+      "key" : "C32420",
+      "value" : "ZB-01 NC"
+    }, {
+      "key" : "C7028",
+      "value" : "SSP/11 - Trolleys Reverse"
+    }, {
+      "key" : "C59684",
+      "value" : "Zone 4  occupied"
+    }, {
+      "key" : "C59288",
+      "value" : "PB.3 - Move Trolley 3"
+    }, {
+      "key" : "C68668",
+      "value" : "SSP/1 - Move Trolley 1"
+    }, {
+      "key" : "C59600",
+      "value" : "MS-01 NC"
+    }, {
+      "key" : "C82279",
+      "value" : "CN-01 Start 2 NC"
+    }, {
+      "key" : "C99021",
+      "value" : "ZA-01"
+    }, {
+      "key" : "C29328",
+      "value" : "SG1/S41 - Lock"
+    }, {
+      "key" : "C49974",
+      "value" : "PB.5 - Move Trolley 5"
+    }, {
+      "key" : "C43593",
+      "value" : "SG1/Y32 Closed"
+    }, {
+      "key" : "C67201",
+      "value" : "ZA-02"
+    }, {
+      "key" : "C17069",
+      "value" : "SG1/S31 - Lock"
+    }, {
+      "key" : "C99716",
+      "value" : "ZA-02 NC"
+    }, {
+      "key" : "C19524",
+      "value" : "ZF-01 NO"
+    }, {
+      "key" : "C29160",
+      "value" : "SG1/12"
+    }, {
+      "key" : "C84463",
+      "value" : "ZD-01 NC"
+    }, {
+      "key" : "C38433",
+      "value" : "Interlock"
+    }, {
+      "key" : "C37220",
+      "value" : "I13"
+    }, {
+      "key" : "C65146",
+      "value" : "PB.9 - SG1 Unlock"
+    }, {
+      "key" : "C97422",
+      "value" : "MS-01"
+    }, {
+      "key" : "C52511",
+      "value" : "SSP/9 - Trolleys Interlock"
+    }, {
+      "key" : "C55906",
+      "value" : "DC OK"
+    }, {
+      "key" : "C47687",
+      "value" : "CN-01 Start 1 NO"
+    }, {
+      "key" : "C95884",
+      "value" : "ZE-01"
+    }, {
+      "key" : "C18262",
+      "value" : "ZA-01 NC"
+    }, {
+      "key" : "C15556",
+      "value" : "Move    Trolley 6"
+    }, {
+      "key" : "C89921",
+      "value" : "Errors  trigger"
+    }, {
+      "key" : "C64723",
+      "value" : "ZC-02"
+    }, {
+      "key" : "C56550",
+      "value" : "ZD-01 NO"
+    }, {
+      "key" : "C12053",
+      "value" : "ZF-01"
+    }, {
+      "key" : "C7377",
+      "value" : "ZF-01 orZF-02   error"
+    }, {
+      "key" : "C47603",
+      "value" : "ZF-02"
+    }, {
+      "key" : "C8061",
+      "value" : "Move    Trolley 1"
+    }, {
+      "key" : "C3778",
+      "value" : "SW3 - Speed selector"
+    }, {
+      "key" : "C2202",
+      "value" : "ZE-01 orZE-02   error"
+    }, {
+      "key" : "C75166",
+      "value" : "Reset   trolleysKSI"
+    }, {
+      "key" : "C71367",
+      "value" : "ZE-02"
+    }, {
+      "key" : "C47256",
+      "value" : "Zone X  occupied"
+    }, {
+      "key" : "C29582",
+      "value" : "Traffic Lights 1/I9 - Yellow"
+    }, {
+      "key" : "C11535",
+      "value" : "I11"
+    }, {
+      "key" : "C5436",
+      "value" : "ZD-02 NO"
+    }, {
+      "key" : "C11533",
+      "value" : "Traffic Lights 1/I8 - Red"
+    }, {
+      "key" : "C36832",
+      "value" : "ZF-02 NC"
+    }, {
+      "key" : "C30578",
+      "value" : "Traffic Lights 1/I10 - Green"
+    }, {
+      "key" : "C85454",
+      "value" : "SSP/6 - Move Trolley 6"
+    }, {
+      "key" : "C78391",
+      "value" : "I14"
+    }, {
+      "key" : "C36279",
+      "value" : "ZD-01"
+    }, {
+      "key" : "C39543",
+      "value" : "SSP/3 - Move Trolley 3"
+    }, {
+      "key" : "C13273",
+      "value" : "Move    Trolley 7"
+    }, {
+      "key" : "C78795",
+      "value" : "SSP/4 - Move Trolley 4"
+    }, {
+      "key" : "C29984",
+      "value" : "ZC-01"
+    }, {
+      "key" : "C75281",
+      "value" : "Traffic Lights 1/A1 - Speaker"
+    }, {
+      "key" : "C28646",
+      "value" : "Move    Trolley 5"
+    }, {
+      "key" : "C96871",
+      "value" : "I11 - Zone 1 occupied"
+    }, {
+      "key" : "C95267",
+      "value" : "I12"
+    }, {
+      "key" : "C48751",
+      "value" : "I4 - System Fault - Red"
+    }, {
+      "key" : "C119",
+      "value" : "ZA-02 NO"
+    }, {
+      "key" : "C90927",
+      "value" : "Direction  selector"
+    }, {
+      "key" : "C48075",
+      "value" : "Reset trolleys KSI"
+    }, {
+      "key" : "C90411",
+      "value" : "MS-01 NO"
+    }, {
+      "key" : "C29693",
+      "value" : "ZD-01 orZD-02   error"
+    }, {
+      "key" : "C65516",
+      "value" : "SSP/5 - Move Trolley 5"
+    } ]
+  } ]
+}

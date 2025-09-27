@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYS_ERROR_ASSIGN FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="2008-01-10 14:55:34" MANUFACTURER="0" TEXTFILE="PvisPNOZmultiSysErrorText.xml" ACTIONPACKSFILE="PvisPNOZmultiSysActionPacks.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SysErrorAssign.xsd">
+	<ERROR id="ERR2000a001">
+		<ERR_TEXT idref="ERT0002_1"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_1"/>
+	</ERROR>
+	<ERROR id="ERR2000a002">
+		<ERR_TEXT idref="ERT0002_2"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_2"/>
+	</ERROR>
+	<ERROR id="ERR2000a003">
+		<ERR_TEXT idref="ERT0002_3"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_3"/>
+	</ERROR>
+	<ERROR id="ERR2000a004">
+		<ERR_TEXT idref="ERT0002_4"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_4"/>
+	</ERROR>
+	<ERROR id="ERR2000a005">
+		<ERR_TEXT idref="ERT0002_5"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_5"/>
+	</ERROR>
+	<ERROR id="ERR2000a006">
+		<ERR_TEXT idref="ERT0002_6"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_6"/>
+	</ERROR>
+	<ERROR id="ERR2000a009">
+		<ERR_TEXT idref="ERT0002_9"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_9"/>
+	</ERROR>
+	<ERROR id="ERR2000a00a">
+		<ERR_TEXT idref="ERT0002_10"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_10"/>
+	</ERROR>
+	<ERROR id="ERR2000a00b">
+		<ERR_TEXT idref="ERT0002_11"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_11"/>
+	</ERROR>
+	<ERROR id="ERR2000a00c">
+		<ERR_TEXT idref="ERT0002_12"/>
+		<PRIO idref="PRI0001_4"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_12"/>
+	</ERROR>
+	<ERROR id="ERR2000a00d">
+		<ERR_TEXT idref="ERT0002_13"/>
+		<PRIO idref="PRI0001_4"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_13"/>
+	</ERROR>
+	<ERROR id="ERR2000a010">
+		<ERR_TEXT idref="ERT0002_16"/>
+		<PRIO idref="PRI0001_4"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_16"/>
+	</ERROR>
+	<ERROR id="ERR2000a011">
+		<ERR_TEXT idref="ERT0002_17"/>
+		<PRIO idref="PRI0001_4"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_17"/>
+	</ERROR>
+	<ERROR id="ERR2000a012">
+		<ERR_TEXT idref="ERT0002_18"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_3"/>
+	</ERROR>
+	<ERROR id="ERR2000a013">
+		<ERR_TEXT idref="ERT0002_19"/>
+		<PRIO idref="PRI0001_3"/>
+		<SCOPE idref="RAN0001_2"/>
+		<LOCATION idref="ITD35"/>
+		<APK idref="APK0002_3"/>
+	</ERROR>
+</SYS_ERROR_ASSIGN>
