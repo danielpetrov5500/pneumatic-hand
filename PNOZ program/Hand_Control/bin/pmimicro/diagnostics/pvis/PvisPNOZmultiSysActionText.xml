@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYS_ACTION_TEXT FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="2008-01-10 14:55:34">
+    <TEXT id="TEX0002_0">
+        <DE_TEXT>Nur zur Information, keine Abhilfe nötig</DE_TEXT>
+        <JA_TEXT>インフォメーション、ヘルプは必要ありません。</JA_TEXT>
+        <EN_TEXT>For information only, no remedy required</EN_TEXT>
+        <IT_TEXT>Solo a scopo informativo, non richiede alcuna risoluzione</IT_TEXT>
+        <FR_TEXT>Seulement à titre d'information, aucun remède nécessaire</FR_TEXT>
+        <ES_TEXT>Sólo para información, no precisa solución</ES_TEXT>
+        <NL_TEXT>Slechts ter informatie, geen actie nodig</NL_TEXT>
+        <ZH_TEXT>仅作参考，不需要故障排除方法。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_11">
+        <DE_TEXT>Verdrahtung zwischen dem Diagnosegerät und dem PNOZmulti prüfen</DE_TEXT>
+        <JA_TEXT>診断装置とPNOZmulti間の配線を確認してください。</JA_TEXT>
+        <EN_TEXT>Check the wiring between the diagnostic unit and the PNOZmulti</EN_TEXT>
+        <IT_TEXT>Controllare il cablaggio tra il dispositivo di diagnostica e il PNOZmulti</IT_TEXT>
+        <FR_TEXT>Contrôlez le câblage entre l'appareil de diagnostic et le PNOZmulti</FR_TEXT>
+        <ES_TEXT>Comprobar el cableado entre el dispositivo de diagnóstico y el PNOZmulti</ES_TEXT>
+        <NL_TEXT>Controleer de bedrading tussen het diagnoseapparaat en PNOZmulti</NL_TEXT>
+        <ZH_TEXT>检查诊断设备与PNOZmulti间的连线。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_12">
+        <DE_TEXT>Diagnosegerät (z.B. PMImicro diag, OPC-Server) neu starten</DE_TEXT>
+        <JA_TEXT>診断装置（例えばPMImicro diag, OPC-サーバ)を再起動します</JA_TEXT>
+        <EN_TEXT>Restart the diagnostic unit (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+        <IT_TEXT>Riavviare il dispositivo di diagnostica (ad es. PMImicro diag, OPC-Server)</IT_TEXT>
+        <FR_TEXT>Redémarrez l'appareil de diagnostic (par ex. PMImicro diag, serveur OPC)</FR_TEXT>
+        <ES_TEXT>Reiniciar el dispositivo de diagnóstico (por ejemplo, PMImicro diag, servidor OPC)</ES_TEXT>
+        <NL_TEXT>Herstart het diagnoseapparaat (bijv. PMImicro diag, OPC-Server)</NL_TEXT>
+        <ZH_TEXT>重启诊断设备（如PMImicro diag, OPC服务器）</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_13">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_21">
+        <DE_TEXT>Gesamte Diagnosekonfiguration erneut auf das Diagnosegerät (z.B. PMImicro diag, OPC-Server) übertragen</DE_TEXT>
+        <JA_TEXT>全診断コンフィグレーションを再度診断装置（例えばPMImicro diag, OPC-サーバ)に転送します。</JA_TEXT>
+        <EN_TEXT>Download the whole diagnostic configuration to the diagnostic unit again (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+        <IT_TEXT>Trasferire nuovamente l'intera configurazione diagnostica sul dispositivo di diagnostica (ad es. PMImicro diag, OPC-Server)</IT_TEXT>
+        <FR_TEXT>Transférez de nouveau la configuration diagnostic complète sur l'appareil de diagnostic (par ex. PMImicro diag, serveur OPC)</FR_TEXT>
+        <ES_TEXT>Transferir nuevamente la configuración de diagnóstico al dispositivo de diagnóstico (por ejemplo, PMImicro diag, servidor OPC)</ES_TEXT>
+        <NL_TEXT>Breng de volledige diagnoseconfiguratie opnieuw over naar het diagnoseapparaat (bijv. PMImicro diag, OPC-Server)</NL_TEXT>
+        <ZH_TEXT>重新将整个诊断配置下载到诊断设备（如PMImicro diag, OPC服务器）上。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_22_1">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_31">
+        <DE_TEXT>Gesamte Diagnosekonfiguration erneut auf das Diagnosegerät (z.B. PMImicro diag, OPC-Server) übertragen</DE_TEXT>
+        <JA_TEXT>全診断コンフィグレーションを再度診断装置（例えばPMImicro diag, OPC-サーバ)に転送します。</JA_TEXT>
+        <EN_TEXT>Download the whole diagnostic configuration to the diagnostic unit again (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+        <IT_TEXT>Trasferire nuovamente l'intera configurazione diagnostica sul dispositivo di diagnostica (ad es. PMImicro diag, OPC-Server)</IT_TEXT>
+        <FR_TEXT>Transférez de nouveau la configuration diagnostic complète sur l'appareil de diagnostic (par ex. PMImicro diag, serveur OPC)</FR_TEXT>
+        <ES_TEXT>Transferir nuevamente la configuración de diagnóstico al dispositivo de diagnóstico (por ejemplo, PMImicro diag, servidor OPC)</ES_TEXT>
+        <NL_TEXT>Breng de volledige diagnoseconfiguratie opnieuw over naar het diagnoseapparaat (bijv. PMImicro diag, OPC-Server)</NL_TEXT>
+        <ZH_TEXT>重新将整个诊断配置下载到诊断设备（如PMImicro diag, OPC服务器）上。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_32">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_41">
+        <DE_TEXT>Gesamte Diagnosekonfiguration erneut auf das Diagnosegerät (z.B. PMImicro diag, OPC-Server) übertragen</DE_TEXT>
+        <JA_TEXT>全診断コンフィグレーションを再度診断装置（例えばPMImicro diag, OPC-サーバ)に転送します。</JA_TEXT>
+        <EN_TEXT>Download the whole diagnostic configuration to the diagnostic unit again (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+        <IT_TEXT>Trasferire nuovamente l'intera configurazione diagnostica sul dispositivo di diagnostica (ad es. PMImicro diag, OPC-Server)</IT_TEXT>
+        <FR_TEXT>Transférez de nouveau la configuration diagnostic complète sur l'appareil de diagnostic (par ex. PMImicro diag, serveur OPC)</FR_TEXT>
+        <ES_TEXT>Transferir nuevamente la configuración de diagnóstico al dispositivo de diagnóstico (por ejemplo, PMImicro diag, servidor OPC)</ES_TEXT>
+        <NL_TEXT>Breng de volledige diagnoseconfiguratie opnieuw over naar het diagnoseapparaat (bijv. PMImicro diag, OPC-Server)</NL_TEXT>
+        <ZH_TEXT>重新将整个诊断配置下载到诊断设备（如PMImicro diag, OPC服务器）上。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_42">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_51">
+        <DE_TEXT>Gesamte Diagnosekonfiguration erneut auf das Diagnosegerät (z.B. PMImicro diag, OPC-Server) übertragen</DE_TEXT>
+        <JA_TEXT>全診断コンフィグレーションを再度診断装置（例えばPMImicro diag, OPC-サーバ)に転送します。</JA_TEXT>
+        <EN_TEXT>Download the whole diagnostic configuration to the diagnostic unit again (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+        <IT_TEXT>Trasferire nuovamente l'intera configurazione diagnostica sul dispositivo di diagnostica (ad es. PMImicro diag, OPC-Server)</IT_TEXT>
+        <FR_TEXT>Transférez de nouveau la configuration diagnostic complète sur l'appareil de diagnostic (par ex. PMImicro diag, serveur OPC)</FR_TEXT>
+        <ES_TEXT>Transferir nuevamente la configuración de diagnóstico al dispositivo de diagnóstico (por ejemplo, PMImicro diag, servidor OPC)</ES_TEXT>
+        <NL_TEXT>Breng de volledige diagnoseconfiguratie opnieuw over naar het diagnoseapparaat (bijv. PMImicro diag, OPC-Server)</NL_TEXT>
+        <ZH_TEXT>重新将整个诊断配置下载到诊断设备（如PMImicro diag, OPC服务器）上。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_52">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_61">
+        <DE_TEXT>Software auf dem Diagnosegerät (z.B. PMImicro diag, OPC-Server) aktualisieren</DE_TEXT>
+        <JA_TEXT>診断装置（例えばPMImicro diag, OPC-サーバ)のソフトウェアを更新します。</JA_TEXT>
+        <EN_TEXT>Update the software on the diagnostic unit (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+        <IT_TEXT>Aggiornare il software sul dispositivo di diagnostica (ad es. PMImicro diag, OPC-Server)</IT_TEXT>
+        <FR_TEXT>Actualisez le logiciel de l'appareil de diagnostic (par ex. PMImicro diag, serveur OPC)</FR_TEXT>
+        <ES_TEXT>Actualizar el software del dispositivo de diagnóstico (por ejemplo, PMImicro diag, servidor OPC)</ES_TEXT>
+        <NL_TEXT>Actualiseer de software op het diagnoseapparaat (bijv. PMImicro diag, OPC-Server)</NL_TEXT>
+        <ZH_TEXT>更新诊断设备（如PMImicro diag, OPC服务器）上的软件。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_62">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_71">
+        <DE_TEXT>Neueste Version der Geräte-Diagnosekonfiguration von Pilz besorgen und die gesamte Diagnosekonfiguration erneut auf das Diagnosegerät übertragen</DE_TEXT>
+        <JA_TEXT>新しいバージョンのPilz装置診断コンフィグレーションを入手し、全診断コンフィグレーションを再び診断装置に転送します。</JA_TEXT>
+        <EN_TEXT>Obtain the latest version of the device’s diagnostic configuration from Pilz and download the whole diagnostic configuration to the diagnostic unit again</EN_TEXT>
+        <IT_TEXT>Procurarsi la versione più recente della configurazione diagnostica del dispositivo Pilz e trasferire nuovamente l'intera configurazione diagnostica sul dispositivo di diagnostica</IT_TEXT>
+        <FR_TEXT>Procurez-vous la dernière version de la configuration diagnostic - appareil de Pilz et transférez de nouveau la configuration diagnostic complète sur l'appareil de diagnostic</FR_TEXT>
+        <ES_TEXT>Adquirir la versión más reciente de la configuración de diagnóstico de dispositivos de Pilz y transferir nuevamente la configuración completa al dispositivo de diagnóstico</ES_TEXT>
+        <NL_TEXT>Verkrijg bij Pilz de laatste versie van de apparaat-diagnoseconfiguratie en breng de volledige diagnoseconfiguratie opnieuw op het diagnoseapparaat over.</NL_TEXT>
+        <ZH_TEXT>向Pilz索取设备诊断配置的最新版本，并重新将整个诊断配置下载到诊断设备上。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_72">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_81">
+        <DE_TEXT>Sicherstellen, dass die Diagnosekonfiguration auf dem Diagnosegerät zu der PNOZmulti-Konfiguration passt</DE_TEXT>
+        <JA_TEXT>診断装置の診断コンフィグレーションがPNOZmultiコンフィグレーションにマッチすることを確認してください</JA_TEXT>
+        <EN_TEXT>Make sure that the diagnostic configuration on the diagnostic unit matches the PNOZmulti configuration</EN_TEXT>
+        <IT_TEXT>Accertarsi che la configurazione diagnostica sul dispositivo di diagnostica sia compatibile con la configurazione PNOZmulti</IT_TEXT>
+        <FR_TEXT>Assurez-vous que la configuration diagnostic enregistrée sur l'appareil de diagnostic est compatible avec la configuration du PNOZmulti</FR_TEXT>
+        <ES_TEXT>Asegurar que la configuración de diagnóstico del dispositivo de diagnóstico concuerda con la configuración del PNOZmulti</ES_TEXT>
+        <NL_TEXT>Controleer of de diagnoseconfiguratie op het diagnoseapparaat past bij de configuratie van PNOZmulti</NL_TEXT>
+        <ZH_TEXT>确保诊断设备上的诊断配置与PNOZmulti的配置相匹配。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_82">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_91">
+        <DE_TEXT>Diagnose auf dem PNOZmulti anschalten</DE_TEXT>
+        <JA_TEXT>PNOZmultiで診断のスイッチを入れます</JA_TEXT>
+        <EN_TEXT>Start diagnostics on the PNOZmulti</EN_TEXT>
+        <IT_TEXT>Attivare la diagnostica sul PNOZmulti</IT_TEXT>
+        <FR_TEXT>Raccordez le diagnostic sur le PNOZmulti</FR_TEXT>
+        <ES_TEXT>Activar el diagnóstico en el PNOZmulti</ES_TEXT>
+        <NL_TEXT>Schakel diagnose op PNOZmulti in</NL_TEXT>
+        <ZH_TEXT>启动PNOZmulti上的诊断</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_92">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_101">
+        <DE_TEXT>Diagnosekonfiguration auf das PNOZmulti übertragen</DE_TEXT>
+        <JA_TEXT>PNOZmultiへ診断コンフィグレーションを転送</JA_TEXT>
+        <EN_TEXT>Download diagnostic configuration to the PNOZmulti</EN_TEXT>
+        <IT_TEXT>Trasferire la configurazione diagnostica sul PNOZmulti</IT_TEXT>
+        <FR_TEXT>Transférez la configuration diagnostic sur le PNOZmulti</FR_TEXT>
+        <ES_TEXT>Transferir la configuración de diagnóstico al PNOZmulti</ES_TEXT>
+        <NL_TEXT>Breng de diagnoseconfiguratie over op PNOZmulti</NL_TEXT>
+        <ZH_TEXT>下载诊断配置到PNOZmulti</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_102">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_111">
+        <DE_TEXT>Diagnosegerät an ein PNOZmulti anschließen, das PVIS unterstützt</DE_TEXT>
+        <JA_TEXT>PVISをサポートするPNOZmultiに診断装置を接続してください。</JA_TEXT>
+        <EN_TEXT>Connect the diagnostic unit to a PNOZmulti that supports the PVIS</EN_TEXT>
+        <IT_TEXT>Collegare il dispositivo di diagnostica a un PNOZmulti che supporti PVIS</IT_TEXT>
+        <FR_TEXT>Raccordez l'appareil de diagnostic à un PNOZmulti qui prend le PVIS en charge</FR_TEXT>
+        <ES_TEXT>Conectar el dispositivo de diagnóstico a un PNOZmulti que respalde PVIS</ES_TEXT>
+        <NL_TEXT>Sluit het diagnoseapparaat aan op een PNOZmulti, die PVIS ondersteunt</NL_TEXT>
+        <ZH_TEXT>将诊断设备连接到支持PVIS的PNOZmulti</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_112">
+        <DE_TEXT>Bitte Kontakt mit  Pilz aufnehmen</DE_TEXT>
+        <JA_TEXT>Pilzのサポートに連絡してください。</JA_TEXT>
+        <EN_TEXT>Please contact Pilz</EN_TEXT>
+        <IT_TEXT>Si prega di contattare la Pilz</IT_TEXT>
+        <FR_TEXT>Veuillez prendre contact avec Pilz</FR_TEXT>
+        <ES_TEXT>Se ruega contactar con Pilz</ES_TEXT>
+        <NL_TEXT>Svp contact opnemen met Pilz</NL_TEXT>
+        <ZH_TEXT>请与Pilz联系。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_121">
+        <DE_TEXT>Nur zur Information, keine Abhilfe nötig</DE_TEXT>
+        <JA_TEXT>インフォメーション、ヘルプは必要ありません。</JA_TEXT>
+        <EN_TEXT>For information only, no remedy required</EN_TEXT>
+        <IT_TEXT>Solo a scopo informativo, non richiede alcuna risoluzione</IT_TEXT>
+        <FR_TEXT>Seulement à titre d'information, aucun remède nécessaire</FR_TEXT>
+        <ES_TEXT>Sólo para información, no precisa solución</ES_TEXT>
+        <NL_TEXT>Slechts ter informatie, geen actie nodig</NL_TEXT>
+        <ZH_TEXT>仅作参考，不需要故障排除方法。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_131">
+        <DE_TEXT>Nur zur Information, keine Abhilfe nötig</DE_TEXT>
+        <JA_TEXT>インフォメーション、ヘルプは必要ありません。</JA_TEXT>
+        <EN_TEXT>For information only, no remedy required</EN_TEXT>
+        <IT_TEXT>Solo a scopo informativo, non richiede alcuna risoluzione</IT_TEXT>
+        <FR_TEXT>Seulement à titre d'information, aucun remède nécessaire</FR_TEXT>
+        <ES_TEXT>Sólo para información, no precisa solución</ES_TEXT>
+        <NL_TEXT>Slechts ter informatie, geen actie nodig</NL_TEXT>
+        <ZH_TEXT>仅作参考，不需要故障排除方法。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_141">
+        <DE_TEXT>Nur zur Information, keine Abhilfe nötig</DE_TEXT>
+        <JA_TEXT>インフォメーション、ヘルプは必要ありません。</JA_TEXT>
+        <EN_TEXT>For information only, no remedy required</EN_TEXT>
+        <IT_TEXT>Solo a scopo informativo, non richiede alcuna risoluzione</IT_TEXT>
+        <FR_TEXT>Seulement à titre d'information, aucun remède nécessaire</FR_TEXT>
+        <ES_TEXT>Sólo para información, no precisa solución</ES_TEXT>
+        <NL_TEXT>Slechts ter informatie, geen actie nodig</NL_TEXT>
+        <ZH_TEXT>仅作参考，不需要故障排除方法。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_151">
+        <DE_TEXT>Nur zur Information, keine Abhilfe nötig</DE_TEXT>
+        <JA_TEXT>インフォメーション、ヘルプは必要ありません。</JA_TEXT>
+        <EN_TEXT>For information only, no remedy required</EN_TEXT>
+        <IT_TEXT>Solo a scopo informativo, non richiede alcuna risoluzione</IT_TEXT>
+        <FR_TEXT>Seulement à titre d'information, aucun remède nécessaire</FR_TEXT>
+        <ES_TEXT>Sólo para información, no precisa solución</ES_TEXT>
+        <NL_TEXT>Slechts ter informatie, geen actie nodig</NL_TEXT>
+        <ZH_TEXT>仅作参考，不需要故障排除方法。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_161">
+        <DE_TEXT>Nur zur Information, keine Abhilfe nötig</DE_TEXT>
+        <JA_TEXT>インフォメーション、ヘルプは必要ありません。</JA_TEXT>
+        <EN_TEXT>For information only, no remedy required</EN_TEXT>
+        <IT_TEXT>Solo a scopo informativo, non richiede alcuna risoluzione</IT_TEXT>
+        <FR_TEXT>Seulement à titre d'information, aucun remède nécessaire</FR_TEXT>
+        <ES_TEXT>Sólo para información, no precisa solución</ES_TEXT>
+        <NL_TEXT>Slechts ter informatie, geen actie nodig</NL_TEXT>
+        <ZH_TEXT>仅作参考，不需要故障排除方法。</ZH_TEXT>
+    </TEXT>
+    <TEXT id="TEX0002_171">
+        <DE_TEXT>---</DE_TEXT>
+        <JA_TEXT>---</JA_TEXT>
+        <EN_TEXT>---</EN_TEXT>
+        <IT_TEXT>---</IT_TEXT>
+        <FR_TEXT>---</FR_TEXT>
+        <ES_TEXT>---</ES_TEXT>
+        <NL_TEXT>---</NL_TEXT>
+        <ZH_TEXT>---</ZH_TEXT>
+    </TEXT>
+</SYS_ACTION_TEXT>

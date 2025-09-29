@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DeviceSettings FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="1"
+    DEVICE_DIR_VERSION="0" PROJECT_NAME="DeviceProjects"
+    EVENTLOG_STOP="0" EVENTLOG_NUMBER="10000" GENERIC_TREE="1">
+    <WorkDirectory>.\OPCData</WorkDirectory>
+    <TransferDirectory>.\OPCDataTemp</TransferDirectory>
+    <DeviceInfo id="Hand_Test_1"
+        ProjectPath="D:\Лични\Dani\Robotic hand\PNOZ program\Hand_Test_1"
+        ProjectCRC="1714483789" supportsPASVisu="true">
+        <ConnectedDevice>PNOZ</ConnectedDevice>
+        <ConnectionPort>TCP</ConnectionPort>
+        <ConnectionString>169.254.60.1:9000 3000</ConnectionString>
+        <Language>
+            <DefaultLanguage>en</DefaultLanguage>
+            <SupportLanguage>en</SupportLanguage>
+        </Language>
+        <EventListSize>100</EventListSize>
+        <pasVisuData
+            visuFile="D:\Лични\Dani\Robotic hand\PNOZ program\Hand_Test_1\bin\pmimicro\visu\visuModel.json" visuCRC="fffffffff28b2576"/>
+    </DeviceInfo>
+</DeviceSettings>

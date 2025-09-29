@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYS_ERROR_TEXT FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="2023-04-28 07:18:02">
+   <TEXT id="ERT0001_865">
+      <EN_TEXT>Error due to base unit</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_866">
+      <EN_TEXT>Load current supply is incorrect</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_867">
+      <EN_TEXT>Could not obtain the IP address automatically.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_868">
+      <EN_TEXT>The load on the connection module is too high.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_869">
+      <EN_TEXT>The connection to the decentralised modules is disrupted at the link modules.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_870">
+      <EN_TEXT>No connection to the decentralised module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_871">
+      <EN_TEXT>The installed module does not correspond the configured decentralised module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_872">
+      <EN_TEXT>The supply voltage at the link module is too low.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_873">
+      <EN_TEXT>Unknown subscriber at the module "%0Y0".</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_874">
+      <EN_TEXT>The supply voltage at the link module is too high.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_875">
+      <EN_TEXT>The decentralised supply voltage at the decentralised module is too low.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_876">
+      <EN_TEXT>The supply voltage at the decentralised module is too low.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_877">
+      <EN_TEXT>One or several outputs at the decentralised module are short-circuited.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_878">
+      <EN_TEXT>The temperature at the decentralised module is too high.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_879">
+      <EN_TEXT>External voltage is applied to one subscriber of the link module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_880">
+      <EN_TEXT>Error caused by test pulse input %2.1u at the decentralised module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_881">
+      <EN_TEXT>There are more subscribers connected to the link module than there are configured.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_882">
+      <EN_TEXT>Internal error of the decentralised module. (Error code: %0P)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_739">
+      <EN_TEXT>Restart was performed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_740">
+      <EN_TEXT>General reset was performed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_741">
+      <EN_TEXT>PNOZmulti was stopped by the PNOZmulti Configurator.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_742">
+      <EN_TEXT>PNOZmulti has accepted the configuration with check sum %0.1x%1.1x.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_743">
+      <EN_TEXT>Error stack was deleted.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_744">
+      <EN_TEXT>The installed expansion module does not correspond to the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_745">
+      <EN_TEXT>Expansion module is missing.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_746">
+      <EN_TEXT>Terminator is missing.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_747">
+      <EN_TEXT>The number of expansion modules installed to the right of the base unit is more than the basis unit can support.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_748">
+      <EN_TEXT>Expansion modules are available, although the base unit does not support expansion modules.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_749">
+      <EN_TEXT>The version of expansion module %0Y0 is not supported by base unit _0Y0.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_750">
+      <EN_TEXT>Chip card containing a new configuration inserted without performing a general reset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_751">
+      <EN_TEXT>The configuration contains too many elements (e.g. E-STOP).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_752">
+      <EN_TEXT>The configuration contains too many logic elements.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_753">
+      <EN_TEXT>No configuration is stored on the chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_754">
+      <EN_TEXT>The configuration contains an invalid loop between two logic elements (AND, OR, etc.).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_755">
+      <EN_TEXT>The version of base unit %0.1x does not match the configured version %1.1x on the chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_756">
+      <EN_TEXT>The version of expansion module %1Y0 is not supported by base unit _0Y0.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_757">
+      <EN_TEXT>The hardware identifier on the base unit %0.1x does not match the hardware identifier on the unit software %1.1x.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_758">
+      <EN_TEXT>No valid configuration is stored on the chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_759">
+      <EN_TEXT>The configuration contains an invalid Element ID (&gt; 100).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_760">
+      <EN_TEXT>The installed base unit does not correspond to the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_761">
+      <EN_TEXT>Internal error on the PNOZmulti Configurator. (Error code: %0P)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_762">
+      <EN_TEXT>Internal error on the base unit. (Error code: %0P)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_763">
+      <EN_TEXT>Internal error on the expansion module. (Error code: %0P)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_764">
+      <EN_TEXT>Error caused by output "%0Y1" (terminal: O%2.1u)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_765">
+      <EN_TEXT>Error caused by test pulse T%0.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_766">
+      <EN_TEXT>Function element was or is partially operated (actual status: I/p. 1 = %1.1u; I/p. 2 = %2.1u; I/p. 3 = %3.1u; I/p. 4 = %4.1u)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_767">
+      <EN_TEXT>Function element was or is partially operated (actual status: I/p. 1 = %1.1u; I/p. 2 = %2.1u)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_768">
+      <EN_TEXT>Function element was or is partially operated (actual status: I/p. 1 = %1.1u; I/p. 2 = %2.1u; I/p. 3 = %3.1u)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_769">
+      <EN_TEXT>Error caused by the feedback loop for the actuator on output "%1Y1" (terminal: O%3.1u)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_770">
+      <EN_TEXT>Error caused by output "%0Y1" (terminal: O1)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_771">
+      <EN_TEXT>Error caused by output "%0Y1" (terminal: O2)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_772">
+      <EN_TEXT>Error caused by output "%0Y1" (terminal: O3)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_773">
+      <EN_TEXT>Error caused by output "%0Y1" (terminal: O0)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_774">
+      <EN_TEXT>Error caused by module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_775">
+      <EN_TEXT>There is a 1 signal at two inputs on the operating mode selector switch "%4Y2".</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_776">
+      <EN_TEXT>There is a 1 signal at more than one input on the operating mode selector switch "%0Y2".</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_778">
+      <EN_TEXT>Chip card holder not detected.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_779">
+      <EN_TEXT>Error caused by chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_780">
+      <EN_TEXT>Error caused by cascading input.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_781">
+      <EN_TEXT>Error caused by cascading output.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_782">
+      <EN_TEXT>Error during muting.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_783">
+      <EN_TEXT>One of the muting sensors switched too late.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_784">
+      <EN_TEXT>An object passed through the muting zone too slowly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_785">
+      <EN_TEXT>Internal error: (Error code: %0P)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_786">
+      <EN_TEXT>Error caused by relay output 0</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_787">
+      <EN_TEXT>Error caused by relay output 1</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_788">
+      <EN_TEXT>Error caused by relay output 2</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_789">
+      <EN_TEXT>Error caused by relay output 3</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_790">
+      <EN_TEXT>Error caused by relay output</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_791">
+      <EN_TEXT>The input signals from safety mat "%0Y2" are faulty.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_792">
+      <EN_TEXT>Information for the Pilz service department: %0P</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_793">
+      <EN_TEXT>The version of fieldbus module is not supported by base unit _0Y0.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_794">
+      <EN_TEXT>A fieldbus module is installed, although it is not configured in the registered hardware.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_795">
+      <EN_TEXT>The fieldbus connection has been restored.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_796">
+      <EN_TEXT>The configuration is too large.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_797">
+      <EN_TEXT>Error caused by incremental encoder at axis %1.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_798">
+      <EN_TEXT>The maximum frequency of the speed monitor has been exceeded at axis %1.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_799">
+      <EN_TEXT>A hysteresis has been configured, although the speed monitor version does not support this.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_800">
+      <EN_TEXT>Error driving the speed monitor on axis %1.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_801">
+      <EN_TEXT>Error driving the speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_802">
+      <EN_TEXT>Communication with the fieldbus is interrupted.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_803">
+      <EN_TEXT>The version of the diagnostic configuration is not supported by the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_804">
+      <EN_TEXT>Internal module error. (Error code: %0P)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_805">
+      <EN_TEXT>Expansion module was stopped via the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_806">
+      <EN_TEXT>The configuration contains an element that is not supported by this version of the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_808">
+      <EN_TEXT>No input on operating mode selector switch "%0Y2" has a 1 signal.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_809">
+      <EN_TEXT>The expansion module installed on position %0.1u does not correspond to the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_810">
+      <EN_TEXT>The expansion module version does not match the configured version.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_811">
+      <EN_TEXT>Error caused by encoder on axis %1.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_812">
+      <EN_TEXT>The configuration is invalid.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_813">
+      <EN_TEXT>The fieldbus module is missing.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_814">
+      <EN_TEXT>The expansion module is being disturbed by EMC influences</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_815">
+      <EN_TEXT>Error due to fieldbus module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_820">
+      <EN_TEXT>The incremental encoder is signalling standstill and the proximity switch is signalling movement.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_821">
+      <EN_TEXT>The incremental encoder is signalling movement and the proximity switch is signalling standstill.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_822">
+      <EN_TEXT>The PROFINET module's device name is invalid.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_823">
+      <EN_TEXT>The PROFINET module's device name can be defined by the IO Controller.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_824">
+      <EN_TEXT>Internal fieldbus module error. (Error code: %0P)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_826">
+      <EN_TEXT>The expansion module on position -%0.1u does not match the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_828">
+      <EN_TEXT>The number of expansion modules installed to the left of the base unit is more than the basis unit can support.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_829">
+      <EN_TEXT>%1.1u expansion modules are installed to the left of the base unit, although %0.1u are configured.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_830">
+      <EN_TEXT>Communication between the base unit and expansion module has been interrupted.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_831">
+      <EN_TEXT>The base unit version does not match the configured version.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_832">
+      <EN_TEXT>Cannot establish a connection between the PNOZmulti systems.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_833">
+      <EN_TEXT>The inputs are configured for SIL3 applications, although this version of the analogue input module does not support this.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_834">
+      <EN_TEXT>Voltage inputs have been configured, although this version of the analogue input module does not support this.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_835">
+      <EN_TEXT>The current at input I%1.1u is above the permitted signal range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_836">
+      <EN_TEXT>The voltage at input I%1.1u is above the permitted signal range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_837">
+      <EN_TEXT>The value at input I%1.1u has exceeded the range limit R%2.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_838">
+      <EN_TEXT>The value at input I%1.1u has fallen below the range limit R%2.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_839">
+      <EN_TEXT>Input I%1.1u is defective.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_840">
+      <EN_TEXT>Tolerance between input I0 and I1 has been exceeded.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_841">
+      <EN_TEXT>The voltage at input I%1.1u is below the permitted signal range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_842">
+      <EN_TEXT>The voltage at input I0 is below the permitted signal range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_843">
+      <EN_TEXT>The voltage at input I0 is above the permitted signal range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_844">
+      <EN_TEXT>The voltage at input I0 is above the permitted signal range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_845">
+      <EN_TEXT>The value at input I0 has exceeded the range limit R%1.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_846">
+      <EN_TEXT>The value at input I0 has fallen below the range limit R%1.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_847">
+      <EN_TEXT>The current at input I%1.1u has reverse polarity.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_848">
+      <EN_TEXT>The current at input I%1.1u is below the permitted signal range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_850">
+      <EN_TEXT>Flame error, ignition flame in step %0.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_851">
+      <EN_TEXT>Error in step %0.1u "Compound controller to pre-purge position"</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_852">
+      <EN_TEXT>Error in step %0.1u "Compound controller to ignition position"</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_853">
+      <EN_TEXT>Tightness control error in step %0.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_854">
+      <EN_TEXT>Air pressure error in step %0.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_855">
+      <EN_TEXT>Flame error, main flame in step %0.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_856">
+      <EN_TEXT>Safety chain 1 broken in step %0.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_857">
+      <EN_TEXT>Shutdown due to error in step %0.1u of the burner cycle</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_858">
+      <EN_TEXT>Ignition and operation safety chain broken in step %0.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_859">
+      <EN_TEXT>Safety chain 2 broken in step %0.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_999">
+      <EN_TEXT>Not all the PNOZmulti projects belong to the same SafetyNET p network configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1000">
+      <EN_TEXT>Error on SafetyNET p</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1001">
+      <EN_TEXT>To the left of the base unit the module on slot %1.1u is incorrectly installed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1002">
+      <EN_TEXT>Faulty input signal at input I%1.1u at module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1003">
+      <EN_TEXT>Error caused by external load at output O%1.1u at module %0Y10. Open circuit detected.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1004">
+      <EN_TEXT>Function element %0.3Y11 was or is partially operated (affected inputs: i%3.1u and i%4.1u at module%0Y10)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1005">
+      <EN_TEXT>Error caused by the feedback loop on output element %0.3Y11 (affected output o%3.1u on module %0Y10)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1006">
+      <EN_TEXT>Error caused by the feedback loop on output element %0.3Y11 (affected outputs o%3.1u and o%4.1u at module %0Y10)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1007">
+      <EN_TEXT>Function element %0.3Y11 was or is partially operated (affected inputs: i%7.1u/i%10.1u of %6.1u. decentralised module at module %5Y10 )</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_861">
+      <EN_TEXT>Output "%1Y1" with advanced fault detection has been shut down incorrectly (feedback loop is not closed).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_862">
+      <EN_TEXT>The feedback loop has closed while the actuator was switched on.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_863">
+      <EN_TEXT>The output with advanced fault detection has been shut down incorrectly (feedback loop is not closed).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_864">
+      <EN_TEXT>Program transfer error</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_883">
+      <EN_TEXT>The number of expansion modules does not correspond to the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_884">
+      <EN_TEXT>An expansion module has been installed, although it is not configured in the registered hardware.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_885">
+      <EN_TEXT>A communication module is installed, although it is not configured in the registered hardware.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_893">
+      <EN_TEXT>Error when switching on the output "%1Y1"  with expanded error detection (feedback loop no closed).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_894">
+      <EN_TEXT>The configuration includes an integrated link interface that is not supported by this base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_895">
+      <EN_TEXT>The communication module does not correspond to the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_896">
+      <EN_TEXT>Error when detecting shorts between contacts.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_897">
+      <EN_TEXT>The base unit does not support this version of the fieldbus module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_898">
+      <EN_TEXT>Error caused by the feedback loop for the actuator on output "%1Y1" (slot:%2.1u, terminal: O%3.1u)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_902">
+      <EN_TEXT>Error caused by output "o%1.1u" at %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_903">
+      <EN_TEXT>Output defective or no supply voltage to the semiconductor outputs</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_904">
+      <EN_TEXT>The communication module has not been installed in the designated position.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_905">
+      <EN_TEXT>Function element was or is partially operated (affected inputs: 1st i/p. = %1Y1; 2nd i/p. = %2Y1)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_906">
+      <EN_TEXT>Function element was or is partially operated (affected inputs: 1st i/p. = %1Y1; 2nd i/p. = %2Y1; 3rd i/p. = %3Y1)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_907">
+      <EN_TEXT>Function element was or is partially operated (affected inputs: 1st i/p. = %1Y1; 2nd i/p. = %2Y1; 3rd i/p. = %3Y1; 4th i/p. = %4Y1)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_908">
+      <EN_TEXT>The input signals from safety mat "%0Y2" are faulty (affected inputs: 1st i/p. = %1Y1; 2nd i/p. = %2Y1).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_909">
+      <EN_TEXT>Function element was or is partially operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_910">
+      <EN_TEXT>Function element was or is partially operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_911">
+      <EN_TEXT>Function element was or is partially operated (affected inputs: 1st i/p. =i%2.1u module %1Y10 ; 2nd i/p. =i%4.1u on module %3Y10)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_912">
+      <EN_TEXT>Function element was or is partially operated (potential inputs: 1st i/p. =i%2.1u module %1Y10 ; 2nd i/p. =i%4.1u on module %3Y10 or further inputs on element %0Y2)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_913">
+      <EN_TEXT>Error caused by the feedback loop for the actuator on output %2.1u of module %1Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_914">
+      <EN_TEXT>Fieldbus modules are available, although the base unit does not support fieldbus modules.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_886">
+      <EN_TEXT>In the registered hardware a communication module is configured which is not installed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_887">
+      <EN_TEXT>Error on the expansion module "%0Y0" to the right of the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_888">
+      <EN_TEXT>The IP address of the unit is already use in the network</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_889">
+      <EN_TEXT>The inputs that are transmitted via the Ethernet interface/Modbus were set to zero.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_890">
+      <EN_TEXT>The inputs that are transmitted via the integrated interface were set to zero.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_891">
+      <EN_TEXT>The supply voltage at the base unit is too low.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_892">
+      <EN_TEXT>The supply voltage at the base unit is too high.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_899">
+      <EN_TEXT>%1.1u expansion modules are installed to the right of the base unit, although %0.1u are configured.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_900">
+      <EN_TEXT>The supply voltage on the module is outside the valid range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_901">
+      <EN_TEXT>The temperature on the module is outside the valid range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_915">
+      <EN_TEXT>The version of expansion module %0Y10 is not supported by base unit _0Y0.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_916">
+      <EN_TEXT>Cannot read the error stack in the base unit _0Y0.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_917">
+      <EN_TEXT>The signals at Tracks A and /A or B and /B were not feasible during start-up.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_918">
+      <EN_TEXT>The configured maximum frequency AB has been exceeded</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_919">
+      <EN_TEXT>The difference in the frequency from Track A and Track B was too high for too long.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_920">
+      <EN_TEXT>A "1" signal is always present at Track A or /A.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_921">
+      <EN_TEXT>A "0" signal is always present at Track A or /A.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_922">
+      <EN_TEXT>A "1" signal is always present at Track B or /B.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_923">
+      <EN_TEXT>A "0" signal is always present at Track B or /B.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_924">
+      <EN_TEXT>The signal at track A has a DC offset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_925">
+      <EN_TEXT>The signal at Track /A has a DC offset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_926">
+      <EN_TEXT>The signal at Track B has a DC offset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_927">
+      <EN_TEXT>The signal at Track /B has a DC offset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_928">
+      <EN_TEXT>The signal at Tracks A and B was not feasible during operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_929">
+      <EN_TEXT>The signals at Tracks A and /A or B and /B were not feasible.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_930">
+      <EN_TEXT>The index signal at Track Z is missing.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_931">
+      <EN_TEXT>Signal present at inverted track, although this is not permitted for the configured sensor type.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_932">
+      <EN_TEXT>Both proximity switches are inactive at the same time, although this is not permitted.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_933">
+      <EN_TEXT>Signal present at Track /A, although this is not permitted for the configured sensor type.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_934">
+      <EN_TEXT>Signal present at Track /B, although this is not permitted for the configured sensor type.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_935">
+      <EN_TEXT>Signal at Track A is outside the valid value ranges for "0" signal and "1" signal.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_936">
+      <EN_TEXT>Signal at Track B is outside the valid value ranges for "0" signal and "1" signal.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_937">
+      <EN_TEXT>Signal at Track S is outside the valid value range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_938">
+      <EN_TEXT>A "1" signal is always present at Track Z or /Z.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_939">
+      <EN_TEXT>A "0" signal is always present at Track Z or /Z.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_940">
+      <EN_TEXT>Index signal at Track Z came at the wrong position.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_941">
+      <EN_TEXT>The configuration at device %0Y10 has not been adopted in full.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_942">
+      <EN_TEXT>Program format or program version at device %0Y10 is not supported.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_943">
+      <EN_TEXT>Error in communication between the base unit and expansion module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_944">
+      <EN_TEXT>The Ethernet connection has been restarted after a fault.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_945">
+      <EN_TEXT>The configuration activates functions of the expansion module %0Y10 that are not supported by the base unit 0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_946">
+      <EN_TEXT>The difference in the frequency from track AB and track Z was too high for too long.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_947">
+      <EN_TEXT>The signals for the direction of movement were not feasible.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_948">
+      <EN_TEXT>The configured maximum frequency at track Z has been exceeded.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_950">
+      <EN_TEXT>Function element %0.3Y11 was or is partially operated (affected inputs: 1st input =i%6.1u on module %5Y10 ; 2nd input =i%8.1u on module %7Y10)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_951">
+      <EN_TEXT>Function element %0.3Y11 was or is partially operated (affected inputs: 1st input =i%6.1u on module %5Y10 ; 2nd input =i%8.1u on module %7Y10 ; 3rd input =i%10.1u on module %9Y10)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_952">
+      <EN_TEXT>Function element %0.3Y11 was or is partially operated (affected inputs: 1st input =i%6.1u on module %5Y10 ; 2nd input =i%8.1u on module %7Y10 ; 3rd input =i%10.1u on module %9Y10 ; 4th input =i%12.1u on module %11Y10)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_953">
+      <EN_TEXT>No input on operating mode selector switch %0.3Y11 has a 1 signal.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_954">
+      <EN_TEXT>There is a 1 signal at two inputs on the operating mode selector switch %0.3Y11.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_955">
+      <EN_TEXT>Error caused by test pulse T%1.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_956">
+      <EN_TEXT>Error caused by the feedback loop on output element %0.3Y11 (affected output o%6.1u on module %5Y10)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_957">
+      <EN_TEXT>Error caused by the feedback loop on output element %0.3Y11 (affected outputs o%6.1u on module %5Y10 and o%8.1u on module %7Y10)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_958">
+      <EN_TEXT>Error in the connection between the modules to the left of the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_959">
+      <EN_TEXT>The expansion module installed at position %1.1u does not correspond to the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_960">
+      <EN_TEXT>Configuration error to the left of the base unit. The expansion module installed at position -%1.1u does not correspond to the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_961">
+      <EN_TEXT>%2.1u expansion modules are installed to the left of the base unit, although %1.1u are configured.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_962">
+      <EN_TEXT>Configuration error to the right of the base unit. The expansion module installed at position %1.1u does not correspond to the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_963">
+      <EN_TEXT>%2.1u expansion modules are installed to the right of the base unit, although %1.1u are configured.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_964">
+      <EN_TEXT>Error in the connection between the modules to the right of the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_965">
+      <EN_TEXT>Internal error</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_966">
+      <EN_TEXT>Cannot read the error stack.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_967">
+      <EN_TEXT>The signal at the tracks of axis %1.1u on module %0Y10 was not feasible during operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_968">
+      <EN_TEXT>Invalid project detected in module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_969">
+      <EN_TEXT>System restarted by power-on.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_970">
+      <EN_TEXT>System restarted by user.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_971">
+      <EN_TEXT>FS program restarted by user.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_972">
+      <EN_TEXT>System stopped by user.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_973">
+      <EN_TEXT>FS program stopped by user.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_974">
+      <EN_TEXT>ST program stopped by user.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_975">
+      <EN_TEXT>ST program restarted by user.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_977">
+      <EN_TEXT>The system has adopted the project with the overall check sum %1.2x/%5.2x. (FS program's check sum safe: %3.2x).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_978">
+      <EN_TEXT>Error when accessing the USB memory.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_979">
+      <EN_TEXT>Could not read the active project or it is not available.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_980">
+      <EN_TEXT>The active project on the USB memory does not correspond to the project in the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_981">
+      <EN_TEXT>Could not adopt the project in full.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_983">
+      <EN_TEXT>The project has been deleted from the base unit's memory (Reset Project) The active project is automatically re-adopted after a system start.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_985">
+      <EN_TEXT>Error caused by test pulse T%2.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_994">
+      <EN_TEXT>The connection to the SafetyNET p module is interrupted.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_995">
+      <EN_TEXT>The SafetyNET p connection has been established.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_996">
+      <EN_TEXT>The SafetyNET p connection is being established.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_997">
+      <EN_TEXT>A connection at SafetyNET p is interrupted or impaired.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_998">
+      <EN_TEXT>Fault in the SafetyNET p connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1019">
+      <EN_TEXT>Safety chain 1 is broken in step %5.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1020">
+      <EN_TEXT>Safety chain 2 is broken in step %5.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1021">
+      <EN_TEXT>Safety chain ignition and operation broken in step %5.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1022">
+      <EN_TEXT>Air pressure error in step %5.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1023">
+      <EN_TEXT>Flame error main flame in step %5.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1024">
+      <EN_TEXT>Flame error ignition flame in step %5.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1025">
+      <EN_TEXT>Tightness control error in step %0.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1026">
+      <EN_TEXT>Error in step %5.1u "Compound controller to ignition position"</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1027">
+      <EN_TEXT>Error in step %5.1u "Compound controller to pre-purge position"</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1028">
+      <EN_TEXT>Shut-down due to error in the burner cycle in step %5.1u</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_992">
+      <EN_TEXT>The input signals from safety mat "%0Y2" are faulty (affected inputs: 1st input =i%3.1u on module %2Y10; 2nd input = %4.1u on module %2Y10).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1008">
+      <EN_TEXT>Error while recording the analogue input variable at the input %1.1i of the module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1009">
+      <EN_TEXT>Error while recording the analogue input variable of the element %0.3Y11.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1010">
+      <EN_TEXT>Error at the analogue input module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1011">
+      <EN_TEXT>Overflow or underflow when processing numerical values at the element %0.3Y11 (-999999 = value range = 999999).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1012">
+      <EN_TEXT>The analogue value at the input %3.1u of module %0Y10 is outside the measuring range (0..25mA).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1041">
+      <EN_TEXT>Firmware update to %3.1d.%4.1d.%5.1d was successful.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1042">
+      <EN_TEXT>Firmware update failed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1043">
+      <EN_TEXT>Verification of the encrypted project data on the chip card failed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1044">
+      <EN_TEXT>Project data on the chip card is not encrypted and cannot be stored on the device.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1045">
+      <EN_TEXT>Cannot transfer the encrypted project data on the chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1046">
+      <EN_TEXT>Error in communication on the network.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1047">
+      <EN_TEXT>The process data length of at least one FSoE connection was exceeded.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1048">
+      <EN_TEXT>No process data was configured for at least one FSoE connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1049">
+      <EN_TEXT>The FSoE address "0" was configured for at least one FSoE connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1050">
+      <EN_TEXT>An invalid connection ID was configured for at least one FSoE connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1051">
+      <EN_TEXT>An invalid watchdog time was configured for at least one FSoE connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1052">
+      <EN_TEXT>No process data was configured for at least one FSoE connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1053">
+      <EN_TEXT>The process data length of at least one FSoE connection is invalid.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1054">
+      <EN_TEXT>The variable length of at least one FSoE connection is invalid.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1055">
+      <EN_TEXT>The size of the FSoE telegram of the FSoE connection %1Y14 is invalid.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1056">
+      <EN_TEXT>The configuration of at least one FSoE connection is faulty.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1057">
+      <EN_TEXT>The maximum permitted number of FSoE connections was exceeded.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1058">
+      <EN_TEXT>The maximum permitted number of variables in the FSoE network was exceeded.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1059">
+      <EN_TEXT>An invalid FSoE address was configured for at least one FSoE connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1060">
+      <EN_TEXT>The configuration contains too many Master connections.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1061">
+      <EN_TEXT>The FSoE connection %1Y14 was interrupted because the watchdog timer has elapsed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1062">
+      <EN_TEXT>At least one FSoE connection was interrupted because the watchdog timer has elapsed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1063">
+      <EN_TEXT>The SRA parameters of at least one FSoE connection are invalid.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1064">
+      <EN_TEXT>Problem in the FSoE connection %1Y14.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1065">
+      <EN_TEXT>In the FSoE connection %1Y14, the variable %2u was configured with an invalid data type.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1066">
+      <EN_TEXT>In the FSoE connection %1Y14, the maximum permitted size of the process image was exceeded. Cannot add the variable %2u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1067">
+      <EN_TEXT>The configuration of the FSoE connection %1Y14 is faulty.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1068">
+      <EN_TEXT>The configuration of the FSoE connection %2Y14 is faulty.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1069">
+      <EN_TEXT>Error when establishing the FSoE connections.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1070">
+      <EN_TEXT>Could not create the EtherCAT process image.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1071">
+      <EN_TEXT>Could not adopt the EtherCAT diagnostic objects.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1072">
+      <EN_TEXT>Error when requesting the SDO %2.2x Subindex %4.1x.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1073">
+      <EN_TEXT>Error when setting the SDO %2.2x Subindex %4.1x.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1074">
+      <EN_TEXT>Error when creating the PDO mapping.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1075">
+      <EN_TEXT>Function element %0.3Y11 was or is partially operated (affected inputs: 1st i/p. =i%4.1u in connection %3Y14 ; 2nd i/p. =i%6.1u in connection %5Y14).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1076">
+      <EN_TEXT>There is a 1-signal at two inputs on the operating mode selector switch %0.3Y11 on module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1077">
+      <EN_TEXT>Error caused by the feedback loop on output element %0.3Y11 (affected outputs o%4.1u in connection %3Y14 and o%6.1u in connection %5.1Y14)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1090">
+      <EN_TEXT>The FSoE connection %1Y14 was interrupted because an FSoE address is invalid.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1091">
+      <EN_TEXT>The SRA parameters of FSoE connection %1Y14 are invalid.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1092">
+      <EN_TEXT>An invalid FSoE address was configured for FSoE connection %1Y14.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1093">
+      <EN_TEXT>When transferring the project, a diagnostic directory could not be created at position %0.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1013">
+      <EN_TEXT>Could not establish a Modbus device connection %5.2Y13 to the remote host with the IP address %1.1u.%2.1u.%3.1u.%4.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1014">
+      <EN_TEXT>The number of configured SafetyNET p subscribers is outside the permitted range.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1015">
+      <EN_TEXT>In the PNOZmulti Network Editor, I/O mapping has not been performed for the module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_986">
+      <EN_TEXT>%2.1u ST modules are installed to the right of the base unit, although %1.1u are configured.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_987">
+      <EN_TEXT>Error on an ST output on module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_988">
+      <EN_TEXT>The number of ST expansion modules installed to the right of the base unit is more than the basis unit can support.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_990">
+      <EN_TEXT>The input signals from safety mat "%0.3Y11" are faulty (affected inputs: 1st input = %6.1u on module %5Y10; 2nd input = i%8.1u on module %7Y10).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1078">
+      <EN_TEXT>User %4.8x16#-%12.1u2#%13.3u7# is signed in at %0.3Y11 in the sign in list %3.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1079">
+      <EN_TEXT>User of KeyInPocketListe %3.1u signed out.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1080">
+      <EN_TEXT>User %4.8x16#-%12.1u2#%13.3u7# has reset sign in list %3.1u at %0.3Y11</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1081">
+      <EN_TEXT>Error caused by the feedback loop for the actuator on output: o%3.1u or o%4.1u of the %2.1u. decentralised module on module %1Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1082">
+      <EN_TEXT>Error caused by the feedback loop for the actuator on output: o%3.1u of the %2.1u. decentralised module on module %1Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1083">
+      <EN_TEXT>Error caused by output "%0.2Y15" on %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1084">
+      <EN_TEXT>Communication with the device "%0Y10" is disrupted.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1085">
+      <EN_TEXT>One or more outputs on the decentralised module have short-circuited.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1086">
+      <EN_TEXT>Error caused by the feedback loop on output element %0.3Y11 (affected output: o%7.1u of the %6.1u decentralised module on module %5Y10).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1087">
+      <EN_TEXT>Error caused by the feedback loop on output element %0.3Y11 (affected outputs: o%7.1u/o%10.1u of the %6.1u. decentralised module on module %5Y10).</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1088">
+      <EN_TEXT>EtherCAT error with AL status code %1.2u. </EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1089">
+      <EN_TEXT>The FSoE connection %1Y14 was interrupted because an error occurred in the communication sequence.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1016">
+      <EN_TEXT>The configuration of the element MSO flex visu for the workspace %3.1u and the PASvisu application do not match.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1017">
+      <EN_TEXT>The feedback loop at the output with expanded fault detection does not open.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1018">
+      <EN_TEXT>Error on the cascading on the module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1029">
+      <EN_TEXT>Function element was or is partially operated (inputs: module %1Y10, PDP67 %2.1u, i%3.1u / i%4.1u)</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1030">
+      <EN_TEXT>New project was downloaded.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1031">
+      <EN_TEXT>Project download from the chip card started.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1032">
+      <EN_TEXT>Factory reset was performed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1033">
+      <EN_TEXT>There is no project in module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1034">
+      <EN_TEXT>The steps for the project download from the chip card were not performed correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1035">
+      <EN_TEXT>Error while reading the chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1036">
+      <EN_TEXT>The steps for the factory reset were not performed correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1037">
+      <EN_TEXT>Chip card with new project data present.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1038">
+      <EN_TEXT>No valid project data present on the chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1039">
+      <EN_TEXT>Error caused by output TM %1.1u at module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="ERT0001_1040">
+      <EN_TEXT>Error caused by output IM %1.1u at module %0Y10.</EN_TEXT>
+   </TEXT>
+</SYS_ERROR_TEXT>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYS_ACTION_TEXT FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="2008-01-10 14:55:34">
+   <TEXT id="TEX0002_0">
+      <EN_TEXT>For information only, no remedy required</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_11">
+      <EN_TEXT>Check the wiring between the diagnostic unit and the PNOZmulti</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_12">
+      <EN_TEXT>Restart the diagnostic unit (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_13">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_21">
+      <EN_TEXT>Download the whole diagnostic configuration to the diagnostic unit again (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_22_1">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_31">
+      <EN_TEXT>Download the whole diagnostic configuration to the diagnostic unit again (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_32">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_41">
+      <EN_TEXT>Download the whole diagnostic configuration to the diagnostic unit again (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_42">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_51">
+      <EN_TEXT>Download the whole diagnostic configuration to the diagnostic unit again (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_52">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_61">
+      <EN_TEXT>Update the software on the diagnostic unit (e.g. PMImicro diag, OPC Server)</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_62">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_71">
+      <EN_TEXT>Obtain the latest version of the device’s diagnostic configuration from Pilz and download the whole diagnostic configuration to the diagnostic unit again</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_72">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_81">
+      <EN_TEXT>Make sure that the diagnostic configuration on the diagnostic unit matches the PNOZmulti configuration</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_82">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_91">
+      <EN_TEXT>Start diagnostics on the PNOZmulti</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_92">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_101">
+      <EN_TEXT>Download diagnostic configuration to the PNOZmulti</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_102">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_111">
+      <EN_TEXT>Connect the diagnostic unit to a PNOZmulti that supports the PVIS</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_112">
+      <EN_TEXT>Please contact Pilz</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_121">
+      <EN_TEXT>For information only, no remedy required</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_131">
+      <EN_TEXT>For information only, no remedy required</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_141">
+      <EN_TEXT>For information only, no remedy required</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_151">
+      <EN_TEXT>For information only, no remedy required</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_161">
+      <EN_TEXT>For information only, no remedy required</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0002_171">
+      <EN_TEXT>---</EN_TEXT>
+   </TEXT>
+</SYS_ACTION_TEXT>

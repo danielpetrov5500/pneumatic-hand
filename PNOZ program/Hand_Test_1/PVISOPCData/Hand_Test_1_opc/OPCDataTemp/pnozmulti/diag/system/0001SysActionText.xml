@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYS_ACTION_TEXT FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="2023-04-28 07:18:02">
+   <TEXT id="TEX0001_1085">
+      <EN_TEXT>Please contact Pilz. (Error code: %0P)</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1228">
+      <EN_TEXT>Please contact the device manufacturer. (Error code: %0P)</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1794">
+      <EN_TEXT>For information only, no remedy required</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1795">
+      <EN_TEXT>Adapt the actual hardware registry to the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1796">
+      <EN_TEXT>Install the configured expansion module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1797">
+      <EN_TEXT>Ensure that a maximum of 8 expansion modules are installed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1798">
+      <EN_TEXT>Check hardware registry.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1799">
+      <EN_TEXT>Ensure that the configuration downloaded to the PNOZmulti is the one that was intended for this unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1800">
+      <EN_TEXT>Ensure that there is a terminator to the right of the last expansion module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1802">
+      <EN_TEXT>Ensure that the correct type of base unit is installed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1803">
+      <EN_TEXT>Remove expansion modules.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1804">
+      <EN_TEXT>Ensure that you install the base unit version that is entered in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1805">
+      <EN_TEXT>Ensure that you install the expansion module version that is entered in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1806">
+      <EN_TEXT>Run project reset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1807">
+      <EN_TEXT>Reduce the number of elements.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1808">
+      <EN_TEXT>Reduce the number of logic elements.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1809">
+      <EN_TEXT>Download the configuration to the chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1810">
+      <EN_TEXT>Remove the invalid loop between logic elements (AND, OR etc.).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1811">
+      <EN_TEXT>Ensure that you only enter Element IDs within the permitted range (1 ... 100).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1812">
+      <EN_TEXT>Install the configured base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1813">
+      <EN_TEXT>Output "%0Y1" (terminal: O%2.1u): Ensure there are no short circuits to 0 V or 24 VDC in the wiring of the output.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1814">
+      <EN_TEXT>Ensure an interruption-free supply of 24 VDC at the "0 V" and "24 V" terminals.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1815">
+      <EN_TEXT>Output "%0Y1" (terminal: O%2.1u): Ensure there is no open circuit in the wiring of the output.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1816">
+      <EN_TEXT>Change the expansion module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1817">
+      <EN_TEXT>Ensure that test pulse T%0.1u is wired in accordance with the configuration and circuit diagram. To do this, disconnect the inputs one at a time and check whether the error still occurs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1818">
+      <EN_TEXT>Test pulse T%0.1u: Ensure that there are no short circuits to 24 VDC in the wiring of the test pulse.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1819">
+      <EN_TEXT>Test pulse T%0.1u: Ensure that there are no short circuits to other test pulses in the wiring of the test pulse.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1821">
+      <EN_TEXT>Ensure that the contacts on the input element operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1822">
+      <EN_TEXT>Ensure that the input element is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1823">
+      <EN_TEXT>Ensure that the contacts are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1824">
+      <EN_TEXT>Ensure that the actuator on output "%1Y1" (terminal: O%3.1u) is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1825">
+      <EN_TEXT>Ensure that the feedback loop is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1826">
+      <EN_TEXT>Ensure that the feedback loop is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1827">
+      <EN_TEXT>Ensure that the feedback loop configuration takes into account the actual reaction time of the actuator.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1828">
+      <EN_TEXT>Output "%0Y1" (terminal: O1): Ensure that there are no short circuits to 0 V or 24 VDC in the wiring of the output.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1829">
+      <EN_TEXT>Output "%0Y1" (terminal: O2): Ensure that there are no short circuits to 0 V or 24 VDC in the wiring of the output.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1830">
+      <EN_TEXT>Output "%0Y1" (terminal: O3): Ensure that there are no short circuits to 0 V or 24 VDC in the wiring of the output.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1831">
+      <EN_TEXT>Output "%0Y1" (terminal: O0): Ensure that there are no short circuits to 0 V or 24 VDC in the wiring of the output.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1832">
+      <EN_TEXT>Ensure that there are no short circuits to 0 V or 24 VDC in the wiring of the supply voltage.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1833">
+      <EN_TEXT>Change the module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1834">
+      <EN_TEXT>Input i%0.1u on slot %1.1u: Ensure that there are no short circuits to 24 VDC in the input wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1836">
+      <EN_TEXT>Ensure that the operating mode selector switch "%4Y2" is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1837">
+      <EN_TEXT>Ensure that the operating mode selector switch "%0Y2" is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1838">
+      <EN_TEXT>Operating mode selector switch "%0Y2": Ensure that there are no short circuits to 0 V in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1839">
+      <EN_TEXT>Operating mode selector switch "%0Y2": Ensure that there are no open circuits in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1840">
+      <EN_TEXT>Operating mode selector switch "%0Y2": Ensure that there are no short circuits to 24 VDC in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1841">
+      <EN_TEXT>Change the chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1842">
+      <EN_TEXT>Insert the chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1843">
+      <EN_TEXT>Change the terminator.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1844">
+      <EN_TEXT>Ensure that the cascading input is wired in accordance with the configuration and circuit diagram. Then reset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1845">
+      <EN_TEXT>Ensure that there are no short circuits to 24 VDC or any other cascade cable in the wiring of the cascading input.  Then reset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1846">
+      <EN_TEXT>Change the cascaded base units one by one.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1847">
+      <EN_TEXT>Ensure that the cascading output is wired in accordance with the configuration and circuit diagram. Then reset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1848">
+      <EN_TEXT>Ensure that there are no short circuits to 24 VDC or any other cascade cable in the wiring of the cascading output.  Then reset.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1849">
+      <EN_TEXT>Override muting zone.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1850">
+      <EN_TEXT>Ensure that the muting sensors operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1851">
+      <EN_TEXT>Ensure that the muting sensors are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1852">
+      <EN_TEXT>Ensure that the contacts on the logic element operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1853">
+      <EN_TEXT>Logic element "%0Y2": Increase the value for the simultaneity of the muting sensors.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1854">
+      <EN_TEXT>Logic element "%0Y2": Increase the value for the muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1855">
+      <EN_TEXT>Ensure that objects pass through the muting zone within the specified muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1856">
+      <EN_TEXT>Ensure that objects pass through the muting zone individually.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1857">
+      <EN_TEXT>Reduce the switching frequency of relay output 0.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1858">
+      <EN_TEXT>Reduce the switching frequency of relay output 1.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1859">
+      <EN_TEXT>Reduce the switching frequency of relay output 2.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1860">
+      <EN_TEXT>Reduce the switching frequency of relay output 3.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1861">
+      <EN_TEXT>Reduce the switching frequency of the relay output.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1862">
+      <EN_TEXT>Safety mat "%0Y2": Ensure that there are no short circuits to 0 V in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1863">
+      <EN_TEXT>Safety mat "%0Y2": Ensure that there are no open circuits in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1864">
+      <EN_TEXT>Ensure that safety mat "%0Y2" is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1865">
+      <EN_TEXT>Safety mat "%0Y2": Ensure that there are no short circuits to 0 V or 24 VDC in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1866">
+      <EN_TEXT>Ensure that you install the fieldbus module version that is entered in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1867">
+      <EN_TEXT>Remove the fieldbus module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1868">
+      <EN_TEXT>Change the expansion modules one by one until the error has been rectified.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1869">
+      <EN_TEXT>Reduce the scope of the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1870">
+      <EN_TEXT>Ensure that the encoder on axis %1.1u is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1871">
+      <EN_TEXT>Change the encoder on axis %0.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1872">
+      <EN_TEXT>Ensure that the maximum frequency is not exceeded on axis %1.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1873">
+      <EN_TEXT>Design the encoder wiring and screening so that EMC influences are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1874">
+      <EN_TEXT>Speed monitor "%0Y0", axis %1.1u: On the "Axis data" tab, enter 0 % in the "Hysteresis" field.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1875">
+      <EN_TEXT>Use a version of the speed monitor that supports hysteresis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1876">
+      <EN_TEXT>Speed monitor "%0Y0", axis %1.1u: Ensure that inputs %2.1u and %3.1u do not have a 1 signal simultaneously.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1877">
+      <EN_TEXT>Ensure that inputs %0.1u and %1.1u on the speed monitor do not have a 1 signal simultaneously.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1878">
+      <EN_TEXT>Ensure that the speed monitor on axis %1.1u is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1879">
+      <EN_TEXT>Ensure that the speed monitor is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1880">
+      <EN_TEXT>Ensure that several speeds are not selected simultaneously on the inputs of the speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1881">
+      <EN_TEXT>Create a version of the diagnostic configuration that is supported by the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1882">
+      <EN_TEXT>The configuration should only contain elements that are supported by this version of the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1883">
+      <EN_TEXT>Use a version of the base unit that supports all the elements available in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1884">
+      <EN_TEXT>Input i%2.1u on slot %3.1u: Ensure that there are no short circuits to 24 VDC in the input wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1885">
+      <EN_TEXT>Reset the muting time via the reset button. If necessary, override the muting zone.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1886">
+      <EN_TEXT>Install the expansion module with equipment ID "%0Y0" on position %0.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1887">
+      <EN_TEXT>Ensure that the feedback loop is configured correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1888">
+      <EN_TEXT>Ensure that the inputs used to select the speed are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1889">
+      <EN_TEXT>Install the configured fieldbus module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1890">
+      <EN_TEXT>If possible, increase the standstill frequency of axis %1.1u in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1891">
+      <EN_TEXT>Ensure that the links to the fieldbus module are available.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1895">
+      <EN_TEXT>Create a mechanical connection between incremental encoder and axis %1.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1896">
+      <EN_TEXT>Ensure that the switching distance of the proximity switch is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1897">
+      <EN_TEXT>Ensure that the proximity switches operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1898">
+      <EN_TEXT>Ensure that the proximity switch is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1899">
+      <EN_TEXT>Ensure that the proximity switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1900">
+      <EN_TEXT>Ensure that supply voltage is applied to the proximity switch.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1901">
+      <EN_TEXT>Dampen position controller of axis %1.1u.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1902">
+      <EN_TEXT>Enter a device name for the PROFINET module that complies with the specifications (see operating manual for the PROFINET module).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1903">
+      <EN_TEXT>Ensure that the incremental encoder is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1904">
+      <EN_TEXT>Download configuration to the PNOZmulti again.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1905">
+      <EN_TEXT>Ensure that the expansion module installed on position -%0.1u is the module that is entered in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1906">
+      <EN_TEXT>Ensure that there are jumpers between all the expansion modules on the left-hand side of the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1907">
+      <EN_TEXT>Position -%0.1u: Ensure an interruption-free supply of 24 VDC at the "0 V" and "24 V" terminals.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1908">
+      <EN_TEXT>Ensure that there is a connection cable between the two PNOZmulti systems.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1909">
+      <EN_TEXT>Ensure that the connection cable meets the specifications of the PNOZ ml1p operating instructions (e.g. pin assignment).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1910">
+      <EN_TEXT>Ensure that the EMC influences on the connection cable are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1911">
+      <EN_TEXT>Analogue input module "%0Y0": Configure the inputs for SIL2 applications.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1912">
+      <EN_TEXT>Use a version of the analogue input module that supports SIL 3 applications.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1913">
+      <EN_TEXT>Use a version of the analogue input module that supports voltage inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1914">
+      <EN_TEXT>Ensure that the current at input I%1.1u is within the permitted signal range (0 ... 25.59 mA).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1915">
+      <EN_TEXT>Ensure that the voltage at input I%1.1u is within the permitted signal range (-10.24 ... 10.2375 VDC).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1917">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1918">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1919">
+      <EN_TEXT>Enter a larger tolerance value in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1920">
+      <EN_TEXT>Ensure that the same transmission rate is configured for the expansion module "%0Y0" and the expansion module of the opposite side.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1921">
+      <EN_TEXT>Ensure that the voltage at input I0 is within the permitted signal range (-10,24 ... 10,2375 V DC).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1922">
+      <EN_TEXT>Ensure that the current at input I0 is within the permitted signal range (0 ... 25,59 mA).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1923">
+      <EN_TEXT>Ensure that input I%1.1u is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1924">
+      <EN_TEXT>Cannot establish a connection to the PNOZmulti</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1925">
+      <EN_TEXT>Ensure that the inputs are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1926">
+      <EN_TEXT>Ensure that the air pressure monitoring device operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1927">
+      <EN_TEXT>Ensure that the combustion air supply operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1928">
+      <EN_TEXT>Ensure that the fuel supply operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1929">
+      <EN_TEXT>Ensure that the ignition device operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1930">
+      <EN_TEXT>Ensure that the safety valves operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1931">
+      <EN_TEXT>Ensure that the compound controller operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1932">
+      <EN_TEXT>Ensure that the flame monitoring device operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1933">
+      <EN_TEXT>Ensure that the filter time of the feedback loop input and the actuator reaction time are taken into account during switch-off monitoring Toff.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1934">
+      <EN_TEXT>Ensure that the actuator reaction time is taken into account during power-up monitoring Ton.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1935">
+      <EN_TEXT>Ensure an interruption-free supply of 24 VDC at the "A1" and "A2" terminals.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1936">
+      <EN_TEXT>Ensure that the load current supply is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1937">
+      <EN_TEXT>Make sure that the DHCP Server is active.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1938">
+      <EN_TEXT>Deactivate the option: "Obtain IP address automatically"</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1939">
+      <EN_TEXT>Ensure that the wiring is error-free.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1940">
+      <EN_TEXT>Check load.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1941">
+      <EN_TEXT>Rectify source of interference</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1942">
+      <EN_TEXT>Install module "%1Y5"</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1943">
+      <EN_TEXT>Check supply voltage</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1944">
+      <EN_TEXT>Check supply voltage at the link module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1945">
+      <EN_TEXT>Check cable cross section and cable run.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1946">
+      <EN_TEXT>Reduce load.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1947">
+      <EN_TEXT>Ensure that the wiring is error-free.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1948">
+      <EN_TEXT>Reduce ambient temperature.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1950">
+      <EN_TEXT>Check Ethernet configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1951">
+      <EN_TEXT>Update inputs within the configured monitoring time</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1952">
+      <EN_TEXT>Increase monitoring time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1954">
+      <EN_TEXT>Ensure that test pulse T%2.1u is wired in accordance with the configuration and circuit diagram. To do this, disconnect the inputs one at a time and check whether the error still occurs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1955">
+      <EN_TEXT>Test pulse T%2.1u: Ensure that there are no short circuits to 24 VDC in the wiring of the test pulse.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1956">
+      <EN_TEXT>Test pulse T%2.1u: Ensure that there are no short circuits to other test pulses in the wiring of the test pulse.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1957">
+      <EN_TEXT>Ensure that the max. cable length on the test pulse output is not exceeded.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1958">
+      <EN_TEXT>Ensure that the max. load on the test pulse output is not exceeded.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1959">
+      <EN_TEXT>Clean the unit to remove any potential short circuits.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1962">
+      <EN_TEXT>Ensure that there are jumpers between all the expansion modules on the right-hand side of the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1964">
+      <EN_TEXT>Output "%1.1u" on expansion module  %0Y10. Ensure that there are no short circuits to 0 V or 24 VDC in the output wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1965">
+      <EN_TEXT>Check the supply voltage of the semiconductor outputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1966">
+      <EN_TEXT>Check the position of the communication module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1967">
+      <EN_TEXT>Check the type and version of the communication module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1968">
+      <EN_TEXT>Ensure that the actuator on output %2.1u of module %1Y10 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1969">
+      <EN_TEXT>Ensure that the chip card is inserted correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1970">
+      <EN_TEXT>Ensure that the sensors operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1971">
+      <EN_TEXT>Ensure that the sensors are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1973">
+      <EN_TEXT>Ensure that the correct sensor type is selected in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1974">
+      <EN_TEXT>Ensure that the configured maximum frequency AB is not exceeded during normal operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1975">
+      <EN_TEXT>Ensure that the connected sensor matches the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1976">
+      <EN_TEXT>Ensure that a frequency difference between Track A and B only occurs during positive/negative acceleration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1977">
+      <EN_TEXT>Ensure that there are no short circuits in the sensor wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1978">
+      <EN_TEXT>Remove interference from the sensor environment.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1979">
+      <EN_TEXT>Install the proximity switch in a way that only one proximity switch is active at any time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1981">
+      <EN_TEXT>Ensure that proximity switches are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1982">
+      <EN_TEXT>Ensure that the values configured for Umin and Umax on Track S suit the application.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1983">
+      <EN_TEXT>Reduce the number of connections.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1984">
+      <EN_TEXT>Reduce ETH traffic.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1986">
+      <EN_TEXT>Ensure that you install the version of the modules that is entered in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1987">
+      <EN_TEXT>Use a version of the base unit that supports all the functions available in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1988">
+      <EN_TEXT>Ensure that the sensors operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1989">
+      <EN_TEXT>Ensure that a frequency difference between track AB and Z only occurs during positive/negative acceleration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1990">
+      <EN_TEXT>Ensure that the configured maximum frequency at track Z is not exceeded during normal operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1991">
+      <EN_TEXT>Operating mode selector switch "%0.3Y11": Ensure that there are no open circuits in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1992">
+      <EN_TEXT>Operating mode selector switch "%0.3Y11": Ensure that there are no short circuits to 0 V in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1993">
+      <EN_TEXT>Ensure that the operating mode selector switch "%0.3Y11" is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1994">
+      <EN_TEXT>Input i%6.1u on module %5Y10: Ensure that there are no short circuits to 24 VDC in the input wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1995">
+      <EN_TEXT>Input i%8.1u on module %7Y10: Ensure that there are no short circuits to 24 VDC in the input wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1996">
+      <EN_TEXT>Ensure that the operating mode selector switch %0.3Y11 is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1997">
+      <EN_TEXT>Test pulse T%1.1u: Ensure that there are no short circuits to 24 VDC in the wiring of the test pulse.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1998">
+      <EN_TEXT>Test pulse T%1.1u: Ensure that there are no short circuits to other test pulses in the wiring of the test pulse.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1999">
+      <EN_TEXT>Ensure that the test pulse T%1.1u is wired in accordance with the configuration and circuit diagram. To do this, disconnect the inputs one at a time and check whether the error still occurs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2000">
+      <EN_TEXT>Ensure that the actuator on output o%6.1u of module %5Y10 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2001">
+      <EN_TEXT>Ensure that the actuator on output o%8.1u of module %7Y10 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2002">
+      <EN_TEXT>Ensure that the connection between the modules is OK.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2003">
+      <EN_TEXT>Ensure that the jumpers are attached correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2004">
+      <EN_TEXT>Remove external sources of interference.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2005">
+      <EN_TEXT>Ensure that the expansion module installed at position -%1.1u is the module that is entered in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2006">
+      <EN_TEXT>Read the error stack again</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2007">
+      <EN_TEXT>Ensure that the USB memory is inserted correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2008">
+      <EN_TEXT>Change the USB memory.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2009">
+      <EN_TEXT>Ensure that the USB memory contains the correct, active project.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2010">
+      <EN_TEXT>Download the project to the USB memory again.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2011">
+      <EN_TEXT>Download project again.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2012">
+      <EN_TEXT>Reset the project by selecting "General Reset" on the display and adopt the new project.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2013">
+      <EN_TEXT>Ensure that the installed modules match the hardware configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2014">
+      <EN_TEXT>Ensure that the versions of the installed modules match the hardware configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2015">
+      <EN_TEXT>Safety mat "%0.3Y11": Ensure that there are no open circuits in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2016">
+      <EN_TEXT>Safety mat "%0.3Y11": Ensure that there are no short circuits to 0 V in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2017">
+      <EN_TEXT>Ensure that the safety mat "%0.3Y11" is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2018">
+      <EN_TEXT>Ensure that the outputs are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2019">
+      <EN_TEXT>Check the maximum output load.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2020">
+      <EN_TEXT>Ensure that the SafetyNET p cabling is OK.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2021">
+      <EN_TEXT>Check SafetyNET p configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2022">
+      <EN_TEXT>Install module on slot %2.1u to the left of the base unit.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2023">
+      <EN_TEXT>Ensure that the input signal is present without fault.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2024">
+      <EN_TEXT>Adapt input filter.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2025">
+      <EN_TEXT>Check configuration of open circuit detection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2026">
+      <EN_TEXT>Ensure that the chip card holder is not defective.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2027">
+      <EN_TEXT>Ensure that the actuator on output o%3.1u of module %0Y10 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2028">
+      <EN_TEXT>Ensure that the actuator on output o%4.1u of module %0Y10 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2029">
+      <EN_TEXT>Input i%3.1u on module %0Y10: Ensure that there are no short circuits to 24 VDC in the input wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2030">
+      <EN_TEXT>Input i%4.1u on module %0Y10: Ensure that there are no short circuits to 24 VDC in the input wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2031">
+      <EN_TEXT>Module %5Y0: Ensure that there are no short circuits to 24 VDC in the wiring of the inputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2032">
+      <EN_TEXT>Ensure that the configured filter time at the input %1.1i of the module %0Y10 is large enough.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2033">
+      <EN_TEXT>Ensure that the configured filter time of the element %0.3Y11 is large enough.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2034">
+      <EN_TEXT>Check supply voltage at the module %0Y10.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2035">
+      <EN_TEXT>Ensure that the value range is not violated by scaling or arithmetic functions.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2036">
+      <EN_TEXT>Ensure that the measured variable at the input %3.1u of module %0Y10 cannot assume measured values outside the measuring range (0..25mA).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2037">
+      <EN_TEXT>Check the polarity of the analogue measured variable.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2038">
+      <EN_TEXT>Check configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2039">
+      <EN_TEXT>Check network connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2040">
+      <EN_TEXT>Compare PASvisu application with PNOZmulti project and load it again.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2041">
+      <EN_TEXT>Download new project.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2042">
+      <EN_TEXT>Perform project download from the chip card</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2043">
+      <EN_TEXT>Remove chip card.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2044">
+      <EN_TEXT>Ensure that there are no short circuits to 0 V or 24 VDC in the wiring of the outputs.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2045">
+      <EN_TEXT>Create project data for the chip card with valid security device key.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2046">
+      <EN_TEXT>Check device's security configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2047">
+      <EN_TEXT>Download project with the PNOZmulti Configurator to the device.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2048">
+      <EN_TEXT>End dynamic program display.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2049">
+      <EN_TEXT>Re-establish EtherCAT network connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2050">
+      <EN_TEXT>Check network cable.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2051">
+      <EN_TEXT>Check FSoE configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2052">
+      <EN_TEXT>Ensure that the process data is configured for send and receive direction.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2053">
+      <EN_TEXT>Check FSoE addresses.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2054">
+      <EN_TEXT>Check connection IDs (for Slave connections, the connection ID must = "0").</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2055">
+      <EN_TEXT>Check watchdog times (for Slave connections, the watchdog time must = "0").</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2056">
+      <EN_TEXT>Check process data.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2057">
+      <EN_TEXT>Ensure that the process data length has an even value (value "1" is permitted).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2058">
+      <EN_TEXT>Check configuration in the device description files.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2059">
+      <EN_TEXT>Check the telegram length in the device description file.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2060">
+      <EN_TEXT>Check EtherCAT assignment.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2061">
+      <EN_TEXT>Reduce number of FSoE connections in the PNOZmulti Configurator.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2062">
+      <EN_TEXT>Reduce amount of process data that’s transferred via the FSoE network.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2063">
+      <EN_TEXT>Check communication speed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2064">
+      <EN_TEXT>Check SRA parameters and their exact number in the device description file.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2065">
+      <EN_TEXT>Ensure that the FSoE Slave connection was configured without SRA parameters.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2066">
+      <EN_TEXT>Ensure that the configured SRA parameters are set correctly in the FSoE Master connections.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2067">
+      <EN_TEXT>Check SDO 0xAnn0 in the EtherCAT configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2068">
+      <EN_TEXT>Check EtherCAT configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2069">
+      <EN_TEXT>Revise PDO mapping.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2070">
+      <EN_TEXT>Check size of PDO mapping object.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2071">
+      <EN_TEXT>Check PDO assignment.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2072">
+      <EN_TEXT>Input i%3.2Y14 on module %0Y10: Ensure that there are no short circuits to 24 VDC in the input wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2073">
+      <EN_TEXT>Input i%5.2Y14 on module %0Y10: Ensure that there are no short circuits to 24 VDC in the input wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2074">
+      <EN_TEXT>Ensure that the actuator on output o%4.1u in connection %3Y14 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2075">
+      <EN_TEXT>Ensure that the actuator on output o%6.1u of module %3Y14 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2076">
+      <EN_TEXT>Ensure that the actuator on output o%3.1u or o%4.1u of the %2.1u. decentralised module on module %1Y10 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2077">
+      <EN_TEXT>Ensure that the actuator on output o%3.1u of the %2.1u. decentralised module on module %1Y10 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2078">
+      <EN_TEXT>Output "%0.2Y15" on module %0Y10. Ensure that there are no short circuits to 0 V or 24 VDC in the output wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2079">
+      <EN_TEXT>Ensure that all bus connections are wired and inserted correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2080">
+      <EN_TEXT>Ensure an interruption-free supply of 24 VDC to all bus subscribers.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2081">
+      <EN_TEXT>Ensure that the actuator on output o%7.1u of the %6.1u. decentralised module on module %5Y10 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2082">
+      <EN_TEXT>Ensure that the actuator on outputs o%7.1u/o%10.1u of the %6.1u. decentralised module on module %5Y10 is operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2083">
+      <EN_TEXT>Check the error parameters in the customer documentation of the third-party supplier.</EN_TEXT>
+   </TEXT>
+</SYS_ACTION_TEXT>

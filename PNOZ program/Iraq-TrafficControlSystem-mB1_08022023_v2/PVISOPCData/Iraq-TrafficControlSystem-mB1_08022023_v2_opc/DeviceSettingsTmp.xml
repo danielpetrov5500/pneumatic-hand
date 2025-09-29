@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DeviceSettings FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="1"
+    DEVICE_DIR_VERSION="0" PROJECT_NAME="DeviceProjects"
+    EVENTLOG_STOP="0" EVENTLOG_NUMBER="10000" GENERIC_TREE="1">
+    <WorkDirectory>.\OPCData</WorkDirectory>
+    <TransferDirectory>.\OPCDataTemp</TransferDirectory>
+    <DeviceInfo id="Iraq-TrafficControlSystem-mB1_08022023_v2"
+        ProjectPath="D:\Лични\Dani\Robotic hand\PNOZ program\Iraq-TrafficControlSystem-mB1_08022023_v2"
+        ProjectCRC="1215984056" supportsPASVisu="true">
+        <ConnectedDevice>PNOZ</ConnectedDevice>
+        <ConnectionPort>TCP</ConnectionPort>
+        <ConnectionString>169.254.60.1:9000 3000</ConnectionString>
+        <Language>
+            <DefaultLanguage>en</DefaultLanguage>
+            <SupportLanguage>en</SupportLanguage>
+        </Language>
+        <EventListSize>100</EventListSize>
+        <pasVisuData
+            visuFile="D:\Лични\Dani\Robotic hand\PNOZ program\Iraq-TrafficControlSystem-mB1_08022023_v2\bin\pmimicro\visu\visuModel.json" visuCRC="ffffffffe82b2f4a"/>
+    </DeviceInfo>
+</DeviceSettings>

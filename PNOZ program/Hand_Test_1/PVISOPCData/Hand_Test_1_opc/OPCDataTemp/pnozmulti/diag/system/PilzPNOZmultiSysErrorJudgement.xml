@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SYS_ERROR_JUDGEMENTS FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="2023-04-28 07:18:02" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SysErrorJudgement.xsd">
+    <JUDGEMENT id="JUD1">
+        <JUD_TEXT>Invalid</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD2">
+        <JUD_TEXT>PNOZmulti_Start</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD3">
+        <JUD_TEXT>Primary_Error</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD4">
+        <JUD_TEXT>Secondary_Error</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD5">
+        <JUD_TEXT>Absolut_Error</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD6">
+        <JUD_TEXT>Exclusive_Error</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD7">
+        <JUD_TEXT>Ignore_Error</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD8">
+        <JUD_TEXT>Fieldbus_Error</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD9">
+        <JUD_TEXT>Fieldbus_OK</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD10">
+        <JUD_TEXT>SafetyNETp_Error</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD11">
+        <JUD_TEXT>SafetyNETp_OK</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD12">
+        <JUD_TEXT>DiagMsg_Id_Set</JUD_TEXT>
+    </JUDGEMENT>
+    <JUDGEMENT id="JUD13">
+        <JUD_TEXT>DiagMsg_Id_Reset</JUD_TEXT>
+    </JUDGEMENT>
+</SYS_ERROR_JUDGEMENTS>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYMBOLICNAMESPACE FILE_STRUCT_VERSION="1" PROJECT_ID="" xsi:noNamespaceSchemaLocation="Namespace.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DEVICETYPES>
+		<DEVICETYPE id="CLASS257" DisplayName="PITreader">
+			<VALUES>
+				<VALUE DisplayName="Status" StartByte="0" DataType="BYTE"/>
+				<VALUE DisplayName="SecurityId" StartByte="1" DataType="UINT64"/>
+				<VALUE DisplayName="Permission" StartByte="9" DataType="BYTE"/>
+				<VALUE DisplayName="KeyOrderNo" StartByte="10" DataType="UINT32"/>
+				<VALUE DisplayName="KeySerialNo" StartByte="14" DataType="UINT32"/>
+			</VALUES>
+		</DEVICETYPE>
+		<DEVICETYPE id="CLASS514" DisplayName="PITmodeSoft">
+			<VALUES>
+				<VALUE DisplayName="Status" StartByte="0" DataType="BYTE"/>
+			</VALUES>
+		</DEVICETYPE>
+	</DEVICETYPES>
+	<DEVICES DisplayName="ConnectedDevices" RESOURCE="CONNECTION">
+		<DEVICE idref="CLASS257" IsHidden="0" Description="" ConnectionNo="0" DisplayName="1" Access="ReadOnly"/>
+		<DEVICE idref="CLASS257" IsHidden="0" Description="" ConnectionNo="1" DisplayName="2" Access="ReadOnly"/>
+		<DEVICE idref="CLASS257" IsHidden="0" Description="" ConnectionNo="2" DisplayName="3" Access="ReadOnly"/>
+		<DEVICE idref="CLASS257" IsHidden="0" Description="" ConnectionNo="3" DisplayName="4" Access="ReadOnly"/>
+		<DEVICE idref="CLASS257" IsHidden="0" Description="" ConnectionNo="4" DisplayName="5" Access="ReadOnly"/>
+		<DEVICE idref="CLASS257" IsHidden="0" Description="" ConnectionNo="5" DisplayName="6" Access="ReadOnly"/>
+		<DEVICE idref="CLASS257" IsHidden="0" Description="" ConnectionNo="6" DisplayName="7" Access="ReadOnly"/>
+		<DEVICE idref="CLASS257" IsHidden="0" Description="" ConnectionNo="7" DisplayName="8" Access="ReadOnly"/>
+		<DEVICE idref="CLASS514" IsHidden="0" Description="" ConnectionNo="0" DisplayName="1" Access="ReadOnly"/>
+		<DEVICE idref="CLASS514" IsHidden="0" Description="" ConnectionNo="1" DisplayName="2" Access="ReadOnly"/>
+		<DEVICE idref="CLASS514" IsHidden="0" Description="" ConnectionNo="2" DisplayName="3" Access="ReadOnly"/>
+		<DEVICE idref="CLASS514" IsHidden="0" Description="" ConnectionNo="3" DisplayName="4" Access="ReadOnly"/>
+		<DEVICE idref="CLASS514" IsHidden="0" Description="" ConnectionNo="4" DisplayName="5" Access="ReadOnly"/>
+		<DEVICE idref="CLASS514" IsHidden="0" Description="" ConnectionNo="5" DisplayName="6" Access="ReadOnly"/>
+		<DEVICE idref="CLASS514" IsHidden="0" Description="" ConnectionNo="6" DisplayName="7" Access="ReadOnly"/>
+		<DEVICE idref="CLASS514" IsHidden="0" Description="" ConnectionNo="7" DisplayName="8" Access="ReadOnly"/>
+	</DEVICES>
+</SYMBOLICNAMESPACE>

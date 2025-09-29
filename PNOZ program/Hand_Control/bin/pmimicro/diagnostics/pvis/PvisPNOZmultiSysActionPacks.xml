@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYS_ACTION_PACKS FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="2008-01-10 14:55:34" TEXTFILE="PvisPNOZmultiSysActionText.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SysActionPacks.xsd">
+	<ACTION_PACK id="APK0002_1">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_3"/>
+			<ACTION_TEXT idref="TEX0002_11"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_3"/>
+			<ACTION_TEXT idref="TEX0002_12"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_3"/>
+			<ACTION_TEXT idref="TEX0002_13"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_2">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_21"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_22"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_3">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_31"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_32"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_4">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_41"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_42"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_5">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_51"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_52"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_6">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_61"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_62"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_8">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_81"/>
+			<LOCATION>_OPD</LOCATION>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_82"/>
+			<LOCATION>_OPD</LOCATION>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_9">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0001_91"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0001_92"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_10">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_101"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_102"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_11">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_111"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_6"/>
+			<ACTION_TEXT idref="TEX0002_112"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_12">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_8"/>
+			<ACTION_TEXT idref="TEX0002_121"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_13">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_8"/>
+			<ACTION_TEXT idref="TEX0002_131"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_14">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_8"/>
+			<ACTION_TEXT idref="TEX0002_141"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_15">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_8"/>
+			<ACTION_TEXT idref="TEX0002_151"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_16">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_8"/>
+			<ACTION_TEXT idref="TEX0002_161"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+	<ACTION_PACK id="APK0002_17">
+		<ACTION>
+			<SCOPE idref="RAN0001_2"/>
+			<RESPONSIBILITY idref="RES0001_8"/>
+			<ACTION_TEXT idref="TEX0002_171"/>
+			<LOCATION idref="ITD35"/>
+		</ACTION>
+	</ACTION_PACK>
+</SYS_ACTION_PACKS>

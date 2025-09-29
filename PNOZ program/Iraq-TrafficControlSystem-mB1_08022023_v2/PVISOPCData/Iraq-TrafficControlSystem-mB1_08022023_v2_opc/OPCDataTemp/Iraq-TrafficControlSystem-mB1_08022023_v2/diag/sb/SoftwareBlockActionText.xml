@@ -1,0 +1,3251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTWAREBLOCK_ACTION_TEXT FILE_STRUCT_VERSION="1"
+                           FILE_EXPORT_VERSION="2023-04-28 07:18:02"
+                           PROJECT_ID="Iraq-TrafficControlSystem-mB1_08022023_v2">
+   <TEXT id="TEX0001_0">
+      <EN_TEXT>Release E-STOP pushbutton and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the E-STOP button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_2">
+      <EN_TEXT>Ensure that the switch contacts operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_3">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when switching.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_4">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_5">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_6">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_7">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_8">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_9">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_10">
+      <EN_TEXT>Ensure that the switch contacts operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_11">
+      <EN_TEXT>Ensure that there are no errors in the wiring of the E-STOP pushbutton.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_12">
+      <EN_TEXT>Ensure that the E-STOP pushbutton is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_13">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_14">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_15">
+      <EN_TEXT>Ensure that the E-STOP pushbutton is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_16">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_17">
+      <EN_TEXT>Clear the safety device and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_18">
+      <EN_TEXT>Ensure there are no open circuits in the wiring of the safety device.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_19">
+      <EN_TEXT>Ensure that the contacts on the safety device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_20">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety device is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_21">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_22">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_23">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_24">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_25">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_26">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_27">
+      <EN_TEXT>Perform a function test (trigger safety device, release it and reset if necessary).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_28">
+      <EN_TEXT>Ensure the safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_29">
+      <EN_TEXT>Ensure that the contacts on the safety device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_30">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety device is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_31">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_32">
+      <EN_TEXT>Ensure that the contacts on the safety device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_33">
+      <EN_TEXT>Ensure the safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_34">
+      <EN_TEXT>Ensure that the safety device is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_35">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_36">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_37">
+      <EN_TEXT>Ensure that the safety device is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_38">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_39">
+      <EN_TEXT>Close the safety gate and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_40">
+      <EN_TEXT>Ensure that there are no open circuits in the safety gate wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_41">
+      <EN_TEXT>Ensure that the contacts on the safety gate operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_42">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety gate is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_43">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_44">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_45">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_46">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_47">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_48">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_49">
+      <EN_TEXT>Perform a function test (open safety gate and then close it again, reset if necessary).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_50">
+      <EN_TEXT>Ensure that the safety gate is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_51">
+      <EN_TEXT>Ensure that the contacts on the safety gate operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_52">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety gate is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_53">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_54">
+      <EN_TEXT>Ensure that the contacts on the safety gate operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_55">
+      <EN_TEXT>Ensure that the safety gate is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_56">
+      <EN_TEXT>Ensure that the safety gate is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_57">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_58">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_59">
+      <EN_TEXT>Ensure that the safety gate is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_60">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_61">
+      <EN_TEXT>Ensure that the enable switch contacts operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_62">
+      <EN_TEXT>Ensure that the enable switch is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_63">
+      <EN_TEXT>Ensure that the enable switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_64">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_65">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_66">
+      <EN_TEXT>Ensure that the enable switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_67">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_68">
+      <EN_TEXT>Clear the light curtain and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_69">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the light curtain.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_70">
+      <EN_TEXT>Ensure that the light curtain operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_71">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the light curtain is interrupted.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_72">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_73">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_74">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_75">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_76">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_77">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_78">
+      <EN_TEXT>Perform a function test (interrupt light curtain and then clear it, reset if necessary).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_79">
+      <EN_TEXT>Ensure that the light curtain is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_80">
+      <EN_TEXT>Ensure that the light curtain operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_81">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the light curtain is interrupted.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_82">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_83">
+      <EN_TEXT>Ensure that the light curtain operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_84">
+      <EN_TEXT>Ensure that the light curtain is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_85">
+      <EN_TEXT>Ensure that the light curtain is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_86">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_87">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_88">
+      <EN_TEXT>Ensure that the light curtain is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_89">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_90">
+      <EN_TEXT>Operate both pushbuttons within 0.5 s.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_91">
+      <EN_TEXT>Ensure that the contacts on the two-hand button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_92">
+      <EN_TEXT>Ensure that the two-hand button is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_93">
+      <EN_TEXT>Ensure that the two-hand button is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_94">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_95">
+      <EN_TEXT>Ensure that the contacts on the two-hand button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_96">
+      <EN_TEXT>Ensure that the two-hand button is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_97">
+      <EN_TEXT>Ensure that the two-hand button is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_98">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_99">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_100">
+      <EN_TEXT>Ensure that the two-hand button is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_101">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_102">
+      <EN_TEXT>Ensure that the inputs of the operating mode selector switch are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_103">
+      <EN_TEXT>Ensure that the operating mode selector switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_104">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_105">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_106">
+      <EN_TEXT>Ensure that the operating mode selector switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_107">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_108">
+      <EN_TEXT>Close and lock the safety gate, reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_109">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the safety gate and guard locking device.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_110">
+      <EN_TEXT>Ensure that the contacts on the safety gate and guard locking device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_111">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety gate is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_112">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the guard locking device is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_113">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_114">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_115">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_116">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_117">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_118">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_119">
+      <EN_TEXT>Perform a function test (release guard locking device, open safety gate, close safety gate and lock it, reset if necessary).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_120">
+      <EN_TEXT>Ensure that the safety gate and guard locking device are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_121">
+      <EN_TEXT>Ensure that the contacts on the safety gate and guard locking device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_122">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety gate is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_123">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the guard locking device is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_124">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_125">
+      <EN_TEXT>Release guard locking device, open safety gate, close safety gate and lock it.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_126">
+      <EN_TEXT>Ensure that the contacts on the safety gate and guard locking device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_127">
+      <EN_TEXT>Ensure that the safety gate and guard locking device are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_128">
+      <EN_TEXT>Ensure that the safety gate and guard locking device are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_129">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_130">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_131">
+      <EN_TEXT>Ensure that the safety gate and guard locking device are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_132">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_133">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_134">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_135">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_136">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_137">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_138">
+      <EN_TEXT>Perform a function test (operate foot switch, reset if necessary).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_139">
+      <EN_TEXT>Ensure that the foot switch is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_140">
+      <EN_TEXT>Ensure that the contacts on the foot switch operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_141">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the foot switch is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_142">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_143">
+      <EN_TEXT>Ensure that the contacts on the foot switch operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_144">
+      <EN_TEXT>Ensure that the foot switch is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_145">
+      <EN_TEXT>Ensure that the foot switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_146">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_147">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_148">
+      <EN_TEXT>Ensure that the input is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_149">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_150">
+      <EN_TEXT>Ensure that the actuator operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_151">
+      <EN_TEXT>Ensure that the feedback loop is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_152">
+      <EN_TEXT>Ensure that the feedback loop is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_153">
+      <EN_TEXT>Ensure that the feedback loop configuration takes into account the actual reaction time of the actuator.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_154">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_155">
+      <EN_TEXT>Ensure that the actuator operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_156">
+      <EN_TEXT>Ensure that the feedback loop is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_157">
+      <EN_TEXT>Ensure that the feedback loop is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_158">
+      <EN_TEXT>Ensure that the feedback loop configuration takes into account the actual reaction time of the actuator.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_159">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_160">
+      <EN_TEXT>Ensure that the actuator operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_161">
+      <EN_TEXT>Ensure that the feedback loop is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_162">
+      <EN_TEXT>Ensure that the feedback loop is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_163">
+      <EN_TEXT>Ensure that the feedback loop configuration takes into account the actual reaction time of the actuator.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_164">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_165">
+      <EN_TEXT>Ensure that there is no short circuit to 24 VDC in the wiring of the output.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_166">
+      <EN_TEXT>Ensure that the output is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_167">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_168">
+      <EN_TEXT>Ensure that there is no short circuit to 24 VDC in the wiring of the input.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_169">
+      <EN_TEXT>Ensure that the input is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_170">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_171">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_172">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_173">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_174">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_175">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_176">
+      <EN_TEXT>Perform a start-up test (activate safety mat and then clear it again, reset if necessary).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_177">
+      <EN_TEXT>Ensure that the safety mat is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_178">
+      <EN_TEXT>Ensure the safety mat operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_179">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety mat is activated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_180">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_181">
+      <EN_TEXT>Ensure that the safety mat is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_182">
+      <EN_TEXT>Ensure that the safety mat is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_183">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_184">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_185">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_186">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_187">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_188">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_189">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_190">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_191">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the inputs used to select the speed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_192">
+      <EN_TEXT>Ensure that the inputs used to select the speed are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_193">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_194">
+      <EN_TEXT>Ensure that the selected speed is not exceeded.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_195">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_196">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_197">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_198">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_199">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_200">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_201">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the inputs used to select the speed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_202">
+      <EN_TEXT>Ensure that the inputs used to select the speed are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_203">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_204">
+      <EN_TEXT>Enter a value for overspeed in the configuration that is not exceeded in normal operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_205">
+      <EN_TEXT>Enter a tolerance in the configuration that takes into account the overshoot of speed monitoring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_206">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_207">
+      <EN_TEXT>Install the proximity switches so that one proximity switch is always "1".</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_208">
+      <EN_TEXT>Ensure that the proximity switches operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_209">
+      <EN_TEXT>Ensure that supply voltage is applied to the proximity switches.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_210">
+      <EN_TEXT>Ensure that the proximity switches are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_211">
+      <EN_TEXT>Ensure that the proximity switches are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_212">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_213">
+      <EN_TEXT>Ensure that the switching distance of the proximity switches is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_214">
+      <EN_TEXT>Ensure that the proximity switches operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_215">
+      <EN_TEXT>Ensure that the proximity switches are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_216">
+      <EN_TEXT>Ensure that the proximity switches are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_217">
+      <EN_TEXT>Ensure that supply voltage is applied to the proximity switches.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_218">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_219">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_220">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_221">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_222">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_223">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_224">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_225">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the inputs used to select the speed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_226">
+      <EN_TEXT>Ensure that the inputs used to select the speed are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_227">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_228">
+      <EN_TEXT>Enter a value for overspeed in the configuration that is not exceeded in normal operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_229">
+      <EN_TEXT>Enter a tolerance in the configuration that takes into account the overshoot of speed monitoring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_230">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_231">
+      <EN_TEXT>Ensure that the plug-in connection at the incremantal encoder and the speed monitor is firmly seated</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_232">
+      <EN_TEXT>Ensure that the incremental encoder operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_233">
+      <EN_TEXT>Ensure that the supply voltage is present at the incremental encoder.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_234">
+      <EN_TEXT>Ensure that the incremental encoder is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_235">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_236">
+      <EN_TEXT>Dampen the position control of the axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_237">
+      <EN_TEXT>Ensure that the plug-in connection at the incremantal encoder and the speed monitor is firmly seated</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_238">
+      <EN_TEXT>Ensure that the incremental encoder operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_239">
+      <EN_TEXT>Ensure that the incremental encoder is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_240">
+      <EN_TEXT>Design the encoder wiring and screening so that EMC influences are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_241">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_242">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_243">
+      <EN_TEXT>Dampen the position control of the axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_244">
+      <EN_TEXT>Design the encoder wiring and screening so that EMC influences are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_245">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_246">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_247">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_248">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_249">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_250">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_251">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_252">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the inputs used to select the speed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_253">
+      <EN_TEXT>Ensure that the inputs used to select the speed are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_254">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_255">
+      <EN_TEXT>Enter a value for overspeed in the configuration that is not exceeded in normal operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_256">
+      <EN_TEXT>Enter a tolerance in the configuration that takes into account the overshoot of speed monitoring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_257">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_258">
+      <EN_TEXT>Ensure that the plug-in connection at the incremantal encoder and the speed monitor is firmly seated</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_259">
+      <EN_TEXT>Ensure that the incremental encoder operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_260">
+      <EN_TEXT>Ensure that the supply voltage is present at the incremental encoder.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_261">
+      <EN_TEXT>Ensure that the incremental encoder is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_262">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_263">
+      <EN_TEXT>Dampen the position control of the axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_264">
+      <EN_TEXT>Ensure that the plug-in connection at the incremantal encoder and the speed monitor is firmly seated</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_265">
+      <EN_TEXT>Ensure that the incremental encoder operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_266">
+      <EN_TEXT>Ensure that the incremental encoder is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_267">
+      <EN_TEXT>Design the encoder wiring and screening so that EMC influences are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_268">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_269">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_270">
+      <EN_TEXT>Dampen the position control of the axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_271">
+      <EN_TEXT>Design the encoder wiring and screening so that EMC influences are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_272">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_273">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_274">
+      <EN_TEXT>Create a mechanical connection between incremental encoder and axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_275">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_276">
+      <EN_TEXT>Ensure that the switching distance of the proximity switch is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_277">
+      <EN_TEXT>Ensure that the proximity switch operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_278">
+      <EN_TEXT>Ensure that the proximity switch is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_279">
+      <EN_TEXT>Ensure that the proximity switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_280">
+      <EN_TEXT>Ensure that supply voltage is applied to the proximity switch.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_281">
+      <EN_TEXT>Dampen the position control of the axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_282">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_283">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_284">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_285">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_286">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_287">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_288">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the inputs used to select the speed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_289">
+      <EN_TEXT>Ensure that the inputs used to select the speed are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_290">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_291">
+      <EN_TEXT>Enter a value for overspeed in the configuration that is not exceeded in normal operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_292">
+      <EN_TEXT>Enter a tolerance in the configuration that takes into account the overshoot of speed monitoring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_293">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_294">
+      <EN_TEXT>Ensure that the plug-in connection at the incremantal encoder and the speed monitor is firmly seated</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_295">
+      <EN_TEXT>Ensure that the incremental encoder operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_296">
+      <EN_TEXT>Ensure that the supply voltage is present at the incremental encoder.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_297">
+      <EN_TEXT>Ensure that the incremental encoder is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_298">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_299">
+      <EN_TEXT>Dampen the position control of the axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_300">
+      <EN_TEXT>Ensure that the plug-in connection at the incremantal encoder and the speed monitor is firmly seated</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_301">
+      <EN_TEXT>Ensure that the incremental encoder operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_302">
+      <EN_TEXT>Ensure that the incremental encoder is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_303">
+      <EN_TEXT>Design the encoder wiring and screening so that EMC influences are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_304">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_305">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_306">
+      <EN_TEXT>Dampen the position control of the axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_307">
+      <EN_TEXT>Design the encoder wiring and screening so that EMC influences are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_308">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_309">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_310">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_311">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_312">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_313">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_314">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_315">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_316">
+      <EN_TEXT>Operate button to transfer the speed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_317">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_318">
+      <EN_TEXT>Ensure that the contacts of the button operate without error.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_319">
+      <EN_TEXT>Ensure that the LED status at the input changes when operating the button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_320">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_321">
+      <EN_TEXT>Select a speed that is configured.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_322">
+      <EN_TEXT>Ensure that the wiring of inputs used for selecting the speed is error-free.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_323">
+      <EN_TEXT>Ensure that the inputs used to select the speed are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_324">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_325">
+      <EN_TEXT>Enter a value for overspeed in the configuration that is not exceeded in normal operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_326">
+      <EN_TEXT>Enter a tolerance in the configuration that takes into account the overshoot of speed monitoring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_327">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_328">
+      <EN_TEXT>Ensure that the plug-in connection at the incremantal encoder and the speed monitor is firmly seated</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_329">
+      <EN_TEXT>Ensure that the incremental encoder operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_330">
+      <EN_TEXT>Ensure that the supply voltage is present at the incremental encoder.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_331">
+      <EN_TEXT>Ensure that the incremental encoder is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_332">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_333">
+      <EN_TEXT>Dampen the position control of the axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_334">
+      <EN_TEXT>Ensure that the plug-in connection at the incremantal encoder and the speed monitor is firmly seated</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_335">
+      <EN_TEXT>Ensure that the incremental encoder operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_336">
+      <EN_TEXT>Ensure that the incremental encoder is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_337">
+      <EN_TEXT>Design the encoder wiring and screening so that EMC influences are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_338">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_339">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_340">
+      <EN_TEXT>Dampen the position control of the axis.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_341">
+      <EN_TEXT>Design the encoder wiring and screening so that EMC influences are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_342">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_343">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_344">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_345">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_346">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_347">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_348">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_349">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_350">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_351">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_352">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_353">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_354">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_355">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_356">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_357">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_358">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_359">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_360">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_361">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_362">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_363">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_364">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_365">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_366">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_367">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_368">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_369">
+      <EN_TEXT>Ensure that the conditions for the start enable ("EN2") are met on power up.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_370">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_371">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_372">
+      <EN_TEXT>Ensure that the conditions for the static enable ("EN1") are met on power up.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_373">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_374">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_375">
+      <EN_TEXT>The conditions for the static enable ("EN1") must be met.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_376">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_377">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_378">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_379">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_380">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_381">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_382">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_383">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_384">
+      <EN_TEXT>Ensure that the conditions for the start enable ("EN2") are met on power up.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_385">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_386">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_387">
+      <EN_TEXT>Ensure that the conditions for the static enable ("EN1") are met on power up.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_388">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_389">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_390">
+      <EN_TEXT>Ensure that the conditions for the safety enable ("EN3") are met on power up.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_391">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_392">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_393">
+      <EN_TEXT>The conditions for the static enable ("EN1") must be met.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_394">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_395">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_396">
+      <EN_TEXT>The conditions for the safety enable ("EN3") must be met.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_397">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_398">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_399">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_400">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_401">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_402">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_403">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_404">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_405">
+      <EN_TEXT>Ensure that the conditions for the start enable ("EN2") are met on power up.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_406">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_407">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_408">
+      <EN_TEXT>Ensure that the conditions for the static enable ("EN1") are met on power up.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_409">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_410">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_411">
+      <EN_TEXT>The conditions for the static enable ("EN1") must be met.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_412">
+      <EN_TEXT>Ensure that the wiring is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_413">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_414">
+      <EN_TEXT>The conditions for the safety enable ("EN3") must be met.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_415">
+      <EN_TEXT>Ensure that the contacts on the stop button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_416">
+      <EN_TEXT>Ensure that the stop button is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_417">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_418">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_419">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_420">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_421">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_422">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_423">
+      <EN_TEXT>Ensure that the brake operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_424">
+      <EN_TEXT>Ensure that the overrun cam is positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_425">
+      <EN_TEXT>Ensure that monitoring of the rotary cam arrangement is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_426">
+      <EN_TEXT>Ensure that all parts of the rotary cam arrangement monitoring are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_427">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_428">
+      <EN_TEXT>Ensure that the overrun cam and run-up cam are positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_429">
+      <EN_TEXT>Ensure that monitoring of the rotary cam arrangement is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_430">
+      <EN_TEXT>Ensure that all parts of the rotary cam arrangement monitoring are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_431">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_432">
+      <EN_TEXT>Ensure that the overrun cam and run-up cam are positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_433">
+      <EN_TEXT>Ensure that monitoring of the rotary cam arrangement is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_434">
+      <EN_TEXT>Ensure that all parts of the rotary cam arrangement monitoring are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_435">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_436">
+      <EN_TEXT>Ensure that the overrun cam and run-up cam are positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_437">
+      <EN_TEXT>Ensure that monitoring of the rotary cam arrangement is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_438">
+      <EN_TEXT>Ensure that all parts of the rotary cam arrangement monitoring are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_439">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_440">
+      <EN_TEXT>Ensure that the overrun cam and run-up cam are positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_441">
+      <EN_TEXT>Ensure that monitoring of the rotary cam arrangement is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_442">
+      <EN_TEXT>Ensure that all parts of the rotary cam arrangement monitoring are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_443">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_444">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_445">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_446">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_447">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_448">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_449">
+      <EN_TEXT>Ensure that all parts of run monitoring operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_450">
+      <EN_TEXT>Ensure that run monitoring is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_451">
+      <EN_TEXT>Ensure that all parts of run monitoring are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_452">
+      <EN_TEXT>Logic element "_SBID": Increase value for start-up time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_453">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_454">
+      <EN_TEXT>Ensure that the shaft operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_455">
+      <EN_TEXT>Ensure that all parts of run monitoring operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_456">
+      <EN_TEXT>Ensure that run monitoring is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_457">
+      <EN_TEXT>Ensure that all parts of run monitoring are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_458">
+      <EN_TEXT>Logic element "_SBID": Increase value for strokes per minute and pulses per rotation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_459">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_460">
+      <EN_TEXT>Interrupt the light curtain then clear it, reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_461">
+      <EN_TEXT>Ensure that the light curtain is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_462">
+      <EN_TEXT>Ensure that the light curtain operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_463">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the light curtain is interrupted.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_464">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_465">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_466">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_467">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_468">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_469">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_470">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_471">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_472">
+      <EN_TEXT>Bring the valve to its start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_473">
+      <EN_TEXT>Ensure that the valve and the valve feedback device are operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_474">
+      <EN_TEXT>Ensure that the valve and the feedback loop are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_475">
+      <EN_TEXT>Ensure that the valve and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_476">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_477">
+      <EN_TEXT>Bring the valve to its start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_478">
+      <EN_TEXT>Ensure that the valve and the valve feedback device are operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_479">
+      <EN_TEXT>Ensure that the valve and the feedback loop are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_480">
+      <EN_TEXT>Logic element "_SBID": Increase value for "TOn".</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_481">
+      <EN_TEXT>Ensure that the valve and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_482">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_483">
+      <EN_TEXT>Bring the valve to its start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_484">
+      <EN_TEXT>Ensure that the valve and the valve feedback device are operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_485">
+      <EN_TEXT>Ensure that the valve and the feedback loop are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_486">
+      <EN_TEXT>Logic element "_SBID": Increase value for "TOff".</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_487">
+      <EN_TEXT>Ensure that the valve and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_488">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_489">
+      <EN_TEXT>Bring the valve to its start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_490">
+      <EN_TEXT>Ensure that the valve and the valve feedback device are operating correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_491">
+      <EN_TEXT>Ensure that the valve and the feedback loop are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_492">
+      <EN_TEXT>Ensure that the valve and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_493">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_494">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_495">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_496">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_497">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_498">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_499">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_500">
+      <EN_TEXT>Bring the valves to their start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_501">
+      <EN_TEXT>Ensure that the valves and the valve feedback devices operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_502">
+      <EN_TEXT>Ensure that the valves and the feedback loops are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_503">
+      <EN_TEXT>Ensure that the valves and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_504">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_505">
+      <EN_TEXT>Bring the valves to their start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_506">
+      <EN_TEXT>Ensure that the valves and the valve feedback devices operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_507">
+      <EN_TEXT>Ensure that the valves and the feedback loops are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_508">
+      <EN_TEXT>Logic element "_SBID": Increase value for "TOn".</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_509">
+      <EN_TEXT>Ensure that the valves and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_510">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_511">
+      <EN_TEXT>Bring the valves to their start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_512">
+      <EN_TEXT>Ensure that the valves and the valve feedback devices operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_513">
+      <EN_TEXT>Ensure that the valves and the feedback loops are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_514">
+      <EN_TEXT>Logic element "_SBID": Increase value for "TOff".</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_515">
+      <EN_TEXT>Ensure that the valves and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_516">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_517">
+      <EN_TEXT>Bring the valves to their start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_518">
+      <EN_TEXT>Ensure that the valves and the valve feedback devices operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_519">
+      <EN_TEXT>Ensure that the valves and the feedback loops are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_520">
+      <EN_TEXT>Ensure that the valves and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_521">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_522">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_523">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_524">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_525">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_526">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_527">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_528">
+      <EN_TEXT>Bring the valves to their start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_529">
+      <EN_TEXT>Ensure that the valves and the valve feedback devices operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_530">
+      <EN_TEXT>Ensure that the valves and the feedback loops are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_531">
+      <EN_TEXT>Ensure that the valves and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_532">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_533">
+      <EN_TEXT>Bring the valves to their start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_534">
+      <EN_TEXT>Ensure that the valves and the valve feedback devices operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_535">
+      <EN_TEXT>Ensure that the valves and the feedback loops are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_536">
+      <EN_TEXT>Logic element "_SBID": Increase value for "TOn".</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_537">
+      <EN_TEXT>Ensure that the valves and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_538">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_539">
+      <EN_TEXT>Bring the valves to their start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_540">
+      <EN_TEXT>Ensure that the valves and the valve feedback devices operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_541">
+      <EN_TEXT>Ensure that the valves and the feedback loops are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_542">
+      <EN_TEXT>Logic element "_SBID": Increase value for "TOff".</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_543">
+      <EN_TEXT>Ensure that the valves and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_544">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_545">
+      <EN_TEXT>Bring the valves to their start position and if necessary press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_546">
+      <EN_TEXT>Ensure that the valves and the valve feedback devices operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_547">
+      <EN_TEXT>Ensure that the valves and the feedback loops are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_548">
+      <EN_TEXT>Ensure that the valves and feedback loop are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_549">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_550">
+      <EN_TEXT>Ensure that input parameters "P_ON1" and "P_ON2" do not have a 0 signal or 1 signal simultaneously during operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_551">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_552">
+      <EN_TEXT>Override the muting zone and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_553">
+      <EN_TEXT>Ensure that the optical safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_554">
+      <EN_TEXT>Ensure that all the muting sensors operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_555">
+      <EN_TEXT>Ensure that the muting sensors are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_556">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_557">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_558">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_559">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_560">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_561">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_562">
+      <EN_TEXT>Override the muting zone and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_563">
+      <EN_TEXT>Ensure that the optical safety device operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_564">
+      <EN_TEXT>Ensure that the optical safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_565">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety device is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_566">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_567">
+      <EN_TEXT>Reset the muting time via the reset button. If necessary, override the muting zone.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_568">
+      <EN_TEXT>Ensure that objects pass through the muting zone individually.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_569">
+      <EN_TEXT>Ensure that objects pass through the muting zone within the specified muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_570">
+      <EN_TEXT>Logic element "_SBID": Increase the value for the muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_571">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_572">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_573">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 are positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_574">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_575">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_576">
+      <EN_TEXT>Ensure that muting sensors 3 and 4 operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_577">
+      <EN_TEXT>Ensure that muting sensors 3 and 4 are positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_578">
+      <EN_TEXT>Ensure that muting sensors 3 and 4 are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_579">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_580">
+      <EN_TEXT>Override the muting zone and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_581">
+      <EN_TEXT>Ensure that the optical safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_582">
+      <EN_TEXT>Ensure that all the muting sensors operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_583">
+      <EN_TEXT>Ensure that the muting sensors are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_584">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_585">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_586">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_587">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_588">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_589">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_590">
+      <EN_TEXT>Override the muting zone and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_591">
+      <EN_TEXT>Ensure that the optical safety device operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_592">
+      <EN_TEXT>Ensure that the optical safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_593">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety device is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_594">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_595">
+      <EN_TEXT>Reset the muting time via the reset button. If necessary, override the muting zone.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_596">
+      <EN_TEXT>Ensure that objects pass through the muting zone individually.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_597">
+      <EN_TEXT>Ensure that objects pass through the muting zone within the specified muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_598">
+      <EN_TEXT>Logic element "_SBID": Increase the value for the muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_599">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_600">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_601">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 are positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_602">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_603">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_604">
+      <EN_TEXT>Ensure that muting sensors 3 and 4 operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_605">
+      <EN_TEXT>Ensure that muting sensors 3 and 4 are positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_606">
+      <EN_TEXT>Ensure that muting sensors 3 and 4 are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_607">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_608">
+      <EN_TEXT>Override the muting zone and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_609">
+      <EN_TEXT>Ensure that the optical safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_610">
+      <EN_TEXT>Ensure that all the muting sensors operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_611">
+      <EN_TEXT>Ensure that the muting sensors are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_612">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_613">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_614">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_615">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_616">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_617">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_618">
+      <EN_TEXT>Override the muting zone and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_619">
+      <EN_TEXT>Ensure that the optical safety device operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_620">
+      <EN_TEXT>Ensure that the optical safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_621">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety device is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_622">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_623">
+      <EN_TEXT>Reset the muting time via the reset button. If necessary, override the muting zone.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_624">
+      <EN_TEXT>Ensure that objects pass through the muting zone individually.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_625">
+      <EN_TEXT>Ensure that objects pass through the muting zone within the specified muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_626">
+      <EN_TEXT>Logic element "_SBID": Increase the value for the muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_627">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_628">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_629">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 are positioned correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_630">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_631">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_632">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_633">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_634">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_635">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_636">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_637">
+      <EN_TEXT>Ensure that there is a connection cable between the two PNOZmulti systems.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_638">
+      <EN_TEXT>Ensure that the connection cable meets the specifications of the PNOZ ml1p operating instructions (e.g. pin assignment).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_639">
+      <EN_TEXT>Ensure that the EMC influences on the connection cable are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_640">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_641">
+      <EN_TEXT>Evaluate the error stack of the PNOZmulti system on the opposite side.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_642">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_643">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_644">
+      <EN_TEXT>Check supply voltage at the link module.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_645">
+      <EN_TEXT>Check cable cross section and cable run.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_646">
+      <EN_TEXT>Reduce load.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_647">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_648">
+      <EN_TEXT>Adapt actual configuration to configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_649">
+      <EN_TEXT>Ensure that the configuration intended for this device was transferred to the PNOZmulti.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_650">
+      <EN_TEXT>Check configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_651">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_652">
+      <EN_TEXT>Reduce load.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_653">
+      <EN_TEXT>Reduce ambient temperature.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_654">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_655">
+      <EN_TEXT>Ensure that the cabling is error-free.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_656">
+      <EN_TEXT>Check load.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_657">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_658">
+      <EN_TEXT>Ensure that the load current supply is error-free.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_659">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_660">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_661">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_662">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_663">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_664">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_665">
+      <EN_TEXT>Check configuration of the transmitter.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_666">
+      <EN_TEXT>Ensure that the EMC influences on the connection cable are minimised.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_667">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_668">
+      <EN_TEXT>Check physical connection.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_669">
+      <EN_TEXT>Check Modbus configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_670">
+      <EN_TEXT>Check Timeout settings.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_671">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_672">
+      <EN_TEXT>Check configuration of transmitter and receiver.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_673">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_674">
+      <EN_TEXT>Check error memory of the communication partner.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_675">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_676">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_677">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_678">
+      <EN_TEXT>Enter a larger tolerance value in the configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_679">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_680">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_681">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_682">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_683">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_684">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_685">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_686">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_687">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_688">
+      <EN_TEXT>Ensure that the contacts on the stop button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_689">
+      <EN_TEXT>Ensure that the stop button has not been operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_690">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_691">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_692">
+      <EN_TEXT>Ensure that the reset button has not been pressed.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_693">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_694">
+      <EN_TEXT>Check the elements within the safety chain.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_695">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_696">
+      <EN_TEXT>Check the elements within the safety chain.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_697">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_698">
+      <EN_TEXT>Check the elements within the safety chain.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_699">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_700">
+      <EN_TEXT>Determine the step in which the error occurred and take appropriate action.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_701">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_702">
+      <EN_TEXT>Determine the step in which the error occurred and take appropriate action.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_703">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_704">
+      <EN_TEXT>Determine the step in which the error occurred and take appropriate action.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_705">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_706">
+      <EN_TEXT>Determine the step in which the error occurred and take appropriate action.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_707">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_708">
+      <EN_TEXT>Determine the step in which the error occurred and take appropriate action.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_709">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_710">
+      <EN_TEXT>Determine the step in which the error occurred and take appropriate action.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_711">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_712">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_713">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_714">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_715">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_716">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_717">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_718">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_719">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_720">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_721">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_722">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_723">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_724">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_725">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_726">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_727">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_728">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_729">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_730">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_731">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_732">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_733">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_734">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_735">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_736">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_737">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_738">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_739">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_740">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_741">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_742">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_743">
+      <EN_TEXT>Press the reset button and start button to restart the burner.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_744">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_745">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_746">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_747">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_748">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_749">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_750">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_751">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_752">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_753">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_754">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_755">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_756">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_757">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_758">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_759">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_760">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_761">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_762">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_763">
+      <EN_TEXT>Ensure that the minimum distance between the actuators is maintained.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_764">
+      <EN_TEXT>Ensure that the safety switch is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_765">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_766">
+      <EN_TEXT>Ensure that appropriate actuators are used.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_767">
+      <EN_TEXT>Ensure that the safety switch is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_768">
+      <EN_TEXT>Ensure that the contacts on the safety device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_769">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_770">
+      <EN_TEXT>Ensure that appropriate actuators are used.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_771">
+      <EN_TEXT>Ensure that the safety switch is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_772">
+      <EN_TEXT>Ensure that the contacts on the safety device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_773">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_774">
+      <EN_TEXT>Ensure that appropriate actuators are used.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_775">
+      <EN_TEXT>Ensure that the safety switch is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_776">
+      <EN_TEXT>Ensure that the contacts on the safety device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_777">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_778">
+      <EN_TEXT>Ensure that the contacts on the safety device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_779">
+      <EN_TEXT>Ensure the safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_780">
+      <EN_TEXT>Ensure that the safety switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_781">
+      <EN_TEXT>Increase configured monitoring time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_782">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_783">
+      <EN_TEXT>Ensure that the contacts on the safety device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_784">
+      <EN_TEXT>Ensure the safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_785">
+      <EN_TEXT>Ensure that the safety switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_786">
+      <EN_TEXT>Increase configured monitoring time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_787">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_788">
+      <EN_TEXT>Ensure that the contacts on the safety device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_789">
+      <EN_TEXT>Ensure the safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_790">
+      <EN_TEXT>Ensure that the safety switch is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_791">
+      <EN_TEXT>Increase configured monitoring time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_792">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_793">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_794">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_795">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_796">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_797">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_798">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_799">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_800">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_801">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_802">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_803">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_804">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_805">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_806">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_807">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_808">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_809">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_810">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_811">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_812">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_813">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_814">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_815">
+      <EN_TEXT>Ensure that the switching distance of the proximity switches is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_816">
+      <EN_TEXT>Ensure that the proximity switches operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_817">
+      <EN_TEXT>Ensure that the proximity switches are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_818">
+      <EN_TEXT>Ensure that the proximity switches are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_819">
+      <EN_TEXT>Ensure that supply voltage is applied to the proximity switches.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_820">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_821">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_822">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_823">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_824">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_825">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_826">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_827">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_828">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_829">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_830">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_831">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_832">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_833">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_834">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_835">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_836">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_837">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_838">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_839">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_840">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_841">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_842">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_843">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_844">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_845">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_846">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_847">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_848">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_849">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_850">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_851">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_852">
+      <EN_TEXT>Ensure that the switching distance of the proximity switches is correct.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_853">
+      <EN_TEXT>Ensure that the proximity switches operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_854">
+      <EN_TEXT>Ensure that the proximity switches are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_855">
+      <EN_TEXT>Ensure that the proximity switches are wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_856">
+      <EN_TEXT>Ensure that supply voltage is applied to the proximity switches.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_857">
+      <EN_TEXT>Replace speed monitor.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_858">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_859">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_860">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_861">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_862">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_863">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_864">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_865">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_866">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_867">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_868">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_869">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_870">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_871">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_872">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_873">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_874">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_875">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_876">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_877">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_878">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_879">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_880">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_881">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_882">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_883">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_884">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_885">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_886">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_887">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_888">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_889">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_890">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_891">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_892">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_893">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_894">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_895">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_896">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_897">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_898">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_899">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_900">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_901">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_902">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_903">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_904">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_905">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_906">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_907">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_908">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_909">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_910">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_911">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_912">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_913">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_914">
+      <EN_TEXT>Ensure that the cabling is error-free.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_915">
+      <EN_TEXT>Ensure that all the subscirbers are in operation.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_916">
+      <EN_TEXT>Check SafetyNETp configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_917">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_918">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_919">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_920">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_921">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_922">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_923">
+      <EN_TEXT>Ensure that the measured variable cannot assume measured values outside the measuring range (0..25mA).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_924">
+      <EN_TEXT>Check the polarity of the analogue measured variable.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_925">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_926">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_927">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_928">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_929">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_930">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_931">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_932">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_933">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_934">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_935">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_936">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_937">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_938">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_939">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_940">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_941">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_942">
+      <EN_TEXT>Ensure that the encoders operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_943">
+      <EN_TEXT>Ensure that the encoders are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_944">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_945">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_946">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_947">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_948">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_949">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_950">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_951">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_952">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_953">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_954">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_955">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_956">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_957">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_958">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_959">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_960">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_961">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_962">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_963">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_964">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_965">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_966">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_967">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_968">
+      <EN_TEXT>Remove the transponder key and re-insert it.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_969">
+      <EN_TEXT>Exchange transponder key.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_970">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_971">
+      <EN_TEXT>Check the connection between the PITreader and the PNOZmulti.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_972">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_973">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_974">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_975">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_976">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_977">
+      <EN_TEXT>Check Modbus configuration.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_978">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_979">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_980">
+      <EN_TEXT>Ensure that the input is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_981">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_982">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_983">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_984">
+      <EN_TEXT>Remove the transponder key and re-insert it.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_985">
+      <EN_TEXT>Exchange transponder key.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_986">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_987">
+      <EN_TEXT>Check the connection between the PITreader and the PNOZmulti.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_988">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_989">
+      <EN_TEXT>Ensure that there are no shorts between contacts in the test pulse wiring.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_990">
+      <EN_TEXT>Ensure that the input is wired in accordance with the configuration and circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_991">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_992">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_993">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_994">
+      <EN_TEXT>Remove the transponder key and re-insert it.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_995">
+      <EN_TEXT>Exchange transponder key.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_996">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_997">
+      <EN_TEXT>Check the connection between the PITreader and the PNOZmulti.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_998">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_999">
+      <EN_TEXT>Override the muting zone and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1000">
+      <EN_TEXT>Ensure that the optical safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1001">
+      <EN_TEXT>Ensure that all the muting sensors operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1002">
+      <EN_TEXT>Ensure that the muting sensors are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1003">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1004">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1005">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1006">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1007">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1008">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1009">
+      <EN_TEXT>Override the muting zone and reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1010">
+      <EN_TEXT>Ensure that the optical safety device operates correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1011">
+      <EN_TEXT>Ensure that the optical safety device is wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1012">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety device is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1013">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1014">
+      <EN_TEXT>Reset the muting time via the reset button. If necessary, override the muting zone.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1015">
+      <EN_TEXT>Ensure that objects pass through the muting zone individually.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1016">
+      <EN_TEXT>Ensure that objects pass through the muting zone within the specified muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1017">
+      <EN_TEXT>Logic element "_SBID": Increase the value for the muting time.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1018">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1019">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1020">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1021">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1022">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1023">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1024">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1025">
+      <EN_TEXT>Ensure that muting sensors 1 and 2 are wired correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1026">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1027">
+      <EN_TEXT>Ensure that the encoder is wired in accordance with the configuration and the circuit diagram.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1028">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1029">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1030">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1031">
+      <EN_TEXT>Close and lock the safety gate, reset if necessary.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1032">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the safety gate and guard locking device.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1033">
+      <EN_TEXT>Ensure that the contacts on the safety gate and guard locking device operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1034">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the safety gate is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1035">
+      <EN_TEXT>Ensure that the status of the LEDs on the inputs changes when the guard locking device is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1036">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1037">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1038">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1039">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1040">
+      <EN_TEXT>Check configured values.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1041">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1042">
+      <EN_TEXT>Press the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1043">
+      <EN_TEXT>Ensure that there are no open circuits in the wiring of the reset button.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1044">
+      <EN_TEXT>Ensure that the contacts on the reset button operate correctly.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1045">
+      <EN_TEXT>Ensure that the status of the LED on the input changes when the reset button is operated.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1046">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1047">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1048">
+      <EN_TEXT>Run function test (sign in transponder).</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1049">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1050">
+      <EN_TEXT>Remove transponder and try signing in again, after another transponder was signed out.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1051">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1052">
+      <EN_TEXT>Remove transponder.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1053">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1054">
+      <EN_TEXT>Remove transponder and ensure that the sign out condition is met.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1055">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1056">
+      <EN_TEXT>Remove the transponder key and re-insert it.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1057">
+      <EN_TEXT>Exchange transponder key.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1058">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1059">
+      <EN_TEXT>Check the connection between the PITreader and the PNOZmulti.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1060">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1061">
+      <EN_TEXT>Run blind spot check again.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1062">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1063">
+      <EN_TEXT>Use the last transponder to be signed in to the sign in list for the blind spot check.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1064">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1065">
+      <EN_TEXT>Remove the transponder key and re-insert it.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1066">
+      <EN_TEXT>Exchange transponder key.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1067">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1068">
+      <EN_TEXT>Check the connection between the PITreader and the PNOZmulti.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1069">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1070">
+      <EN_TEXT>Remove transponder.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1071">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1072">
+      <EN_TEXT>Sign transponder into the sign in list.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1073">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1074">
+      <EN_TEXT>Remove the transponder key and re-insert it.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1075">
+      <EN_TEXT>Exchange transponder key.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1076">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1077">
+      <EN_TEXT>Check the connection between the PITreader and the PNOZmulti.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1078">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1079">
+      <EN_TEXT>For information only, no remedy required.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1080">
+      <EN_TEXT>Ensure that only one zone set is active.</EN_TEXT>
+   </TEXT>
+   <TEXT id="TEX0001_1081">
+      <EN_TEXT>Please contact Pilz.</EN_TEXT>
+   </TEXT>
+</SOFTWAREBLOCK_ACTION_TEXT>

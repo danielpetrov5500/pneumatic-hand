@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language-mapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    project-name="Hand_Control" PNOZMulti-version="11.3.1" xsi:type="language-mapping">
+    <language>
+        <user-language>en</user-language>
+        <pilz-language>en</pilz-language>
+    </language>
+</language-mapping>

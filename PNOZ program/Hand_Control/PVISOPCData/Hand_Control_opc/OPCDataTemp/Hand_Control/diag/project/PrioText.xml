@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PRIO_TEXT FILE_STRUCT_VERSION="1"
+           FILE_EXPORT_VERSION="2023-04-28 07:18:02"
+           PROJECT_ID="Hand_Control">
+   <TEXT id="PRI0001_2">
+      <EN_TEXT>Error</EN_TEXT>
+   </TEXT>
+   <TEXT id="PRI0001_3">
+      <EN_TEXT>Warning</EN_TEXT>
+   </TEXT>
+   <TEXT id="PRI0001_4">
+      <EN_TEXT>Status</EN_TEXT>
+   </TEXT>
+</PRIO_TEXT>

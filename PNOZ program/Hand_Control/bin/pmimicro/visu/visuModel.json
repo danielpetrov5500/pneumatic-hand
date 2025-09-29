@@ -1,0 +1,317 @@
+{
+  "name" : "Hand_Control",
+  "equipmentId" : null,
+  "projectType" : "PNOZ",
+  "modules" : [ {
+    "name" : "GRP_MB1_BASE_MODULE_M_B1",
+    "equipmentId" : "a1",
+    "position" : "0",
+    "modules" : [ ],
+    "variables" : [ ]
+  }, {
+    "name" : "MBX_SEMICONDUCTOR_OUTPUT_8DI4DO_MODULE",
+    "equipmentId" : "a2",
+    "position" : "1",
+    "modules" : [ ],
+    "variables" : [ {
+      "name" : "a2.i0",
+      "equipmentId" : "C86520",
+      "opcName" : "Hand_Control/Generic/I/1.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i1",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/1.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i2",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/1.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i3",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/1.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i4",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/1.4",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i5",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/1.5",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i6",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/1.6",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.i7",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/1.7",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.o0",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/O/1.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.o1",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/O/1.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.o2",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/O/1.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a2.o3",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/O/1.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    } ]
+  }, {
+    "name" : "MBX_SEMICONDUCTOR_OUTPUT_8DI4DO_MODULE",
+    "equipmentId" : "a3",
+    "position" : "2",
+    "modules" : [ ],
+    "variables" : [ {
+      "name" : "a3.i0",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/2.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i1",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/2.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i2",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/2.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i3",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/2.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i4",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/2.4",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i5",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/2.5",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i6",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/2.6",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.i7",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/I/2.7",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.o0",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/O/2.0",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.o1",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/O/2.1",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.o2",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/O/2.2",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    }, {
+      "name" : "a3.o3",
+      "equipmentId" : "-1",
+      "opcName" : "Hand_Control/Generic/O/2.3",
+      "writable" : false,
+      "dataType" : {
+        "name" : "booleantype",
+        "equipmentId" : null,
+        "dataType" : "Boolean"
+      }
+    } ]
+  } ],
+  "safetyDevices" : [ {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.i0" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.i1" ],
+    "resetInput" : null,
+    "blockType" : "TIP_SWITCH",
+    "diagnosticInfos" : [ ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ ],
+    "variableReferences" : [ ],
+    "resetInput" : null,
+    "blockType" : "EVENT_COUNTER",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Forward_Backward_Module",
+      "instanceType" : "SBTY0_Forward_Backward_Module",
+      "opcName" : "Hand_Control/OverviewInformation/SafetyDevices/1/Status"
+    } ],
+    "connectedDevice" : null
+  }, {
+    "name" : "",
+    "equipmentId" : "-1",
+    "moduleReferences" : [ "a2" ],
+    "variableReferences" : [ "a2.o0" ],
+    "resetInput" : null,
+    "blockType" : "SEMICONDUCTOR",
+    "diagnosticInfos" : [ {
+      "baseType" : "SBTY_Safety_Semiconductor_Output_Feedback_Loop",
+      "instanceType" : "SBTY0_Safety_Semiconductor_Output_Feedback_Loop",
+      "opcName" : null
+    } ],
+    "connectedDevice" : null
+  } ],
+  "operands" : [ ],
+  "translations" : [ {
+    "locale" : "English - en",
+    "translationentry" : [ {
+      "key" : "C86520",
+      "value" : "switch"
+    } ]
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "map" : {
+    "a1" : {
+      "list" : [ {
+        "value" : "true",
+        "id" : 1,
+        "numericValue" : "true",
+        "pageNumber" : 1,
+        "gridPosition" : {
+          "ypos" : 3,
+          "xpos" : 0
+        },
+        "forced" : true,
+        "symbolicName" : "switch",
+        "outputIndex" : 0,
+        "debugURL" : "m_a2_i0",
+        "unit" : "SAFEBOOL",
+        "blockSignature" : ""
+      }, {
+        "value" : "false",
+        "id" : 2,
+        "numericValue" : "false",
+        "pageNumber" : 1,
+        "gridPosition" : {
+          "ypos" : 9,
+          "xpos" : 0
+        },
+        "forced" : true,
+        "symbolicName" : "",
+        "outputIndex" : 0,
+        "debugURL" : "m_a2_i1",
+        "unit" : "SAFEBOOL",
+        "blockSignature" : ""
+      } ]
+    }
+  }
+}

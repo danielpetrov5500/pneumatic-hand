@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYS_ERROR_TEXT FILE_STRUCT_VERSION="1" FILE_EXPORT_VERSION="2008-01-10 14:55:34">
+    <TEXT id="ERT0002_1">
+        <DE_TEXT>Es kann keine Verbindung zum PNOZmulti hergestellt werden</DE_TEXT>
+        <JA_TEXT>PNOZmultiへ接続できません</JA_TEXT>
+        <EN_TEXT>Cannot establish a connection to the PNOZmulti</EN_TEXT>
+        <IT_TEXT>Impossibile instaurare un collegamento con PNOZmulti</IT_TEXT>
+        <FR_TEXT>Impossible d'établir une liaison avec le PNOZmulti</FR_TEXT>
+        <ES_TEXT>No es posible establecer una conexión con el PNOZmulti</ES_TEXT>
+        <NL_TEXT>Verbinding met PNOZmulti kan niet tot stand worden gebracht</NL_TEXT>
+        <ZH_TEXT>不能与PNOZmulti 建立连接</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_2">
+        <DE_TEXT>Die Geräte-Diagnosekonfiguration ist fehlerhaft</DE_TEXT>
+        <JA_TEXT>装置診断コンフィグレーションに欠陥があります</JA_TEXT>
+        <EN_TEXT>The device’s diagnostic configuration is invalid</EN_TEXT>
+        <IT_TEXT>La configurazione di diagnostica del dispositivo è errata</IT_TEXT>
+        <FR_TEXT>La configuration diagnostic - appareil est erronée</FR_TEXT>
+        <ES_TEXT>La configuración de diagnóstico del dispositivo es incorrecta</ES_TEXT>
+        <NL_TEXT>Fout in de diagnoseconfiguratie van het apparaat</NL_TEXT>
+        <ZH_TEXT>设备的诊断配置无效</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_3">
+        <DE_TEXT>Die Diagnosekonfiguration für die Schutzeinrichtungen ist fehlerhaft</DE_TEXT>
+        <JA_TEXT>保護装置への診断コンフィグレーションに欠陥があります。</JA_TEXT>
+        <EN_TEXT>The diagnostic configuration for safety devices is faulty</EN_TEXT>
+        <IT_TEXT>La configurazione di diagnostica per i dispositivi di protezione è errata</IT_TEXT>
+        <FR_TEXT>La configuration diagnostic - dispositif de sécurité est erronée</FR_TEXT>
+        <ES_TEXT>La configuración de diagnóstico de los dispositivos de protección es incorrecta</ES_TEXT>
+        <NL_TEXT>Fout in de diagnoseconfiguratie voor de veiligheidsvoorzieningen</NL_TEXT>
+        <ZH_TEXT>安全设备的诊断配置出现故障</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_4">
+        <DE_TEXT>Die Operanden-Diagnosekonfiguration ist fehlerhaft</DE_TEXT>
+        <JA_TEXT>オペランド装置診断コンフィグレーションに欠陥があります</JA_TEXT>
+        <EN_TEXT>The operand’s diagnostic configuration is invalid</EN_TEXT>
+        <IT_TEXT>La configurazione di diagnostica operandi è errata</IT_TEXT>
+        <FR_TEXT>La configuration diagnostic - opérandes est erronée</FR_TEXT>
+        <ES_TEXT>La configuración de diagnóstico de los operandos es incorrecta</ES_TEXT>
+        <NL_TEXT>Fout in de diagnoseconfiguratie van de operand</NL_TEXT>
+        <ZH_TEXT>操作符的诊断配置无效</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_5">
+        <DE_TEXT>Die Diagnosekonfiguration ist inkonsistent</DE_TEXT>
+        <JA_TEXT>診断コンフィグレーションに一貫性がありません</JA_TEXT>
+        <EN_TEXT>The diagnostic configuration is inconsistent</EN_TEXT>
+        <IT_TEXT>La configurazione diagnostica è incongruente</IT_TEXT>
+        <FR_TEXT>La configuration diagnostic est inconsistante</FR_TEXT>
+        <ES_TEXT>La configuración de diagnóstico es incoherente</ES_TEXT>
+        <NL_TEXT>De diagnoseconfiguratie is niet consistent</NL_TEXT>
+        <ZH_TEXT>诊断配置不一致</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_6">
+        <DE_TEXT>Das Diagnosegerät kann die Diagnosekonfiguration nicht verarbeiten</DE_TEXT>
+        <JA_TEXT>診断装置は診断コンフィグレーションを編集することができません</JA_TEXT>
+        <EN_TEXT>The diagnostic unit cannot process the diagnostic configuration</EN_TEXT>
+        <IT_TEXT>Il dispositivo di diagnostica non può elaborare la configurazione diagnostica</IT_TEXT>
+        <FR_TEXT>L'appareil de diagnostic ne peut pas traiter la configuration diagnostic</FR_TEXT>
+        <ES_TEXT>El dispositivo de diagnóstico no puede procesar la configuración de diagnóstico</ES_TEXT>
+        <NL_TEXT>Het diagnoseapparaat kan de diagnoseconfiguratie niet verwerken</NL_TEXT>
+        <ZH_TEXT>诊断设备不能处理诊断配置</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_9">
+        <DE_TEXT>Auf dem PNOZmulti ist die Diagnose abgeschaltet</DE_TEXT>
+        <JA_TEXT>PNOZmultiの診断スイッチは切られています</JA_TEXT>
+        <EN_TEXT>Diagnostics are switched off on the PNOZmulti</EN_TEXT>
+        <IT_TEXT>Sul PNOZmulti la diagnostica è disattivata</IT_TEXT>
+        <FR_TEXT>Le diagnostic est coupé sur le PNOZmulti</FR_TEXT>
+        <ES_TEXT>El diagnóstico está desactivado en el PNOZmulti</ES_TEXT>
+        <NL_TEXT>Diagnose is uitgeschakeld op PNOZmulti</NL_TEXT>
+        <ZH_TEXT>PNOZmulti上的诊断功能关闭</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_10">
+        <DE_TEXT>Auf dem PNOZmulti ist keine Diagnosekonfiguration vorhanden</DE_TEXT>
+        <JA_TEXT>PNOZmultiには診断コンフィグレーションがありません</JA_TEXT>
+        <EN_TEXT>There is no diagnostic configuration available on the PNOZmulti</EN_TEXT>
+        <IT_TEXT>Sul PNOZmulti non è disponibile nessuna configurazione diagnostica</IT_TEXT>
+        <FR_TEXT>Il n'y a aucune configuration diagnostic sur le PNOZmulti</FR_TEXT>
+        <ES_TEXT>No hay ninguna configuración de diagnóstico en el PNOZmulti</ES_TEXT>
+        <NL_TEXT>Op PNOZmulti is geen diagnoseconfiguratie aanwezig</NL_TEXT>
+        <ZH_TEXT>PNOZmulti上没有诊断配置</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_11">
+        <DE_TEXT>Diagnose kann nicht ausgeführt werden, weil das PNOZmulti PVIS nicht unterstützt</DE_TEXT>
+        <JA_TEXT>PNOZmultiはPVISをサポートしないため、診断をすることができません</JA_TEXT>
+        <EN_TEXT>Cannot run diagnostics because the PNOZmulti does not support PVIS</EN_TEXT>
+        <IT_TEXT>Impossibile eseguire la diagnostica perché PNOZmulti non supporta PVIS</IT_TEXT>
+        <FR_TEXT>Impossible d'exécuter le diagnostic, car le PNOZmulti ne prend pas le PVIS en charge</FR_TEXT>
+        <ES_TEXT>No se puede ejecutar el diagnóstico porque el PNOZmulti no respalda PVIS</ES_TEXT>
+        <NL_TEXT>Diagnose kan niet uitgevoerd worden, omdat de PNOZmulti PVIS niet ondersteunt</NL_TEXT>
+        <ZH_TEXT>不能运行诊断，因为PNOZmulti不支持PVIS</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_12">
+        <DE_TEXT>Die Konfiguration auf dem PNOZmulti wurde geändert</DE_TEXT>
+        <JA_TEXT>PNOZmultiのコンフィグレーションが変更されています</JA_TEXT>
+        <EN_TEXT>The configuration on the PNOZmulti has been changed</EN_TEXT>
+        <IT_TEXT>La configurazione sul PNOZmulti è stata modificata</IT_TEXT>
+        <FR_TEXT>La configuration sur le PNOZmulti a été modifiée</FR_TEXT>
+        <ES_TEXT>La configuración del PNOZmulti se ha modificado</ES_TEXT>
+        <NL_TEXT>De configuratie op de PNOZmulti is gewijzigd</NL_TEXT>
+        <ZH_TEXT>PNOZmulti上的配置已变更</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_13">
+        <DE_TEXT>Der Zustand des PNOZmulti wird ermittelt</DE_TEXT>
+        <JA_TEXT>PNOZmultiの状態をしらべています</JA_TEXT>
+        <EN_TEXT>Establishing the status of the PNOZmulti</EN_TEXT>
+        <IT_TEXT>Rilevazione dello stato del PNOZmulti</IT_TEXT>
+        <FR_TEXT>Détermination de l'état du PNOZmulti</FR_TEXT>
+        <ES_TEXT>Determinando el estado del PNOZmulti</ES_TEXT>
+        <NL_TEXT>Status van de PNOZmulti wordt bepaald</NL_TEXT>
+        <ZH_TEXT>建立PNOZmulti的工作状态</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_16">
+        <DE_TEXT>Die Verbindung zum PNOZmulti wird aufgebaut</DE_TEXT>
+        <JA_TEXT>PNOZmultiへ接続しています</JA_TEXT>
+        <EN_TEXT>Establishing a connection to the PNOZmulti</EN_TEXT>
+        <IT_TEXT>Instaurazione del collegamento a PNOZmulti</IT_TEXT>
+        <FR_TEXT>Établissement de la liaison avec le PNOZmulti</FR_TEXT>
+        <ES_TEXT>Estableciendo conexión con el PNOZmulti</ES_TEXT>
+        <NL_TEXT>Verbinding met PNOZmulti wordt tot stand gebracht</NL_TEXT>
+        <ZH_TEXT>与PNOZmulti 建立连接</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_17">
+        <DE_TEXT>---</DE_TEXT>
+        <JA_TEXT>---</JA_TEXT>
+        <EN_TEXT>---</EN_TEXT>
+        <IT_TEXT>---</IT_TEXT>
+        <FR_TEXT>---</FR_TEXT>
+        <ES_TEXT>---</ES_TEXT>
+        <NL_TEXT>---</NL_TEXT>
+        <ZH_TEXT>---</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_18">
+        <DE_TEXT>Für diese Schutzeinrichtung sind keine Ereignismeldungen definiert</DE_TEXT>
+        <JA_TEXT>この保護装置にはイベントレポートの定義がされていません</JA_TEXT>
+        <EN_TEXT>No event messages are defined for this safety device</EN_TEXT>
+        <IT_TEXT>Per questo dispositivo di protezione non sono definiti messaggi di evento</IT_TEXT>
+        <FR_TEXT>Aucun message événement n'a été défini pour ce dispositif de protection</FR_TEXT>
+        <ES_TEXT>No se han definido mensajes de evento para este dispositivo de protección</ES_TEXT>
+        <NL_TEXT>Voor deze veiligheidsvoorziening zijn geen gebeurtenismeldingen gedefinieerd</NL_TEXT>
+        <ZH_TEXT>没有为本安全设备定义事件信息</ZH_TEXT>
+    </TEXT>
+    <TEXT id="ERT0002_19">
+        <DE_TEXT>Für diesen Operanden (Diagnosepunkt) sind keine Ereignismeldungen definiert</DE_TEXT>
+        <JA_TEXT>このオペランド(診断ポイント）にはイベントレポートの定義がされていません</JA_TEXT>
+        <EN_TEXT>No event messages are defined for this operand (diagnostic point)</EN_TEXT>
+        <IT_TEXT>Per questo operando (punto di diagnostica) non sono definiti messaggi di evento</IT_TEXT>
+        <FR_TEXT>Aucun message événement n'a été défini pour cet opérande (point de diagnostic)</FR_TEXT>
+        <ES_TEXT>No se han definido mensajes de evento para este operando (punto de diagnóstico)</ES_TEXT>
+        <NL_TEXT>Voor deze operands (diagnosepunt) zijn geen gebeurtenismeldingen gedefinieerd</NL_TEXT>
+        <ZH_TEXT>没有为本操作符（诊断点）定义事件信息</ZH_TEXT>
+    </TEXT>
+</SYS_ERROR_TEXT>
